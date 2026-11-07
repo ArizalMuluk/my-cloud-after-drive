@@ -1,0 +1,4001 @@
+user_id,tenure_months,monthly_watch_hours,customer_support_calls,device_type,payment_method,subscription_action
+USR-00001,39,47.0,3,Smart TV,E-Wallet,Retain
+USR-00002,52,98.7,5,Mobile,Credit Card,Retain
+USR-00003,29,140.9,3,Mobile,Credit Card,Retain
+USR-00004,15,130.9,5,Mobile,Credit Card,Retain
+USR-00005,43,115.4,0,Web,Bank Transfer,Retain
+USR-00006,8,118.7,5,Web,E-Wallet,Retain
+USR-00007,21,100.4,5,Mobile,Credit Card,Retain
+USR-00008,39,40.5,2,Smart TV,E-Wallet,Retain
+USR-00009,58,136.3,5,Mobile,E-Wallet,Retain
+USR-00010,19,101.3,2,Mobile,Credit Card,Retain
+USR-00011,23,84.9,1,Mobile,Credit Card,Retain
+USR-00012,11,18.4,4,Mobile,E-Wallet,Downgrade
+USR-00013,11,68.2,5,Smart TV,E-Wallet,Retain
+USR-00014,24,70.1,1,Web,E-Wallet,Retain
+USR-00015,53,130.0,2,Smart TV,Bank Transfer,Upgrade
+USR-00016,36,82.9,5,Mobile,Credit Card,Retain
+USR-00017,40,58.3,5,Smart TV,Credit Card,Retain
+USR-00018,24,146.6,0,Web,Bank Transfer,Retain
+USR-00019,3,18.4,1,Smart TV,Credit Card,Retain
+USR-00020,22,64.5,3,Smart TV,E-Wallet,Retain
+USR-00021,53,8.2,3,Smart TV,E-Wallet,Retain
+USR-00022,2,111.5,0,Smart TV,E-Wallet,Upgrade
+USR-00023,24,137.9,2,Smart TV,Credit Card,Upgrade
+USR-00024,44,43.4,3,Mobile,E-Wallet,Retain
+USR-00025,30,129.0,3,Mobile,Bank Transfer,Retain
+USR-00026,38,45.2,4,Smart TV,E-Wallet,Retain
+USR-00027,2,136.8,1,Smart TV,Credit Card,Retain
+USR-00028,21,113.6,2,Web,Credit Card,Retain
+USR-00029,33,121.1,5,Mobile,Credit Card,Retain
+USR-00030,12,4.7,1,Mobile,Credit Card,Retain
+USR-00031,58,144.5,2,Mobile,Credit Card,Retain
+USR-00032,22,109.5,3,Smart TV,Bank Transfer,Upgrade
+USR-00033,44,47.1,4,Smart TV,E-Wallet,Retain
+USR-00034,25,124.8,1,Smart TV,E-Wallet,Upgrade
+USR-00035,49,43.7,3,Web,E-Wallet,Retain
+USR-00036,27,131.2,2,Web,Credit Card,Retain
+USR-00037,59,18.7,1,Mobile,Bank Transfer,Downgrade
+USR-00038,42,106.1,5,Smart TV,Credit Card,Upgrade
+USR-00039,28,82.0,1,Smart TV,Credit Card,Retain
+USR-00040,16,16.3,3,Smart TV,Credit Card,Downgrade
+USR-00041,15,37.8,1,Mobile,Bank Transfer,Retain
+USR-00042,47,3.8,5,Smart TV,Bank Transfer,Churn
+USR-00043,51,71.4,4,Web,Credit Card,Retain
+USR-00044,44,46.6,4,Smart TV,Bank Transfer,Retain
+USR-00045,55,90.6,3,Web,Credit Card,Retain
+USR-00046,52,46.0,2,Mobile,Credit Card,Retain
+USR-00047,57,46.4,3,Mobile,Bank Transfer,Retain
+USR-00048,3,112.0,4,Mobile,Bank Transfer,Retain
+USR-00049,37,9.1,0,Mobile,E-Wallet,Retain
+USR-00050,51,135.6,0,Mobile,E-Wallet,Retain
+USR-00051,7,128.1,1,Mobile,Bank Transfer,Retain
+USR-00052,21,100.8,5,Mobile,E-Wallet,Retain
+USR-00053,9,89.8,1,Web,Bank Transfer,Retain
+USR-00054,39,134.1,0,Mobile,E-Wallet,Retain
+USR-00055,18,29.4,4,Mobile,Bank Transfer,Retain
+USR-00056,4,13.7,1,Web,Bank Transfer,Retain
+USR-00057,25,37.4,3,Smart TV,Credit Card,Retain
+USR-00058,14,119.6,5,Smart TV,Bank Transfer,Upgrade
+USR-00059,50,7.1,3,Mobile,Credit Card,Retain
+USR-00060,58,88.3,5,Mobile,Credit Card,Retain
+USR-00061,9,149.3,4,Web,E-Wallet,Retain
+USR-00062,26,128.6,1,Mobile,Credit Card,Retain
+USR-00063,53,79.2,5,Mobile,E-Wallet,Retain
+USR-00064,2,11.4,3,Mobile,Bank Transfer,Downgrade
+USR-00065,20,125.0,1,Smart TV,Credit Card,Upgrade
+USR-00066,28,90.6,1,Mobile,Credit Card,Retain
+USR-00067,47,19.0,3,Web,Bank Transfer,Downgrade
+USR-00068,7,15.9,0,Smart TV,Credit Card,Retain
+USR-00069,44,136.6,5,Mobile,Credit Card,Retain
+USR-00070,8,101.0,3,Mobile,Credit Card,Retain
+USR-00071,47,124.7,4,Smart TV,E-Wallet,Upgrade
+USR-00072,35,132.1,2,Smart TV,E-Wallet,Upgrade
+USR-00073,14,86.6,3,Web,Bank Transfer,Retain
+USR-00074,17,78.6,1,Smart TV,Credit Card,Retain
+USR-00075,36,65.7,1,Smart TV,Bank Transfer,Retain
+USR-00076,50,48.9,3,Smart TV,E-Wallet,Retain
+USR-00077,40,66.3,2,Mobile,Credit Card,Retain
+USR-00078,4,116.5,3,Mobile,E-Wallet,Retain
+USR-00079,2,91.1,2,Mobile,E-Wallet,Retain
+USR-00080,6,134.1,2,Smart TV,E-Wallet,Upgrade
+USR-00081,54,67.6,4,Web,Credit Card,Retain
+USR-00082,42,91.8,5,Smart TV,Credit Card,Retain
+USR-00083,4,95.4,1,Smart TV,Credit Card,Retain
+USR-00084,54,89.6,1,Mobile,Credit Card,Retain
+USR-00085,29,106.0,2,Smart TV,E-Wallet,Upgrade
+USR-00086,18,37.1,1,Web,Credit Card,Retain
+USR-00087,26,77.8,0,Web,E-Wallet,Retain
+USR-00088,44,17.4,2,Smart TV,Credit Card,Downgrade
+USR-00089,34,58.9,1,Web,Credit Card,Retain
+USR-00090,10,74.2,0,Mobile,E-Wallet,Retain
+USR-00091,36,98.5,4,Web,Credit Card,Retain
+USR-00092,14,142.7,1,Smart TV,Bank Transfer,Upgrade
+USR-00093,31,90.9,0,Mobile,Credit Card,Retain
+USR-00094,48,112.1,3,Smart TV,Credit Card,Upgrade
+USR-00095,15,76.9,5,Web,Bank Transfer,Churn
+USR-00096,8,95.8,3,Smart TV,E-Wallet,Retain
+USR-00097,14,12.5,0,Mobile,Credit Card,Retain
+USR-00098,23,39.6,2,Smart TV,Credit Card,Retain
+USR-00099,57,55.6,2,Smart TV,E-Wallet,Retain
+USR-00100,40,71.9,1,Mobile,Bank Transfer,Retain
+USR-00101,21,8.8,3,Web,Bank Transfer,Retain
+USR-00102,16,22.7,2,Mobile,Credit Card,Downgrade
+USR-00103,45,43.0,2,Web,Bank Transfer,Retain
+USR-00104,18,145.8,3,Smart TV,Credit Card,Upgrade
+USR-00105,47,51.0,4,Mobile,Credit Card,Retain
+USR-00106,53,73.3,2,Mobile,Bank Transfer,Retain
+USR-00107,24,31.0,5,Smart TV,Credit Card,Retain
+USR-00108,26,92.4,0,Mobile,Credit Card,Retain
+USR-00109,25,43.5,1,Mobile,Credit Card,Retain
+USR-00110,45,32.6,2,Mobile,Credit Card,Retain
+USR-00111,41,78.5,5,Mobile,E-Wallet,Retain
+USR-00112,29,2.8,5,Mobile,E-Wallet,Churn
+USR-00113,15,3.1,2,Smart TV,Credit Card,Churn
+USR-00114,45,34.4,4,Smart TV,E-Wallet,Retain
+USR-00115,1,7.4,0,Mobile,Bank Transfer,Retain
+USR-00116,25,18.0,1,Smart TV,Bank Transfer,Retain
+USR-00117,7,52.2,2,Smart TV,Credit Card,Retain
+USR-00118,9,120.8,1,Mobile,Bank Transfer,Retain
+USR-00119,24,86.7,3,Mobile,E-Wallet,Retain
+USR-00120,1,77.9,5,Smart TV,Credit Card,Retain
+USR-00121,44,45.4,5,Mobile,Credit Card,Retain
+USR-00122,8,139.9,2,Mobile,Credit Card,Retain
+USR-00123,24,60.8,2,Smart TV,E-Wallet,Retain
+USR-00124,11,14.9,3,Mobile,Credit Card,Downgrade
+USR-00125,51,93.3,4,Mobile,E-Wallet,Retain
+USR-00126,17,18.8,2,Mobile,Credit Card,Downgrade
+USR-00127,8,53.1,5,Mobile,Bank Transfer,Retain
+USR-00128,35,77.1,1,Smart TV,Credit Card,Retain
+USR-00129,35,131.4,0,Mobile,Bank Transfer,Retain
+USR-00130,33,75.0,1,Smart TV,Bank Transfer,Retain
+USR-00131,59,105.9,4,Web,Credit Card,Retain
+USR-00132,5,148.9,0,Web,Credit Card,Retain
+USR-00133,42,21.5,1,Mobile,Credit Card,Retain
+USR-00134,39,42.7,1,Smart TV,Bank Transfer,Retain
+USR-00135,58,60.4,3,Smart TV,E-Wallet,Retain
+USR-00136,41,64.4,4,Smart TV,Credit Card,Retain
+USR-00137,28,62.8,5,Mobile,Credit Card,Retain
+USR-00138,7,136.3,3,Smart TV,Credit Card,Upgrade
+USR-00139,9,107.7,0,Mobile,Bank Transfer,Retain
+USR-00140,8,92.0,5,Smart TV,E-Wallet,Retain
+USR-00141,12,47.8,3,Web,Bank Transfer,Retain
+USR-00142,34,123.9,4,Smart TV,Credit Card,Upgrade
+USR-00143,33,143.3,2,Web,Credit Card,Retain
+USR-00144,48,123.5,2,Web,Bank Transfer,Retain
+USR-00145,55,2.2,0,Mobile,Credit Card,Retain
+USR-00146,23,96.2,2,Mobile,Bank Transfer,Retain
+USR-00147,24,9.6,3,Mobile,Credit Card,Retain
+USR-00148,37,40.1,0,Mobile,Credit Card,Retain
+USR-00149,35,10.8,5,Smart TV,E-Wallet,Retain
+USR-00150,44,91.4,4,Smart TV,Bank Transfer,Retain
+USR-00151,40,103.6,0,Mobile,Bank Transfer,Retain
+USR-00152,22,18.9,5,Mobile,Credit Card,Retain
+USR-00153,27,58.8,0,Mobile,Credit Card,Retain
+USR-00154,35,69.5,1,Smart TV,E-Wallet,Retain
+USR-00155,1,56.6,1,Smart TV,E-Wallet,Retain
+USR-00156,35,19.9,0,Smart TV,E-Wallet,Retain
+USR-00157,37,64.0,2,Smart TV,Credit Card,Retain
+USR-00158,47,113.2,1,Smart TV,Bank Transfer,Upgrade
+USR-00159,14,12.5,4,Smart TV,E-Wallet,Retain
+USR-00160,3,13.9,5,Smart TV,Bank Transfer,Retain
+USR-00161,1,54.5,3,Web,E-Wallet,Retain
+USR-00162,5,141.4,1,Smart TV,Credit Card,Upgrade
+USR-00163,26,100.9,0,Mobile,Bank Transfer,Retain
+USR-00164,55,102.4,2,Smart TV,E-Wallet,Upgrade
+USR-00165,14,55.6,3,Web,Bank Transfer,Retain
+USR-00166,39,89.9,5,Mobile,Bank Transfer,Retain
+USR-00167,27,3.5,5,Smart TV,E-Wallet,Churn
+USR-00168,9,96.1,1,Mobile,E-Wallet,Retain
+USR-00169,15,137.2,5,Smart TV,Credit Card,Upgrade
+USR-00170,15,92.7,5,Mobile,Credit Card,Retain
+USR-00171,26,131.3,2,Smart TV,Credit Card,Upgrade
+USR-00172,42,109.1,2,Web,Credit Card,Retain
+USR-00173,13,19.8,2,Mobile,Credit Card,Downgrade
+USR-00174,51,135.6,0,Smart TV,Credit Card,Upgrade
+USR-00175,32,11.8,5,Mobile,Credit Card,Retain
+USR-00176,39,81.0,5,Smart TV,Credit Card,Retain
+USR-00177,49,23.0,5,Web,Credit Card,Retain
+USR-00178,52,3.7,4,Mobile,Credit Card,Churn
+USR-00179,32,64.5,2,Mobile,E-Wallet,Retain
+USR-00180,4,45.7,3,Smart TV,E-Wallet,Retain
+USR-00181,30,73.9,1,Web,Credit Card,Retain
+USR-00182,37,87.4,3,Mobile,E-Wallet,Retain
+USR-00183,23,8.5,0,Smart TV,Bank Transfer,Retain
+USR-00184,39,20.2,0,Smart TV,Credit Card,Retain
+USR-00185,45,84.7,5,Smart TV,E-Wallet,Retain
+USR-00186,15,52.8,3,Web,Bank Transfer,Retain
+USR-00187,43,109.9,5,Smart TV,Bank Transfer,Upgrade
+USR-00188,29,98.5,4,Mobile,Credit Card,Retain
+USR-00189,36,127.1,0,Smart TV,E-Wallet,Upgrade
+USR-00190,13,104.5,0,Smart TV,Credit Card,Upgrade
+USR-00191,32,65.6,3,Mobile,E-Wallet,Retain
+USR-00192,7,101.6,0,Web,Bank Transfer,Retain
+USR-00193,59,42.8,4,Mobile,E-Wallet,Retain
+USR-00194,51,47.3,4,Web,Bank Transfer,Retain
+USR-00195,22,118.8,4,Mobile,Credit Card,Retain
+USR-00196,28,68.1,1,Smart TV,Bank Transfer,Retain
+USR-00197,2,120.2,4,Smart TV,E-Wallet,Retain
+USR-00198,42,123.7,4,Mobile,Credit Card,Retain
+USR-00199,45,128.9,1,Web,E-Wallet,Retain
+USR-00200,57,137.7,5,Web,Credit Card,Retain
+USR-00201,53,65.8,2,Smart TV,Credit Card,Retain
+USR-00202,6,49.2,0,Smart TV,Bank Transfer,Retain
+USR-00203,28,88.2,4,Smart TV,Credit Card,Retain
+USR-00204,28,56.9,0,Web,E-Wallet,Retain
+USR-00205,44,91.0,3,Web,Credit Card,Retain
+USR-00206,44,106.4,0,Mobile,Credit Card,Retain
+USR-00207,20,103.9,5,Smart TV,Bank Transfer,Upgrade
+USR-00208,30,57.4,1,Mobile,Credit Card,Retain
+USR-00209,11,26.7,0,Mobile,E-Wallet,Retain
+USR-00210,58,65.7,0,Smart TV,E-Wallet,Retain
+USR-00211,55,23.1,0,Mobile,E-Wallet,Retain
+USR-00212,28,133.7,2,Smart TV,Bank Transfer,Upgrade
+USR-00213,25,53.2,2,Smart TV,E-Wallet,Retain
+USR-00214,39,24.9,3,Web,Credit Card,Downgrade
+USR-00215,33,5.8,1,Mobile,Bank Transfer,Retain
+USR-00216,1,97.6,0,Mobile,Credit Card,Retain
+USR-00217,57,96.3,0,Mobile,E-Wallet,Retain
+USR-00218,27,52.4,0,Smart TV,Bank Transfer,Retain
+USR-00219,57,12.6,0,Mobile,E-Wallet,Retain
+USR-00220,52,62.6,2,Mobile,Bank Transfer,Retain
+USR-00221,13,48.1,5,Mobile,E-Wallet,Retain
+USR-00222,41,102.2,5,Mobile,Bank Transfer,Retain
+USR-00223,3,91.7,3,Smart TV,Bank Transfer,Retain
+USR-00224,39,56.0,4,Smart TV,Credit Card,Retain
+USR-00225,6,34.2,1,Mobile,Credit Card,Retain
+USR-00226,8,148.2,5,Smart TV,Credit Card,Upgrade
+USR-00227,27,69.2,0,Mobile,E-Wallet,Retain
+USR-00228,9,103.9,5,Smart TV,Credit Card,Retain
+USR-00229,37,22.8,3,Smart TV,Credit Card,Downgrade
+USR-00230,33,73.9,4,Smart TV,Credit Card,Retain
+USR-00231,51,6.1,5,Web,Bank Transfer,Churn
+USR-00232,42,76.8,3,Smart TV,E-Wallet,Retain
+USR-00233,44,144.7,2,Mobile,Credit Card,Retain
+USR-00234,24,58.9,4,Mobile,Credit Card,Churn
+USR-00235,15,7.8,3,Smart TV,Credit Card,Retain
+USR-00236,59,6.6,5,Mobile,Credit Card,Churn
+USR-00237,54,59.4,2,Mobile,Credit Card,Retain
+USR-00238,32,25.7,3,Mobile,Bank Transfer,Downgrade
+USR-00239,32,5.5,3,Web,Bank Transfer,Retain
+USR-00240,24,113.9,5,Smart TV,Credit Card,Upgrade
+USR-00241,41,69.9,4,Smart TV,Credit Card,Retain
+USR-00242,52,44.8,2,Web,Credit Card,Retain
+USR-00243,49,135.2,0,Smart TV,Credit Card,Upgrade
+USR-00244,49,19.2,1,Mobile,Credit Card,Retain
+USR-00245,58,143.5,4,Mobile,Credit Card,Retain
+USR-00246,52,48.5,2,Smart TV,Credit Card,Retain
+USR-00247,12,133.5,3,Mobile,E-Wallet,Retain
+USR-00248,39,91.2,2,Smart TV,E-Wallet,Retain
+USR-00249,2,124.4,1,Smart TV,E-Wallet,Retain
+USR-00250,3,147.6,5,Smart TV,Credit Card,Upgrade
+USR-00251,49,44.7,1,Web,Bank Transfer,Retain
+USR-00252,37,144.2,0,Smart TV,Bank Transfer,Upgrade
+USR-00253,49,59.6,0,Mobile,Credit Card,Retain
+USR-00254,56,59.1,1,Web,Credit Card,Retain
+USR-00255,17,52.4,4,Mobile,E-Wallet,Retain
+USR-00256,59,82.1,4,Mobile,Credit Card,Retain
+USR-00257,49,24.8,3,Mobile,Credit Card,Downgrade
+USR-00258,2,83.9,0,Smart TV,E-Wallet,Retain
+USR-00259,2,82.2,3,Mobile,E-Wallet,Retain
+USR-00260,28,114.8,0,Mobile,Credit Card,Retain
+USR-00261,54,125.4,1,Web,E-Wallet,Retain
+USR-00262,23,67.2,4,Web,Bank Transfer,Retain
+USR-00263,37,46.7,4,Web,Credit Card,Retain
+USR-00264,32,40.4,1,Web,E-Wallet,Retain
+USR-00265,33,30.8,3,Mobile,Credit Card,Retain
+USR-00266,1,10.5,3,Mobile,Credit Card,Downgrade
+USR-00267,19,52.7,2,Web,E-Wallet,Retain
+USR-00268,2,42.0,0,Smart TV,Credit Card,Retain
+USR-00269,53,145.0,3,Web,Credit Card,Retain
+USR-00270,44,84.5,1,Mobile,Credit Card,Retain
+USR-00271,26,53.4,3,Mobile,E-Wallet,Retain
+USR-00272,32,87.9,4,Mobile,E-Wallet,Retain
+USR-00273,6,22.6,0,Web,Credit Card,Retain
+USR-00274,32,67.7,5,Smart TV,E-Wallet,Retain
+USR-00275,55,94.7,2,Mobile,Credit Card,Retain
+USR-00276,4,74.4,0,Mobile,E-Wallet,Retain
+USR-00277,55,61.5,4,Smart TV,Credit Card,Retain
+USR-00278,11,149.1,4,Mobile,E-Wallet,Retain
+USR-00279,56,132.3,4,Mobile,Bank Transfer,Retain
+USR-00280,59,94.3,4,Mobile,Bank Transfer,Retain
+USR-00281,17,86.3,1,Smart TV,Credit Card,Retain
+USR-00282,38,93.9,2,Mobile,Bank Transfer,Retain
+USR-00283,24,31.8,5,Mobile,Credit Card,Retain
+USR-00284,5,60.5,4,Mobile,Bank Transfer,Retain
+USR-00285,52,7.8,4,Smart TV,Credit Card,Churn
+USR-00286,34,72.4,3,Web,Credit Card,Retain
+USR-00287,6,82.4,2,Mobile,Credit Card,Retain
+USR-00288,22,35.7,0,Mobile,Credit Card,Retain
+USR-00289,11,144.7,2,Mobile,E-Wallet,Retain
+USR-00290,48,136.6,2,Smart TV,Bank Transfer,Upgrade
+USR-00291,16,108.9,5,Mobile,E-Wallet,Retain
+USR-00292,33,80.9,2,Mobile,E-Wallet,Retain
+USR-00293,9,130.8,5,Mobile,E-Wallet,Retain
+USR-00294,59,21.3,4,Mobile,Credit Card,Retain
+USR-00295,6,119.0,4,Mobile,Credit Card,Retain
+USR-00296,16,20.5,1,Smart TV,Credit Card,Retain
+USR-00297,29,119.5,5,Mobile,Credit Card,Retain
+USR-00298,3,42.8,5,Smart TV,Credit Card,Retain
+USR-00299,20,131.8,0,Smart TV,Credit Card,Upgrade
+USR-00300,59,141.7,3,Web,Credit Card,Retain
+USR-00301,36,24.0,2,Mobile,Credit Card,Downgrade
+USR-00302,19,70.5,0,Mobile,Bank Transfer,Retain
+USR-00303,26,147.2,5,Mobile,Credit Card,Retain
+USR-00304,3,73.5,0,Web,E-Wallet,Retain
+USR-00305,19,129.8,1,Mobile,E-Wallet,Retain
+USR-00306,20,89.1,3,Mobile,E-Wallet,Retain
+USR-00307,32,57.5,5,Smart TV,Credit Card,Retain
+USR-00308,7,44.3,5,Web,Credit Card,Retain
+USR-00309,52,32.1,2,Web,Credit Card,Retain
+USR-00310,41,114.7,3,Web,Credit Card,Retain
+USR-00311,33,59.2,1,Smart TV,Credit Card,Retain
+USR-00312,40,77.7,4,Smart TV,E-Wallet,Retain
+USR-00313,39,74.9,0,Smart TV,E-Wallet,Retain
+USR-00314,18,87.4,2,Smart TV,E-Wallet,Retain
+USR-00315,40,130.1,5,Web,Credit Card,Retain
+USR-00316,1,147.1,4,Smart TV,Credit Card,Retain
+USR-00317,11,62.3,1,Smart TV,Bank Transfer,Retain
+USR-00318,28,124.5,3,Smart TV,Credit Card,Upgrade
+USR-00319,57,115.2,0,Smart TV,E-Wallet,Upgrade
+USR-00320,25,86.9,2,Smart TV,E-Wallet,Retain
+USR-00321,50,143.5,5,Mobile,Credit Card,Retain
+USR-00322,23,31.7,5,Mobile,Credit Card,Retain
+USR-00323,31,18.2,4,Smart TV,Credit Card,Retain
+USR-00324,30,128.4,4,Mobile,Credit Card,Retain
+USR-00325,42,67.0,0,Mobile,Credit Card,Retain
+USR-00326,35,127.4,3,Smart TV,Credit Card,Upgrade
+USR-00327,7,134.2,1,Mobile,Credit Card,Retain
+USR-00328,16,11.2,3,Mobile,E-Wallet,Downgrade
+USR-00329,26,132.8,3,Mobile,Bank Transfer,Retain
+USR-00330,48,68.4,3,Mobile,Credit Card,Retain
+USR-00331,57,77.5,0,Smart TV,Bank Transfer,Retain
+USR-00332,52,94.7,0,Web,Bank Transfer,Retain
+USR-00333,49,139.1,1,Web,Bank Transfer,Retain
+USR-00334,2,4.8,3,Web,Bank Transfer,Retain
+USR-00335,1,72.6,0,Smart TV,Credit Card,Retain
+USR-00336,48,103.8,1,Web,Credit Card,Retain
+USR-00337,12,109.0,5,Web,E-Wallet,Retain
+USR-00338,5,104.5,1,Web,E-Wallet,Retain
+USR-00339,37,21.9,3,Smart TV,Bank Transfer,Downgrade
+USR-00340,32,46.3,2,Mobile,Bank Transfer,Retain
+USR-00341,59,55.1,3,Web,E-Wallet,Retain
+USR-00342,55,121.1,2,Mobile,Credit Card,Retain
+USR-00343,9,43.3,1,Mobile,Credit Card,Retain
+USR-00344,41,33.2,5,Web,Credit Card,Retain
+USR-00345,35,143.7,5,Mobile,E-Wallet,Retain
+USR-00346,19,3.3,0,Mobile,E-Wallet,Churn
+USR-00347,48,149.7,5,Mobile,Bank Transfer,Retain
+USR-00348,16,102.2,4,Web,E-Wallet,Retain
+USR-00349,3,124.6,1,Smart TV,Bank Transfer,Upgrade
+USR-00350,20,45.6,0,Mobile,E-Wallet,Retain
+USR-00351,24,4.1,5,Mobile,Bank Transfer,Churn
+USR-00352,54,111.2,1,Mobile,Credit Card,Retain
+USR-00353,56,125.5,3,Mobile,Bank Transfer,Retain
+USR-00354,33,111.6,5,Web,E-Wallet,Retain
+USR-00355,24,23.1,2,Web,Credit Card,Downgrade
+USR-00356,52,113.5,1,Smart TV,Credit Card,Upgrade
+USR-00357,11,115.8,0,Mobile,Bank Transfer,Retain
+USR-00358,49,99.5,3,Smart TV,Credit Card,Retain
+USR-00359,8,115.4,4,Smart TV,Credit Card,Upgrade
+USR-00360,36,127.2,3,Mobile,Credit Card,Retain
+USR-00361,38,92.8,5,Web,E-Wallet,Retain
+USR-00362,40,15.1,2,Web,Bank Transfer,Downgrade
+USR-00363,20,74.2,3,Smart TV,Credit Card,Retain
+USR-00364,35,13.5,4,Smart TV,Credit Card,Retain
+USR-00365,48,62.3,0,Mobile,Bank Transfer,Retain
+USR-00366,25,62.3,1,Mobile,E-Wallet,Retain
+USR-00367,35,11.8,2,Smart TV,Bank Transfer,Downgrade
+USR-00368,25,53.6,4,Web,Credit Card,Retain
+USR-00369,29,18.4,5,Web,Credit Card,Retain
+USR-00370,18,121.6,5,Mobile,Credit Card,Retain
+USR-00371,46,142.3,5,Web,E-Wallet,Retain
+USR-00372,18,12.7,2,Smart TV,Credit Card,Downgrade
+USR-00373,2,143.4,3,Mobile,Credit Card,Retain
+USR-00374,54,79.3,2,Mobile,Credit Card,Retain
+USR-00375,35,46.3,5,Smart TV,Credit Card,Retain
+USR-00376,16,13.4,4,Web,Bank Transfer,Churn
+USR-00377,41,76.1,1,Mobile,Credit Card,Retain
+USR-00378,36,119.6,1,Mobile,E-Wallet,Retain
+USR-00379,33,106.6,2,Smart TV,Bank Transfer,Retain
+USR-00380,4,9.4,5,Smart TV,Credit Card,Churn
+USR-00381,33,12.8,0,Smart TV,E-Wallet,Retain
+USR-00382,14,61.6,2,Mobile,Bank Transfer,Retain
+USR-00383,21,45.7,5,Mobile,Bank Transfer,Churn
+USR-00384,48,36.4,3,Smart TV,Credit Card,Retain
+USR-00385,20,43.6,1,Mobile,Credit Card,Retain
+USR-00386,56,120.9,1,Mobile,Credit Card,Retain
+USR-00387,8,139.5,1,Mobile,E-Wallet,Retain
+USR-00388,7,62.0,0,Mobile,E-Wallet,Retain
+USR-00389,3,136.1,5,Web,E-Wallet,Retain
+USR-00390,17,49.6,5,Mobile,Credit Card,Retain
+USR-00391,33,72.5,5,Mobile,Credit Card,Retain
+USR-00392,48,35.5,5,Smart TV,E-Wallet,Retain
+USR-00393,12,96.8,0,Smart TV,Credit Card,Retain
+USR-00394,59,146.9,4,Smart TV,E-Wallet,Upgrade
+USR-00395,51,91.3,2,Mobile,Credit Card,Retain
+USR-00396,22,55.0,2,Smart TV,Credit Card,Retain
+USR-00397,55,97.9,5,Smart TV,Credit Card,Retain
+USR-00398,22,20.2,3,Mobile,Credit Card,Downgrade
+USR-00399,46,133.5,1,Smart TV,Credit Card,Upgrade
+USR-00400,30,76.5,0,Smart TV,Credit Card,Retain
+USR-00401,38,68.5,3,Smart TV,Credit Card,Retain
+USR-00402,38,88.7,3,Mobile,Credit Card,Retain
+USR-00403,45,94.5,5,Smart TV,Credit Card,Retain
+USR-00404,51,12.6,0,Mobile,E-Wallet,Retain
+USR-00405,54,103.0,2,Mobile,Credit Card,Retain
+USR-00406,8,37.8,1,Mobile,E-Wallet,Retain
+USR-00407,27,107.7,2,Mobile,E-Wallet,Retain
+USR-00408,27,123.7,3,Web,E-Wallet,Retain
+USR-00409,34,121.0,1,Smart TV,Bank Transfer,Retain
+USR-00410,21,83.8,4,Smart TV,Credit Card,Retain
+USR-00411,30,79.0,3,Smart TV,E-Wallet,Retain
+USR-00412,33,23.1,2,Smart TV,Bank Transfer,Downgrade
+USR-00413,28,116.8,2,Smart TV,Bank Transfer,Upgrade
+USR-00414,47,42.2,5,Smart TV,Credit Card,Retain
+USR-00415,33,75.5,2,Mobile,Credit Card,Retain
+USR-00416,5,44.1,0,Mobile,Credit Card,Retain
+USR-00417,48,21.8,3,Smart TV,E-Wallet,Downgrade
+USR-00418,19,95.2,1,Mobile,E-Wallet,Retain
+USR-00419,4,10.0,2,Smart TV,Credit Card,Downgrade
+USR-00420,35,112.8,5,Smart TV,E-Wallet,Retain
+USR-00421,49,49.0,5,Mobile,E-Wallet,Churn
+USR-00422,17,2.0,2,Smart TV,Credit Card,Retain
+USR-00423,44,77.6,0,Smart TV,Bank Transfer,Retain
+USR-00424,28,8.9,5,Mobile,E-Wallet,Churn
+USR-00425,30,42.9,1,Web,Credit Card,Retain
+USR-00426,29,106.6,3,Mobile,E-Wallet,Retain
+USR-00427,46,11.3,4,Smart TV,Credit Card,Retain
+USR-00428,53,126.2,0,Web,E-Wallet,Retain
+USR-00429,6,2.6,5,Mobile,Bank Transfer,Churn
+USR-00430,35,38.5,3,Mobile,Bank Transfer,Retain
+USR-00431,41,111.7,4,Web,Credit Card,Retain
+USR-00432,37,48.8,2,Mobile,Credit Card,Retain
+USR-00433,24,17.1,2,Smart TV,Credit Card,Downgrade
+USR-00434,29,55.3,1,Mobile,E-Wallet,Retain
+USR-00435,49,42.0,4,Mobile,Credit Card,Retain
+USR-00436,46,126.7,2,Mobile,E-Wallet,Retain
+USR-00437,53,48.4,2,Mobile,Credit Card,Retain
+USR-00438,31,118.8,5,Web,Credit Card,Retain
+USR-00439,35,134.0,1,Web,Credit Card,Upgrade
+USR-00440,33,66.2,3,Web,Bank Transfer,Retain
+USR-00441,52,136.7,2,Web,E-Wallet,Retain
+USR-00442,21,57.8,0,Web,Credit Card,Retain
+USR-00443,32,144.7,0,Smart TV,Credit Card,Retain
+USR-00444,23,15.2,3,Smart TV,E-Wallet,Downgrade
+USR-00445,33,103.7,4,Mobile,Credit Card,Retain
+USR-00446,3,75.1,1,Web,E-Wallet,Retain
+USR-00447,18,59.4,5,Mobile,Bank Transfer,Retain
+USR-00448,25,95.6,0,Mobile,E-Wallet,Retain
+USR-00449,42,106.2,0,Smart TV,E-Wallet,Upgrade
+USR-00450,31,2.6,3,Smart TV,E-Wallet,Retain
+USR-00451,54,26.7,4,Mobile,Bank Transfer,Downgrade
+USR-00452,58,107.5,4,Smart TV,Bank Transfer,Retain
+USR-00453,3,100.6,3,Smart TV,E-Wallet,Upgrade
+USR-00454,40,145.0,0,Smart TV,Credit Card,Upgrade
+USR-00455,46,114.6,1,Smart TV,Credit Card,Retain
+USR-00456,24,142.7,0,Mobile,Credit Card,Retain
+USR-00457,50,106.0,4,Smart TV,E-Wallet,Upgrade
+USR-00458,32,46.1,5,Mobile,E-Wallet,Retain
+USR-00459,47,17.6,0,Smart TV,Credit Card,Retain
+USR-00460,22,117.7,1,Web,Credit Card,Retain
+USR-00461,23,97.3,2,Smart TV,Credit Card,Retain
+USR-00462,2,9.1,0,Mobile,Bank Transfer,Retain
+USR-00463,27,55.3,3,Mobile,E-Wallet,Retain
+USR-00464,42,143.6,2,Smart TV,E-Wallet,Upgrade
+USR-00465,2,76.1,3,Web,Credit Card,Retain
+USR-00466,26,66.0,3,Mobile,E-Wallet,Retain
+USR-00467,17,69.7,3,Mobile,Credit Card,Retain
+USR-00468,40,32.9,0,Smart TV,E-Wallet,Retain
+USR-00469,33,56.6,4,Web,Credit Card,Retain
+USR-00470,9,56.7,2,Mobile,Credit Card,Retain
+USR-00471,43,9.7,1,Smart TV,Credit Card,Retain
+USR-00472,54,115.6,4,Smart TV,Credit Card,Upgrade
+USR-00473,48,63.6,0,Web,Bank Transfer,Retain
+USR-00474,39,123.7,3,Mobile,Credit Card,Retain
+USR-00475,29,127.9,1,Mobile,Credit Card,Retain
+USR-00476,42,33.4,2,Mobile,E-Wallet,Retain
+USR-00477,55,99.3,4,Mobile,Bank Transfer,Retain
+USR-00478,26,71.9,5,Smart TV,Credit Card,Retain
+USR-00479,35,132.3,4,Smart TV,E-Wallet,Upgrade
+USR-00480,50,33.9,1,Mobile,Bank Transfer,Retain
+USR-00481,25,102.3,0,Web,Credit Card,Retain
+USR-00482,24,91.9,2,Smart TV,Credit Card,Retain
+USR-00483,13,45.7,1,Mobile,Credit Card,Retain
+USR-00484,58,22.2,3,Mobile,Bank Transfer,Downgrade
+USR-00485,7,98.4,2,Mobile,Credit Card,Retain
+USR-00486,57,111.3,4,Web,Credit Card,Retain
+USR-00487,36,48.7,1,Mobile,E-Wallet,Retain
+USR-00488,45,97.4,4,Smart TV,E-Wallet,Retain
+USR-00489,20,60.5,4,Web,Credit Card,Retain
+USR-00490,1,107.6,4,Mobile,E-Wallet,Retain
+USR-00491,8,31.5,0,Web,Credit Card,Retain
+USR-00492,46,133.8,4,Mobile,Credit Card,Retain
+USR-00493,16,44.5,3,Web,E-Wallet,Retain
+USR-00494,14,56.4,3,Smart TV,Bank Transfer,Retain
+USR-00495,12,10.6,2,Smart TV,Credit Card,Downgrade
+USR-00496,51,18.5,5,Web,Bank Transfer,Retain
+USR-00497,23,78.3,4,Smart TV,E-Wallet,Retain
+USR-00498,15,41.6,4,Smart TV,Credit Card,Retain
+USR-00499,28,125.7,1,Mobile,E-Wallet,Retain
+USR-00500,34,4.2,0,Web,Credit Card,Retain
+USR-00501,2,58.1,5,Smart TV,Bank Transfer,Retain
+USR-00502,32,51.9,2,Web,Bank Transfer,Retain
+USR-00503,23,4.9,5,Mobile,Credit Card,Churn
+USR-00504,22,20.4,4,Mobile,Credit Card,Downgrade
+USR-00505,51,63.2,1,Web,Credit Card,Retain
+USR-00506,25,74.9,0,Mobile,Credit Card,Retain
+USR-00507,58,61.8,2,Smart TV,Credit Card,Retain
+USR-00508,22,80.6,5,Smart TV,Credit Card,Retain
+USR-00509,58,90.1,2,Mobile,E-Wallet,Retain
+USR-00510,58,3.5,4,Mobile,Credit Card,Churn
+USR-00511,22,70.7,2,Web,Bank Transfer,Retain
+USR-00512,49,144.6,1,Mobile,Bank Transfer,Retain
+USR-00513,52,78.8,2,Mobile,Credit Card,Retain
+USR-00514,42,102.3,3,Mobile,Bank Transfer,Retain
+USR-00515,6,48.2,1,Smart TV,Credit Card,Retain
+USR-00516,15,116.6,5,Smart TV,Credit Card,Upgrade
+USR-00517,54,116.4,0,Web,E-Wallet,Retain
+USR-00518,43,79.2,0,Smart TV,Credit Card,Retain
+USR-00519,37,146.5,4,Smart TV,E-Wallet,Upgrade
+USR-00520,33,20.6,4,Mobile,Bank Transfer,Retain
+USR-00521,8,4.5,3,Mobile,Bank Transfer,Churn
+USR-00522,53,116.0,5,Web,E-Wallet,Retain
+USR-00523,44,121.5,0,Smart TV,E-Wallet,Upgrade
+USR-00524,44,19.8,0,Smart TV,Credit Card,Retain
+USR-00525,5,41.3,0,Smart TV,Credit Card,Retain
+USR-00526,39,4.6,0,Mobile,E-Wallet,Retain
+USR-00527,4,45.4,2,Smart TV,Credit Card,Retain
+USR-00528,6,116.4,5,Mobile,Credit Card,Retain
+USR-00529,45,78.7,1,Web,Credit Card,Retain
+USR-00530,32,53.5,1,Web,E-Wallet,Retain
+USR-00531,52,57.0,3,Smart TV,Credit Card,Retain
+USR-00532,30,2.2,2,Mobile,E-Wallet,Retain
+USR-00533,47,46.4,0,Mobile,Credit Card,Retain
+USR-00534,35,97.7,0,Web,Credit Card,Retain
+USR-00535,55,146.2,4,Web,Credit Card,Retain
+USR-00536,40,127.4,4,Smart TV,Credit Card,Upgrade
+USR-00537,52,5.5,3,Mobile,Bank Transfer,Retain
+USR-00538,16,135.0,0,Smart TV,Credit Card,Upgrade
+USR-00539,13,117.9,3,Smart TV,Credit Card,Upgrade
+USR-00540,50,117.5,2,Smart TV,E-Wallet,Upgrade
+USR-00541,42,69.8,1,Mobile,Credit Card,Retain
+USR-00542,30,60.9,0,Mobile,Credit Card,Retain
+USR-00543,19,46.8,5,Smart TV,Credit Card,Retain
+USR-00544,17,11.7,2,Mobile,Bank Transfer,Downgrade
+USR-00545,56,35.8,0,Smart TV,E-Wallet,Retain
+USR-00546,19,38.5,5,Mobile,Credit Card,Retain
+USR-00547,28,73.6,4,Smart TV,Credit Card,Retain
+USR-00548,58,112.6,3,Smart TV,Credit Card,Upgrade
+USR-00549,55,72.1,4,Mobile,Credit Card,Retain
+USR-00550,26,10.6,1,Smart TV,E-Wallet,Retain
+USR-00551,37,143.8,4,Mobile,Bank Transfer,Retain
+USR-00552,26,141.5,0,Smart TV,Credit Card,Upgrade
+USR-00553,53,118.2,5,Mobile,Bank Transfer,Retain
+USR-00554,23,148.7,4,Smart TV,Credit Card,Retain
+USR-00555,9,82.6,0,Mobile,Credit Card,Retain
+USR-00556,12,144.5,1,Mobile,Credit Card,Retain
+USR-00557,53,13.2,5,Smart TV,Credit Card,Retain
+USR-00558,1,56.1,4,Mobile,Bank Transfer,Retain
+USR-00559,58,35.4,3,Smart TV,Credit Card,Retain
+USR-00560,58,31.0,3,Mobile,Credit Card,Retain
+USR-00561,1,22.8,5,Smart TV,Bank Transfer,Retain
+USR-00562,47,94.1,3,Mobile,Bank Transfer,Retain
+USR-00563,34,117.6,4,Mobile,E-Wallet,Retain
+USR-00564,32,87.6,4,Web,Bank Transfer,Retain
+USR-00565,54,23.8,5,Mobile,Credit Card,Downgrade
+USR-00566,48,122.0,4,Mobile,Bank Transfer,Retain
+USR-00567,25,96.1,0,Mobile,E-Wallet,Retain
+USR-00568,40,59.4,1,Web,Bank Transfer,Retain
+USR-00569,45,101.8,3,Mobile,E-Wallet,Retain
+USR-00570,53,40.5,0,Smart TV,Credit Card,Retain
+USR-00571,1,53.1,5,Web,E-Wallet,Retain
+USR-00572,16,137.8,3,Mobile,Credit Card,Retain
+USR-00573,39,45.0,0,Web,Credit Card,Retain
+USR-00574,5,71.6,4,Web,Credit Card,Retain
+USR-00575,22,133.7,5,Smart TV,Bank Transfer,Upgrade
+USR-00576,29,106.7,5,Mobile,Credit Card,Retain
+USR-00577,55,11.2,3,Smart TV,E-Wallet,Downgrade
+USR-00578,3,23.8,4,Smart TV,Credit Card,Retain
+USR-00579,12,3.2,3,Smart TV,Bank Transfer,Retain
+USR-00580,26,95.4,2,Mobile,Credit Card,Retain
+USR-00581,16,68.3,0,Smart TV,E-Wallet,Retain
+USR-00582,51,21.9,2,Smart TV,Bank Transfer,Downgrade
+USR-00583,37,143.8,0,Mobile,Credit Card,Retain
+USR-00584,22,80.4,1,Smart TV,Credit Card,Retain
+USR-00585,57,37.8,5,Smart TV,E-Wallet,Retain
+USR-00586,29,76.1,3,Smart TV,Bank Transfer,Retain
+USR-00587,14,102.6,1,Smart TV,E-Wallet,Upgrade
+USR-00588,28,13.3,1,Mobile,Credit Card,Retain
+USR-00589,5,42.7,5,Smart TV,Bank Transfer,Retain
+USR-00590,47,121.4,5,Web,Credit Card,Retain
+USR-00591,49,70.0,0,Mobile,E-Wallet,Retain
+USR-00592,30,82.9,2,Smart TV,Bank Transfer,Retain
+USR-00593,46,66.1,4,Smart TV,Credit Card,Retain
+USR-00594,52,8.5,0,Mobile,E-Wallet,Retain
+USR-00595,5,26.5,4,Mobile,E-Wallet,Retain
+USR-00596,12,67.9,1,Smart TV,Bank Transfer,Retain
+USR-00597,16,33.0,4,Smart TV,Credit Card,Retain
+USR-00598,26,9.4,2,Web,Credit Card,Retain
+USR-00599,26,126.9,0,Smart TV,Bank Transfer,Upgrade
+USR-00600,48,147.2,5,Smart TV,Credit Card,Upgrade
+USR-00601,21,119.4,2,Web,Credit Card,Retain
+USR-00602,39,128.4,2,Mobile,Bank Transfer,Retain
+USR-00603,36,37.8,0,Smart TV,Credit Card,Retain
+USR-00604,33,144.2,5,Mobile,Bank Transfer,Retain
+USR-00605,30,31.1,2,Smart TV,Credit Card,Retain
+USR-00606,37,142.8,5,Mobile,Credit Card,Retain
+USR-00607,23,149.2,3,Mobile,E-Wallet,Retain
+USR-00608,58,107.3,3,Web,E-Wallet,Retain
+USR-00609,10,147.2,3,Web,E-Wallet,Retain
+USR-00610,54,86.3,4,Web,E-Wallet,Retain
+USR-00611,5,40.4,2,Web,Bank Transfer,Retain
+USR-00612,36,66.7,0,Mobile,Credit Card,Retain
+USR-00613,34,89.8,0,Smart TV,Credit Card,Retain
+USR-00614,52,12.8,4,Mobile,Credit Card,Retain
+USR-00615,31,94.1,0,Mobile,E-Wallet,Retain
+USR-00616,10,147.2,3,Web,Credit Card,Retain
+USR-00617,58,30.1,2,Smart TV,Credit Card,Retain
+USR-00618,19,119.3,0,Web,Credit Card,Retain
+USR-00619,58,136.4,0,Web,Credit Card,Retain
+USR-00620,32,141.7,1,Web,Credit Card,Retain
+USR-00621,1,144.1,1,Web,E-Wallet,Retain
+USR-00622,56,79.2,1,Smart TV,Credit Card,Retain
+USR-00623,5,146.6,2,Smart TV,Bank Transfer,Upgrade
+USR-00624,45,114.1,3,Smart TV,E-Wallet,Retain
+USR-00625,4,25.9,5,Smart TV,Credit Card,Retain
+USR-00626,16,72.6,3,Mobile,E-Wallet,Retain
+USR-00627,24,108.3,3,Web,Credit Card,Retain
+USR-00628,16,38.6,2,Web,E-Wallet,Retain
+USR-00629,55,96.8,2,Mobile,Bank Transfer,Retain
+USR-00630,2,100.7,1,Smart TV,E-Wallet,Upgrade
+USR-00631,49,26.1,0,Smart TV,E-Wallet,Retain
+USR-00632,28,85.6,4,Smart TV,Credit Card,Retain
+USR-00633,32,116.2,4,Smart TV,Credit Card,Upgrade
+USR-00634,27,75.8,5,Mobile,Bank Transfer,Retain
+USR-00635,20,3.8,0,Smart TV,Credit Card,Retain
+USR-00636,24,3.3,5,Smart TV,Credit Card,Churn
+USR-00637,12,54.8,1,Smart TV,Credit Card,Retain
+USR-00638,50,139.1,5,Mobile,E-Wallet,Retain
+USR-00639,35,35.8,0,Mobile,Credit Card,Retain
+USR-00640,33,95.9,0,Mobile,Bank Transfer,Retain
+USR-00641,33,34.9,4,Mobile,Credit Card,Retain
+USR-00642,51,49.6,1,Web,Credit Card,Retain
+USR-00643,43,127.5,2,Smart TV,E-Wallet,Upgrade
+USR-00644,37,109.9,5,Mobile,Credit Card,Retain
+USR-00645,12,16.1,4,Mobile,E-Wallet,Retain
+USR-00646,3,65.4,5,Mobile,Credit Card,Retain
+USR-00647,1,6.3,5,Web,Credit Card,Churn
+USR-00648,33,73.2,2,Smart TV,Credit Card,Retain
+USR-00649,40,100.0,1,Mobile,Bank Transfer,Retain
+USR-00650,10,19.5,0,Smart TV,E-Wallet,Retain
+USR-00651,43,44.8,3,Mobile,E-Wallet,Retain
+USR-00652,44,60.9,5,Smart TV,Credit Card,Retain
+USR-00653,29,138.1,3,Smart TV,E-Wallet,Retain
+USR-00654,13,149.0,1,Mobile,Credit Card,Retain
+USR-00655,12,8.6,3,Mobile,Bank Transfer,Retain
+USR-00656,31,114.6,5,Smart TV,E-Wallet,Upgrade
+USR-00657,46,57.0,2,Mobile,E-Wallet,Retain
+USR-00658,2,60.1,3,Mobile,Credit Card,Retain
+USR-00659,51,113.6,1,Smart TV,E-Wallet,Upgrade
+USR-00660,50,137.9,1,Mobile,Credit Card,Retain
+USR-00661,35,142.7,2,Mobile,Bank Transfer,Retain
+USR-00662,23,87.4,3,Mobile,Credit Card,Retain
+USR-00663,17,54.9,3,Smart TV,Credit Card,Retain
+USR-00664,26,118.6,0,Smart TV,Credit Card,Upgrade
+USR-00665,8,39.1,4,Mobile,Credit Card,Retain
+USR-00666,29,85.5,1,Web,Credit Card,Retain
+USR-00667,26,55.1,0,Mobile,Bank Transfer,Retain
+USR-00668,10,99.2,1,Smart TV,E-Wallet,Retain
+USR-00669,26,37.6,0,Mobile,Bank Transfer,Retain
+USR-00670,34,30.4,4,Web,Bank Transfer,Retain
+USR-00671,51,137.9,0,Smart TV,Credit Card,Upgrade
+USR-00672,41,17.1,1,Web,E-Wallet,Retain
+USR-00673,7,76.9,3,Web,Credit Card,Retain
+USR-00674,4,34.7,1,Smart TV,Bank Transfer,Retain
+USR-00675,58,7.8,5,Web,Credit Card,Churn
+USR-00676,53,7.3,2,Smart TV,Credit Card,Churn
+USR-00677,50,27.9,2,Web,Credit Card,Downgrade
+USR-00678,45,130.3,5,Mobile,Credit Card,Retain
+USR-00679,11,43.8,2,Mobile,Credit Card,Retain
+USR-00680,29,142.7,2,Mobile,Credit Card,Retain
+USR-00681,56,88.1,4,Mobile,E-Wallet,Retain
+USR-00682,36,66.6,3,Smart TV,Bank Transfer,Retain
+USR-00683,25,87.9,3,Mobile,Credit Card,Retain
+USR-00684,21,78.5,1,Smart TV,Credit Card,Retain
+USR-00685,57,114.3,5,Smart TV,Bank Transfer,Upgrade
+USR-00686,36,43.8,0,Smart TV,Credit Card,Retain
+USR-00687,10,54.3,1,Mobile,Bank Transfer,Retain
+USR-00688,37,134.3,1,Smart TV,Credit Card,Upgrade
+USR-00689,9,142.1,1,Smart TV,E-Wallet,Upgrade
+USR-00690,24,134.1,1,Smart TV,E-Wallet,Retain
+USR-00691,35,64.1,3,Smart TV,E-Wallet,Retain
+USR-00692,49,117.5,0,Mobile,Bank Transfer,Retain
+USR-00693,35,72.5,1,Web,Credit Card,Retain
+USR-00694,48,75.6,3,Smart TV,Credit Card,Retain
+USR-00695,36,32.3,1,Web,E-Wallet,Retain
+USR-00696,18,89.5,2,Mobile,Bank Transfer,Retain
+USR-00697,49,29.5,1,Mobile,Credit Card,Retain
+USR-00698,39,51.1,5,Mobile,Bank Transfer,Retain
+USR-00699,32,128.5,5,Web,Credit Card,Retain
+USR-00700,24,32.6,1,Smart TV,Credit Card,Retain
+USR-00701,23,12.5,4,Mobile,E-Wallet,Retain
+USR-00702,32,12.2,2,Mobile,Credit Card,Downgrade
+USR-00703,37,141.2,0,Mobile,E-Wallet,Retain
+USR-00704,12,77.0,1,Web,Credit Card,Retain
+USR-00705,49,62.6,0,Smart TV,Credit Card,Retain
+USR-00706,55,122.0,2,Mobile,E-Wallet,Retain
+USR-00707,13,125.7,1,Mobile,E-Wallet,Retain
+USR-00708,23,51.2,4,Smart TV,Credit Card,Retain
+USR-00709,25,104.7,3,Smart TV,Credit Card,Upgrade
+USR-00710,35,116.1,4,Mobile,Credit Card,Retain
+USR-00711,41,98.9,4,Web,Credit Card,Retain
+USR-00712,30,24.4,3,Mobile,Bank Transfer,Downgrade
+USR-00713,17,131.6,3,Web,Bank Transfer,Retain
+USR-00714,49,81.8,5,Mobile,Credit Card,Retain
+USR-00715,20,43.8,3,Smart TV,Credit Card,Retain
+USR-00716,48,64.9,1,Smart TV,Bank Transfer,Retain
+USR-00717,25,7.6,0,Smart TV,E-Wallet,Retain
+USR-00718,22,20.9,5,Smart TV,E-Wallet,Retain
+USR-00719,13,115.3,5,Smart TV,E-Wallet,Upgrade
+USR-00720,59,2.0,0,Mobile,Credit Card,Retain
+USR-00721,19,63.7,5,Mobile,Credit Card,Retain
+USR-00722,49,79.3,3,Smart TV,Bank Transfer,Retain
+USR-00723,36,10.1,4,Smart TV,E-Wallet,Downgrade
+USR-00724,12,146.0,2,Smart TV,Credit Card,Retain
+USR-00725,41,35.5,3,Mobile,Credit Card,Retain
+USR-00726,19,47.0,4,Smart TV,Credit Card,Retain
+USR-00727,12,47.0,4,Smart TV,E-Wallet,Retain
+USR-00728,9,36.1,5,Web,Credit Card,Retain
+USR-00729,7,2.2,1,Web,Credit Card,Retain
+USR-00730,28,109.9,1,Smart TV,Bank Transfer,Upgrade
+USR-00731,14,145.1,5,Mobile,Credit Card,Retain
+USR-00732,31,35.2,5,Smart TV,Credit Card,Retain
+USR-00733,52,100.1,0,Mobile,Credit Card,Retain
+USR-00734,19,111.8,0,Mobile,Credit Card,Retain
+USR-00735,58,127.6,2,Smart TV,Credit Card,Upgrade
+USR-00736,47,64.5,2,Mobile,Bank Transfer,Retain
+USR-00737,16,46.8,2,Smart TV,Bank Transfer,Retain
+USR-00738,53,50.1,2,Smart TV,Credit Card,Retain
+USR-00739,5,107.5,4,Smart TV,Credit Card,Retain
+USR-00740,35,122.9,4,Mobile,E-Wallet,Retain
+USR-00741,12,28.9,0,Smart TV,Credit Card,Retain
+USR-00742,25,56.9,1,Smart TV,Credit Card,Retain
+USR-00743,52,135.5,5,Smart TV,Bank Transfer,Upgrade
+USR-00744,59,121.4,1,Smart TV,Credit Card,Upgrade
+USR-00745,21,147.8,3,Mobile,Credit Card,Upgrade
+USR-00746,36,113.6,4,Smart TV,Credit Card,Retain
+USR-00747,53,60.2,2,Smart TV,Credit Card,Retain
+USR-00748,23,89.4,2,Mobile,Credit Card,Retain
+USR-00749,16,99.8,3,Mobile,Credit Card,Retain
+USR-00750,57,13.6,1,Web,Credit Card,Downgrade
+USR-00751,39,82.6,2,Mobile,E-Wallet,Retain
+USR-00752,45,107.0,1,Smart TV,Credit Card,Upgrade
+USR-00753,53,26.8,5,Mobile,Credit Card,Churn
+USR-00754,42,117.5,3,Mobile,E-Wallet,Retain
+USR-00755,58,88.4,1,Smart TV,Bank Transfer,Retain
+USR-00756,39,142.9,5,Web,Credit Card,Retain
+USR-00757,14,8.3,1,Smart TV,Credit Card,Churn
+USR-00758,31,41.3,1,Web,Credit Card,Retain
+USR-00759,58,91.0,2,Web,E-Wallet,Retain
+USR-00760,5,45.9,0,Mobile,Credit Card,Retain
+USR-00761,35,107.7,4,Web,Credit Card,Churn
+USR-00762,23,114.3,1,Mobile,Credit Card,Retain
+USR-00763,29,17.2,1,Smart TV,Credit Card,Retain
+USR-00764,43,78.1,1,Mobile,Credit Card,Retain
+USR-00765,11,77.3,0,Smart TV,Credit Card,Retain
+USR-00766,18,56.7,5,Smart TV,Bank Transfer,Retain
+USR-00767,47,140.1,3,Mobile,E-Wallet,Retain
+USR-00768,12,124.5,2,Smart TV,Credit Card,Retain
+USR-00769,9,105.2,0,Smart TV,Credit Card,Upgrade
+USR-00770,10,107.7,5,Mobile,Credit Card,Retain
+USR-00771,58,70.3,1,Web,Credit Card,Retain
+USR-00772,44,138.3,5,Smart TV,Bank Transfer,Upgrade
+USR-00773,17,104.8,0,Smart TV,Bank Transfer,Upgrade
+USR-00774,38,109.9,0,Smart TV,Credit Card,Upgrade
+USR-00775,7,129.5,0,Mobile,Credit Card,Retain
+USR-00776,46,42.6,3,Smart TV,Credit Card,Retain
+USR-00777,13,121.4,4,Mobile,E-Wallet,Retain
+USR-00778,40,30.9,2,Smart TV,E-Wallet,Retain
+USR-00779,42,53.1,3,Smart TV,Bank Transfer,Retain
+USR-00780,9,51.7,3,Web,E-Wallet,Retain
+USR-00781,50,146.8,4,Smart TV,Credit Card,Upgrade
+USR-00782,27,128.8,3,Mobile,E-Wallet,Retain
+USR-00783,58,105.8,0,Smart TV,E-Wallet,Upgrade
+USR-00784,2,109.6,0,Mobile,E-Wallet,Retain
+USR-00785,5,85.2,5,Mobile,Credit Card,Retain
+USR-00786,29,142.2,1,Smart TV,E-Wallet,Upgrade
+USR-00787,37,75.4,3,Smart TV,E-Wallet,Retain
+USR-00788,38,58.3,1,Smart TV,E-Wallet,Retain
+USR-00789,19,26.1,2,Mobile,E-Wallet,Downgrade
+USR-00790,8,118.4,0,Mobile,E-Wallet,Retain
+USR-00791,48,110.7,5,Mobile,E-Wallet,Retain
+USR-00792,45,58.9,2,Mobile,E-Wallet,Retain
+USR-00793,1,5.7,5,Smart TV,E-Wallet,Churn
+USR-00794,22,126.2,4,Smart TV,Credit Card,Upgrade
+USR-00795,52,3.7,0,Smart TV,Credit Card,Retain
+USR-00796,17,106.1,2,Smart TV,Credit Card,Upgrade
+USR-00797,7,145.6,4,Smart TV,E-Wallet,Upgrade
+USR-00798,25,66.8,2,Mobile,E-Wallet,Retain
+USR-00799,45,36.8,5,Mobile,Bank Transfer,Retain
+USR-00800,4,106.3,4,Web,Credit Card,Retain
+USR-00801,36,122.9,4,Smart TV,Credit Card,Upgrade
+USR-00802,6,82.9,0,Mobile,Credit Card,Retain
+USR-00803,31,145.1,1,Web,Credit Card,Retain
+USR-00804,19,9.6,5,Mobile,E-Wallet,Churn
+USR-00805,44,76.7,5,Smart TV,Credit Card,Retain
+USR-00806,54,108.3,4,Smart TV,E-Wallet,Retain
+USR-00807,39,129.7,4,Smart TV,E-Wallet,Retain
+USR-00808,27,28.5,0,Smart TV,Credit Card,Retain
+USR-00809,10,120.4,1,Mobile,Bank Transfer,Retain
+USR-00810,26,83.8,5,Smart TV,Credit Card,Retain
+USR-00811,19,60.7,3,Smart TV,Credit Card,Retain
+USR-00812,39,21.5,3,Mobile,Bank Transfer,Downgrade
+USR-00813,3,130.1,1,Mobile,Bank Transfer,Retain
+USR-00814,45,25.3,2,Mobile,Credit Card,Downgrade
+USR-00815,13,47.8,0,Mobile,Credit Card,Retain
+USR-00816,50,44.9,1,Smart TV,Credit Card,Retain
+USR-00817,28,131.0,3,Smart TV,Credit Card,Upgrade
+USR-00818,58,101.6,4,Smart TV,Bank Transfer,Upgrade
+USR-00819,20,119.9,3,Mobile,E-Wallet,Retain
+USR-00820,28,39.1,4,Web,Credit Card,Retain
+USR-00821,8,94.5,0,Smart TV,Bank Transfer,Retain
+USR-00822,41,86.6,4,Mobile,Credit Card,Retain
+USR-00823,39,125.3,1,Smart TV,Credit Card,Upgrade
+USR-00824,1,136.1,4,Mobile,Bank Transfer,Retain
+USR-00825,3,3.8,2,Smart TV,Bank Transfer,Retain
+USR-00826,13,101.8,1,Smart TV,Bank Transfer,Retain
+USR-00827,28,9.7,0,Web,E-Wallet,Retain
+USR-00828,57,83.2,1,Mobile,E-Wallet,Retain
+USR-00829,49,44.6,2,Mobile,Credit Card,Retain
+USR-00830,25,47.4,0,Smart TV,E-Wallet,Retain
+USR-00831,56,54.2,3,Smart TV,Bank Transfer,Retain
+USR-00832,33,94.0,2,Smart TV,Credit Card,Retain
+USR-00833,38,51.4,0,Web,E-Wallet,Retain
+USR-00834,53,110.4,4,Web,Credit Card,Retain
+USR-00835,6,61.9,1,Mobile,Credit Card,Retain
+USR-00836,58,12.1,0,Smart TV,E-Wallet,Retain
+USR-00837,44,118.0,1,Web,Credit Card,Retain
+USR-00838,45,44.3,4,Mobile,E-Wallet,Retain
+USR-00839,32,66.0,0,Mobile,Credit Card,Retain
+USR-00840,45,103.4,3,Smart TV,Bank Transfer,Upgrade
+USR-00841,47,51.2,2,Mobile,Credit Card,Retain
+USR-00842,21,10.4,0,Mobile,Credit Card,Retain
+USR-00843,16,57.3,4,Web,Credit Card,Retain
+USR-00844,54,141.8,0,Mobile,Bank Transfer,Retain
+USR-00845,21,97.0,1,Smart TV,E-Wallet,Retain
+USR-00846,11,101.4,5,Mobile,E-Wallet,Retain
+USR-00847,37,95.6,0,Web,Credit Card,Retain
+USR-00848,36,31.5,3,Smart TV,Credit Card,Retain
+USR-00849,35,63.9,0,Smart TV,Credit Card,Retain
+USR-00850,19,113.1,2,Smart TV,E-Wallet,Upgrade
+USR-00851,20,17.0,0,Mobile,Credit Card,Downgrade
+USR-00852,57,43.1,5,Smart TV,Bank Transfer,Churn
+USR-00853,18,42.9,1,Mobile,E-Wallet,Retain
+USR-00854,47,65.9,0,Smart TV,Credit Card,Retain
+USR-00855,41,147.1,3,Web,Credit Card,Retain
+USR-00856,49,12.0,4,Smart TV,E-Wallet,Retain
+USR-00857,14,78.8,0,Smart TV,Credit Card,Retain
+USR-00858,15,28.5,0,Mobile,Credit Card,Retain
+USR-00859,31,145.7,2,Mobile,Credit Card,Retain
+USR-00860,1,18.8,3,Smart TV,E-Wallet,Downgrade
+USR-00861,53,61.7,5,Smart TV,E-Wallet,Retain
+USR-00862,54,111.2,4,Smart TV,Credit Card,Upgrade
+USR-00863,54,106.3,1,Mobile,Credit Card,Retain
+USR-00864,3,64.6,0,Mobile,Credit Card,Retain
+USR-00865,16,53.3,5,Mobile,E-Wallet,Retain
+USR-00866,23,60.8,4,Mobile,Credit Card,Retain
+USR-00867,57,41.1,1,Mobile,Credit Card,Retain
+USR-00868,11,32.4,5,Smart TV,Bank Transfer,Retain
+USR-00869,12,73.5,3,Web,Bank Transfer,Retain
+USR-00870,10,41.7,3,Web,Bank Transfer,Retain
+USR-00871,32,44.5,4,Smart TV,Bank Transfer,Retain
+USR-00872,16,99.2,1,Smart TV,Credit Card,Retain
+USR-00873,8,145.3,3,Smart TV,Credit Card,Upgrade
+USR-00874,38,91.3,4,Smart TV,Credit Card,Retain
+USR-00875,12,13.4,3,Mobile,Credit Card,Downgrade
+USR-00876,24,13.2,3,Mobile,Bank Transfer,Downgrade
+USR-00877,28,142.8,5,Mobile,E-Wallet,Retain
+USR-00878,53,46.0,5,Mobile,E-Wallet,Retain
+USR-00879,8,15.6,3,Mobile,Credit Card,Downgrade
+USR-00880,58,90.7,2,Mobile,Bank Transfer,Retain
+USR-00881,28,94.3,5,Smart TV,Bank Transfer,Retain
+USR-00882,36,98.0,1,Smart TV,Credit Card,Retain
+USR-00883,26,41.6,4,Mobile,Bank Transfer,Retain
+USR-00884,8,4.2,4,Smart TV,Credit Card,Churn
+USR-00885,58,144.8,1,Smart TV,Credit Card,Upgrade
+USR-00886,50,39.1,1,Web,E-Wallet,Retain
+USR-00887,28,102.1,1,Mobile,E-Wallet,Retain
+USR-00888,28,106.6,1,Smart TV,Credit Card,Upgrade
+USR-00889,37,92.3,0,Mobile,Credit Card,Retain
+USR-00890,41,48.3,4,Mobile,Bank Transfer,Retain
+USR-00891,36,42.1,0,Smart TV,E-Wallet,Retain
+USR-00892,27,90.5,3,Smart TV,E-Wallet,Retain
+USR-00893,54,130.2,3,Web,Credit Card,Retain
+USR-00894,17,142.1,4,Smart TV,Credit Card,Retain
+USR-00895,9,17.7,3,Smart TV,Credit Card,Downgrade
+USR-00896,33,24.9,1,Mobile,Credit Card,Retain
+USR-00897,53,141.8,0,Mobile,Credit Card,Retain
+USR-00898,20,111.0,1,Smart TV,Credit Card,Upgrade
+USR-00899,13,132.7,3,Smart TV,E-Wallet,Upgrade
+USR-00900,28,32.0,5,Smart TV,Credit Card,Retain
+USR-00901,48,89.0,0,Web,Bank Transfer,Retain
+USR-00902,29,105.8,1,Smart TV,Credit Card,Upgrade
+USR-00903,13,102.7,4,Mobile,Credit Card,Retain
+USR-00904,46,62.4,1,Web,Credit Card,Retain
+USR-00905,35,4.3,5,Smart TV,Credit Card,Churn
+USR-00906,6,88.3,3,Web,Credit Card,Retain
+USR-00907,18,39.5,0,Web,Bank Transfer,Retain
+USR-00908,51,68.6,4,Web,E-Wallet,Retain
+USR-00909,5,143.7,0,Smart TV,Credit Card,Upgrade
+USR-00910,47,61.1,4,Mobile,Credit Card,Retain
+USR-00911,25,126.3,0,Mobile,E-Wallet,Retain
+USR-00912,2,29.9,3,Web,E-Wallet,Retain
+USR-00913,10,101.5,4,Smart TV,Credit Card,Upgrade
+USR-00914,56,146.6,2,Mobile,E-Wallet,Retain
+USR-00915,30,17.1,0,Smart TV,Bank Transfer,Retain
+USR-00916,50,3.2,0,Smart TV,E-Wallet,Retain
+USR-00917,59,66.2,1,Mobile,Bank Transfer,Retain
+USR-00918,45,15.7,4,Mobile,Bank Transfer,Retain
+USR-00919,5,112.8,5,Mobile,Bank Transfer,Retain
+USR-00920,55,137.4,2,Mobile,Credit Card,Retain
+USR-00921,56,66.2,3,Web,E-Wallet,Retain
+USR-00922,33,40.3,1,Smart TV,E-Wallet,Retain
+USR-00923,54,66.3,2,Mobile,E-Wallet,Retain
+USR-00924,1,109.1,4,Smart TV,Bank Transfer,Upgrade
+USR-00925,18,3.3,2,Smart TV,Credit Card,Churn
+USR-00926,32,89.2,0,Mobile,Credit Card,Retain
+USR-00927,47,92.8,0,Web,Credit Card,Retain
+USR-00928,49,96.4,1,Mobile,Credit Card,Retain
+USR-00929,11,37.8,4,Mobile,Credit Card,Retain
+USR-00930,21,107.7,4,Smart TV,E-Wallet,Upgrade
+USR-00931,26,15.5,2,Smart TV,Credit Card,Downgrade
+USR-00932,25,31.5,1,Mobile,E-Wallet,Retain
+USR-00933,22,131.9,4,Smart TV,E-Wallet,Upgrade
+USR-00934,59,111.3,5,Smart TV,Credit Card,Upgrade
+USR-00935,27,4.0,5,Mobile,Credit Card,Churn
+USR-00936,49,38.8,0,Smart TV,E-Wallet,Retain
+USR-00937,13,33.7,2,Smart TV,E-Wallet,Retain
+USR-00938,33,42.1,3,Mobile,Bank Transfer,Retain
+USR-00939,34,38.6,0,Mobile,Bank Transfer,Retain
+USR-00940,41,11.3,1,Web,Bank Transfer,Retain
+USR-00941,35,69.9,4,Mobile,E-Wallet,Retain
+USR-00942,1,110.4,0,Mobile,Bank Transfer,Retain
+USR-00943,21,91.8,3,Web,Bank Transfer,Retain
+USR-00944,48,101.6,3,Mobile,Bank Transfer,Retain
+USR-00945,55,14.0,5,Smart TV,Credit Card,Retain
+USR-00946,6,142.8,1,Smart TV,Bank Transfer,Upgrade
+USR-00947,28,126.1,0,Mobile,Credit Card,Retain
+USR-00948,17,121.2,2,Mobile,E-Wallet,Retain
+USR-00949,5,123.8,0,Mobile,Credit Card,Retain
+USR-00950,31,140.0,5,Mobile,Credit Card,Retain
+USR-00951,5,82.5,3,Mobile,Credit Card,Retain
+USR-00952,38,31.6,1,Web,Credit Card,Retain
+USR-00953,3,93.3,1,Mobile,Credit Card,Retain
+USR-00954,53,111.9,2,Smart TV,Bank Transfer,Upgrade
+USR-00955,23,111.2,1,Web,Credit Card,Retain
+USR-00956,37,79.2,5,Smart TV,Credit Card,Retain
+USR-00957,53,12.1,5,Mobile,Credit Card,Downgrade
+USR-00958,37,56.9,5,Web,E-Wallet,Retain
+USR-00959,10,138.3,1,Mobile,Credit Card,Retain
+USR-00960,10,88.5,1,Mobile,Credit Card,Retain
+USR-00961,19,81.7,5,Mobile,Credit Card,Retain
+USR-00962,17,41.8,1,Smart TV,E-Wallet,Retain
+USR-00963,21,56.5,1,Smart TV,Credit Card,Retain
+USR-00964,14,134.5,3,Mobile,Credit Card,Retain
+USR-00965,9,100.6,0,Mobile,Credit Card,Retain
+USR-00966,46,118.5,4,Mobile,Bank Transfer,Retain
+USR-00967,1,69.2,1,Smart TV,Credit Card,Retain
+USR-00968,51,95.3,4,Mobile,E-Wallet,Retain
+USR-00969,45,38.8,4,Mobile,Credit Card,Retain
+USR-00970,13,106.4,3,Mobile,Credit Card,Retain
+USR-00971,4,65.3,1,Mobile,Credit Card,Retain
+USR-00972,1,67.5,5,Mobile,Credit Card,Retain
+USR-00973,49,98.1,4,Mobile,Credit Card,Retain
+USR-00974,40,140.6,1,Mobile,Credit Card,Retain
+USR-00975,32,11.5,2,Web,Credit Card,Downgrade
+USR-00976,34,124.1,5,Smart TV,E-Wallet,Upgrade
+USR-00977,28,45.3,2,Web,Bank Transfer,Retain
+USR-00978,31,67.7,2,Smart TV,Credit Card,Retain
+USR-00979,8,5.2,4,Smart TV,E-Wallet,Churn
+USR-00980,39,46.6,2,Web,Bank Transfer,Retain
+USR-00981,26,76.4,3,Smart TV,Bank Transfer,Retain
+USR-00982,58,10.3,3,Mobile,Credit Card,Downgrade
+USR-00983,34,74.7,4,Web,E-Wallet,Retain
+USR-00984,54,139.2,1,Web,Credit Card,Retain
+USR-00985,54,17.6,0,Web,E-Wallet,Retain
+USR-00986,3,115.1,1,Smart TV,Credit Card,Upgrade
+USR-00987,59,62.6,1,Mobile,Credit Card,Retain
+USR-00988,50,99.0,1,Smart TV,Credit Card,Retain
+USR-00989,12,40.5,1,Mobile,Credit Card,Retain
+USR-00990,1,25.6,5,Web,E-Wallet,Retain
+USR-00991,54,25.7,0,Smart TV,Credit Card,Retain
+USR-00992,44,12.4,5,Mobile,E-Wallet,Retain
+USR-00993,5,29.5,2,Mobile,Credit Card,Downgrade
+USR-00994,30,100.3,1,Mobile,Credit Card,Retain
+USR-00995,30,132.5,3,Web,E-Wallet,Retain
+USR-00996,59,122.5,4,Smart TV,Bank Transfer,Upgrade
+USR-00997,57,103.4,4,Mobile,Credit Card,Retain
+USR-00998,17,18.3,5,Web,Credit Card,Retain
+USR-00999,48,44.8,5,Mobile,Bank Transfer,Retain
+USR-01000,47,47.9,3,Smart TV,Credit Card,Retain
+USR-01001,23,39.0,1,Mobile,Bank Transfer,Retain
+USR-01002,15,78.2,0,Smart TV,E-Wallet,Retain
+USR-01003,37,81.3,2,Smart TV,Credit Card,Retain
+USR-01004,21,54.8,4,Web,Credit Card,Retain
+USR-01005,14,54.4,2,Mobile,Credit Card,Retain
+USR-01006,2,124.6,0,Web,Credit Card,Retain
+USR-01007,11,118.8,5,Web,Bank Transfer,Retain
+USR-01008,51,47.6,4,Mobile,E-Wallet,Retain
+USR-01009,39,137.2,2,Smart TV,E-Wallet,Upgrade
+USR-01010,38,143.0,5,Mobile,E-Wallet,Retain
+USR-01011,34,50.4,0,Smart TV,Credit Card,Retain
+USR-01012,38,54.5,2,Web,E-Wallet,Retain
+USR-01013,50,76.8,1,Smart TV,Credit Card,Retain
+USR-01014,34,141.3,5,Smart TV,E-Wallet,Upgrade
+USR-01015,18,131.7,0,Mobile,Credit Card,Retain
+USR-01016,30,17.2,2,Smart TV,E-Wallet,Downgrade
+USR-01017,15,60.1,1,Smart TV,Bank Transfer,Retain
+USR-01018,27,83.9,1,Mobile,Credit Card,Retain
+USR-01019,51,76.5,0,Smart TV,Credit Card,Retain
+USR-01020,34,30.7,3,Smart TV,E-Wallet,Retain
+USR-01021,52,129.1,4,Smart TV,Credit Card,Upgrade
+USR-01022,57,102.2,0,Mobile,E-Wallet,Retain
+USR-01023,38,126.0,1,Mobile,Bank Transfer,Retain
+USR-01024,33,129.1,1,Mobile,Credit Card,Retain
+USR-01025,24,112.8,0,Mobile,Credit Card,Retain
+USR-01026,15,67.0,3,Smart TV,E-Wallet,Retain
+USR-01027,30,92.4,4,Web,Credit Card,Retain
+USR-01028,55,25.7,2,Smart TV,Credit Card,Downgrade
+USR-01029,42,101.7,0,Mobile,Bank Transfer,Retain
+USR-01030,51,28.5,4,Web,E-Wallet,Retain
+USR-01031,17,104.7,4,Web,Credit Card,Retain
+USR-01032,5,36.0,5,Smart TV,Credit Card,Retain
+USR-01033,29,19.4,1,Smart TV,E-Wallet,Retain
+USR-01034,4,26.5,2,Mobile,E-Wallet,Downgrade
+USR-01035,10,2.3,0,Smart TV,Bank Transfer,Retain
+USR-01036,56,108.4,1,Web,Credit Card,Retain
+USR-01037,17,110.4,5,Mobile,Bank Transfer,Retain
+USR-01038,10,78.2,5,Mobile,E-Wallet,Retain
+USR-01039,17,25.9,1,Smart TV,E-Wallet,Retain
+USR-01040,20,14.4,3,Mobile,E-Wallet,Downgrade
+USR-01041,24,4.8,4,Mobile,Credit Card,Churn
+USR-01042,5,26.5,0,Web,Bank Transfer,Retain
+USR-01043,34,133.8,0,Smart TV,Credit Card,Retain
+USR-01044,6,37.7,0,Smart TV,Credit Card,Retain
+USR-01045,53,54.4,1,Smart TV,Bank Transfer,Retain
+USR-01046,2,17.6,3,Smart TV,E-Wallet,Downgrade
+USR-01047,13,34.9,2,Mobile,Bank Transfer,Retain
+USR-01048,43,78.8,5,Web,E-Wallet,Retain
+USR-01049,43,91.9,1,Smart TV,Credit Card,Retain
+USR-01050,48,38.3,2,Web,Bank Transfer,Retain
+USR-01051,11,10.5,5,Smart TV,Credit Card,Retain
+USR-01052,51,59.9,5,Smart TV,Bank Transfer,Retain
+USR-01053,47,36.7,3,Smart TV,Credit Card,Retain
+USR-01054,57,34.5,4,Smart TV,Bank Transfer,Retain
+USR-01055,23,144.1,0,Web,Credit Card,Retain
+USR-01056,55,93.2,2,Smart TV,E-Wallet,Retain
+USR-01057,16,84.4,1,Mobile,Bank Transfer,Retain
+USR-01058,31,63.5,2,Mobile,Credit Card,Retain
+USR-01059,11,65.5,4,Web,E-Wallet,Retain
+USR-01060,54,82.1,0,Smart TV,Bank Transfer,Retain
+USR-01061,16,105.1,2,Smart TV,E-Wallet,Upgrade
+USR-01062,8,105.9,4,Smart TV,Bank Transfer,Upgrade
+USR-01063,4,27.4,1,Mobile,Credit Card,Retain
+USR-01064,40,76.0,3,Smart TV,Credit Card,Retain
+USR-01065,4,63.0,5,Web,Credit Card,Retain
+USR-01066,56,130.8,1,Mobile,Credit Card,Retain
+USR-01067,25,95.5,0,Mobile,Credit Card,Retain
+USR-01068,3,80.8,5,Mobile,E-Wallet,Retain
+USR-01069,32,19.1,1,Smart TV,Credit Card,Retain
+USR-01070,3,91.6,1,Mobile,Credit Card,Retain
+USR-01071,27,19.3,1,Web,Credit Card,Retain
+USR-01072,29,51.9,1,Web,Bank Transfer,Retain
+USR-01073,32,23.1,5,Web,E-Wallet,Retain
+USR-01074,50,104.4,0,Web,Credit Card,Retain
+USR-01075,58,32.5,4,Smart TV,Bank Transfer,Retain
+USR-01076,51,60.0,2,Smart TV,Credit Card,Retain
+USR-01077,19,134.6,3,Smart TV,Bank Transfer,Upgrade
+USR-01078,21,32.2,2,Smart TV,E-Wallet,Retain
+USR-01079,5,77.2,2,Smart TV,Credit Card,Retain
+USR-01080,18,64.1,3,Mobile,E-Wallet,Retain
+USR-01081,28,4.7,5,Mobile,E-Wallet,Churn
+USR-01082,42,119.3,0,Web,Credit Card,Retain
+USR-01083,22,12.2,3,Mobile,Bank Transfer,Downgrade
+USR-01084,21,72.2,0,Web,Credit Card,Retain
+USR-01085,6,85.0,5,Smart TV,Credit Card,Retain
+USR-01086,1,95.0,2,Smart TV,Credit Card,Retain
+USR-01087,5,103.9,0,Mobile,Credit Card,Retain
+USR-01088,41,39.5,5,Smart TV,Credit Card,Retain
+USR-01089,12,3.5,5,Smart TV,Bank Transfer,Churn
+USR-01090,26,109.1,4,Smart TV,Credit Card,Upgrade
+USR-01091,46,81.3,3,Smart TV,Credit Card,Retain
+USR-01092,34,125.7,4,Mobile,E-Wallet,Churn
+USR-01093,49,123.6,2,Mobile,Bank Transfer,Retain
+USR-01094,14,126.8,3,Mobile,Bank Transfer,Retain
+USR-01095,26,73.8,2,Mobile,E-Wallet,Retain
+USR-01096,45,51.4,4,Smart TV,Bank Transfer,Retain
+USR-01097,27,119.2,5,Smart TV,E-Wallet,Upgrade
+USR-01098,9,68.8,2,Smart TV,Bank Transfer,Retain
+USR-01099,26,29.1,3,Smart TV,E-Wallet,Downgrade
+USR-01100,57,128.5,3,Mobile,Credit Card,Retain
+USR-01101,47,132.6,2,Mobile,Credit Card,Retain
+USR-01102,57,71.0,3,Mobile,E-Wallet,Retain
+USR-01103,22,13.2,5,Smart TV,Credit Card,Retain
+USR-01104,47,59.4,5,Mobile,Credit Card,Retain
+USR-01105,56,120.9,3,Mobile,E-Wallet,Retain
+USR-01106,30,135.5,2,Mobile,Bank Transfer,Retain
+USR-01107,43,32.1,4,Mobile,Credit Card,Retain
+USR-01108,48,11.9,3,Mobile,E-Wallet,Retain
+USR-01109,17,131.8,3,Mobile,E-Wallet,Retain
+USR-01110,26,59.6,3,Mobile,Bank Transfer,Retain
+USR-01111,36,82.2,3,Smart TV,Bank Transfer,Retain
+USR-01112,1,145.3,2,Mobile,E-Wallet,Retain
+USR-01113,8,11.9,4,Smart TV,E-Wallet,Retain
+USR-01114,49,98.0,4,Smart TV,Credit Card,Retain
+USR-01115,35,13.0,0,Web,E-Wallet,Retain
+USR-01116,52,57.6,3,Web,E-Wallet,Retain
+USR-01117,15,121.0,3,Smart TV,Bank Transfer,Upgrade
+USR-01118,47,66.2,0,Mobile,E-Wallet,Retain
+USR-01119,56,149.6,4,Smart TV,Credit Card,Upgrade
+USR-01120,22,84.7,1,Mobile,E-Wallet,Retain
+USR-01121,14,49.5,5,Web,Credit Card,Retain
+USR-01122,26,34.6,1,Web,Credit Card,Retain
+USR-01123,28,53.9,4,Mobile,Credit Card,Retain
+USR-01124,23,57.1,3,Smart TV,Credit Card,Retain
+USR-01125,14,12.2,1,Mobile,Bank Transfer,Retain
+USR-01126,24,56.7,2,Smart TV,Credit Card,Retain
+USR-01127,2,70.7,2,Web,Credit Card,Retain
+USR-01128,45,109.0,0,Web,Bank Transfer,Retain
+USR-01129,26,99.2,4,Mobile,Credit Card,Retain
+USR-01130,14,106.9,4,Smart TV,Credit Card,Upgrade
+USR-01131,59,3.2,1,Smart TV,Credit Card,Churn
+USR-01132,56,34.2,3,Smart TV,Credit Card,Retain
+USR-01133,51,99.9,4,Web,Credit Card,Retain
+USR-01134,7,73.6,1,Mobile,Credit Card,Retain
+USR-01135,3,2.8,1,Smart TV,E-Wallet,Retain
+USR-01136,47,121.1,5,Mobile,Credit Card,Retain
+USR-01137,23,116.4,5,Web,Credit Card,Retain
+USR-01138,46,83.2,4,Smart TV,Bank Transfer,Retain
+USR-01139,43,11.8,1,Web,Credit Card,Retain
+USR-01140,47,115.4,0,Web,Bank Transfer,Retain
+USR-01141,45,88.4,0,Web,Credit Card,Retain
+USR-01142,18,117.7,5,Smart TV,Credit Card,Upgrade
+USR-01143,58,113.3,4,Smart TV,E-Wallet,Upgrade
+USR-01144,38,120.8,3,Smart TV,Credit Card,Upgrade
+USR-01145,35,78.7,0,Smart TV,Credit Card,Retain
+USR-01146,51,22.8,0,Smart TV,E-Wallet,Retain
+USR-01147,15,101.3,5,Mobile,Credit Card,Retain
+USR-01148,25,93.8,5,Mobile,E-Wallet,Retain
+USR-01149,55,111.9,4,Web,Bank Transfer,Retain
+USR-01150,37,27.1,5,Smart TV,Credit Card,Retain
+USR-01151,28,30.9,2,Mobile,E-Wallet,Retain
+USR-01152,10,133.8,1,Mobile,E-Wallet,Retain
+USR-01153,39,113.0,0,Mobile,Bank Transfer,Retain
+USR-01154,57,136.4,2,Web,Bank Transfer,Retain
+USR-01155,17,114.3,3,Mobile,Bank Transfer,Retain
+USR-01156,39,90.4,2,Web,Credit Card,Retain
+USR-01157,22,98.8,4,Smart TV,E-Wallet,Retain
+USR-01158,26,133.6,3,Mobile,Credit Card,Retain
+USR-01159,44,87.7,3,Smart TV,Credit Card,Retain
+USR-01160,25,95.6,5,Smart TV,Bank Transfer,Retain
+USR-01161,17,25.2,2,Smart TV,Credit Card,Downgrade
+USR-01162,13,72.1,4,Smart TV,Bank Transfer,Retain
+USR-01163,20,108.0,0,Smart TV,Credit Card,Upgrade
+USR-01164,25,42.1,5,Smart TV,Bank Transfer,Retain
+USR-01165,4,31.9,2,Smart TV,Credit Card,Retain
+USR-01166,10,48.4,0,Web,Credit Card,Retain
+USR-01167,3,37.7,2,Smart TV,Credit Card,Retain
+USR-01168,41,33.8,5,Mobile,E-Wallet,Retain
+USR-01169,45,64.9,0,Smart TV,Credit Card,Retain
+USR-01170,18,136.4,5,Web,E-Wallet,Retain
+USR-01171,47,77.0,2,Web,Credit Card,Retain
+USR-01172,36,29.8,3,Mobile,Credit Card,Downgrade
+USR-01173,47,13.4,1,Mobile,Credit Card,Retain
+USR-01174,22,105.0,3,Smart TV,Credit Card,Upgrade
+USR-01175,34,58.7,5,Web,Bank Transfer,Retain
+USR-01176,47,123.6,5,Web,Bank Transfer,Retain
+USR-01177,8,99.6,5,Web,Credit Card,Retain
+USR-01178,40,119.8,0,Mobile,E-Wallet,Retain
+USR-01179,49,42.2,4,Smart TV,E-Wallet,Retain
+USR-01180,44,104.5,5,Web,Credit Card,Retain
+USR-01181,19,41.1,3,Smart TV,Credit Card,Retain
+USR-01182,42,141.0,1,Mobile,E-Wallet,Retain
+USR-01183,41,96.2,5,Smart TV,Credit Card,Retain
+USR-01184,37,50.0,5,Web,Credit Card,Retain
+USR-01185,6,41.9,5,Smart TV,Credit Card,Retain
+USR-01186,52,30.3,0,Smart TV,E-Wallet,Retain
+USR-01187,26,104.8,5,Mobile,Credit Card,Retain
+USR-01188,34,34.4,3,Mobile,Credit Card,Retain
+USR-01189,59,90.1,2,Mobile,Credit Card,Retain
+USR-01190,56,41.2,4,Smart TV,Credit Card,Retain
+USR-01191,59,100.0,5,Smart TV,Credit Card,Retain
+USR-01192,45,122.6,0,Mobile,Bank Transfer,Retain
+USR-01193,6,117.1,3,Web,Credit Card,Retain
+USR-01194,37,114.6,5,Web,E-Wallet,Retain
+USR-01195,57,29.8,0,Mobile,Credit Card,Retain
+USR-01196,33,15.1,2,Web,E-Wallet,Downgrade
+USR-01197,53,105.4,1,Mobile,E-Wallet,Retain
+USR-01198,22,56.5,5,Mobile,Credit Card,Retain
+USR-01199,21,66.0,3,Mobile,Bank Transfer,Retain
+USR-01200,6,6.6,0,Mobile,Credit Card,Retain
+USR-01201,6,40.4,0,Mobile,Bank Transfer,Retain
+USR-01202,55,7.0,5,Mobile,Credit Card,Churn
+USR-01203,48,132.1,0,Smart TV,Bank Transfer,Upgrade
+USR-01204,4,38.0,1,Smart TV,E-Wallet,Retain
+USR-01205,30,84.5,0,Smart TV,Bank Transfer,Retain
+USR-01206,11,7.8,4,Mobile,E-Wallet,Churn
+USR-01207,30,100.7,4,Smart TV,Credit Card,Upgrade
+USR-01208,31,49.8,0,Smart TV,E-Wallet,Retain
+USR-01209,24,134.9,5,Mobile,Bank Transfer,Retain
+USR-01210,55,133.4,4,Mobile,Bank Transfer,Retain
+USR-01211,9,50.1,3,Mobile,Credit Card,Retain
+USR-01212,55,135.3,4,Mobile,E-Wallet,Upgrade
+USR-01213,3,149.4,0,Web,Credit Card,Retain
+USR-01214,51,124.2,5,Web,E-Wallet,Retain
+USR-01215,31,127.0,2,Web,Credit Card,Retain
+USR-01216,40,38.9,5,Mobile,Credit Card,Retain
+USR-01217,37,87.4,5,Smart TV,Bank Transfer,Retain
+USR-01218,36,12.0,5,Web,Credit Card,Retain
+USR-01219,24,16.0,3,Smart TV,E-Wallet,Downgrade
+USR-01220,31,149.8,1,Smart TV,E-Wallet,Upgrade
+USR-01221,6,50.3,0,Mobile,Credit Card,Retain
+USR-01222,2,112.7,1,Smart TV,Credit Card,Upgrade
+USR-01223,20,121.4,2,Web,E-Wallet,Retain
+USR-01224,28,129.0,1,Mobile,Credit Card,Retain
+USR-01225,11,149.6,0,Mobile,Bank Transfer,Retain
+USR-01226,4,37.7,0,Mobile,Bank Transfer,Retain
+USR-01227,15,8.0,2,Mobile,Credit Card,Retain
+USR-01228,6,62.9,0,Smart TV,Credit Card,Retain
+USR-01229,54,21.3,2,Mobile,Credit Card,Downgrade
+USR-01230,49,5.3,2,Mobile,E-Wallet,Retain
+USR-01231,30,55.3,0,Mobile,Credit Card,Retain
+USR-01232,56,118.0,4,Mobile,Credit Card,Retain
+USR-01233,38,85.8,2,Smart TV,E-Wallet,Retain
+USR-01234,51,48.3,0,Smart TV,Bank Transfer,Retain
+USR-01235,57,98.8,4,Smart TV,Credit Card,Retain
+USR-01236,2,36.3,2,Smart TV,Credit Card,Retain
+USR-01237,15,4.1,4,Web,Bank Transfer,Churn
+USR-01238,11,115.1,3,Web,E-Wallet,Retain
+USR-01239,8,94.3,5,Smart TV,E-Wallet,Retain
+USR-01240,26,114.8,3,Mobile,E-Wallet,Retain
+USR-01241,51,7.8,4,Mobile,Bank Transfer,Churn
+USR-01242,45,125.9,2,Smart TV,E-Wallet,Upgrade
+USR-01243,44,93.7,0,Smart TV,Bank Transfer,Retain
+USR-01244,5,85.4,1,Web,E-Wallet,Retain
+USR-01245,6,94.4,0,Mobile,E-Wallet,Retain
+USR-01246,26,129.9,1,Web,Credit Card,Retain
+USR-01247,54,88.9,1,Smart TV,Credit Card,Retain
+USR-01248,4,88.0,2,Mobile,E-Wallet,Retain
+USR-01249,19,148.6,4,Smart TV,Credit Card,Upgrade
+USR-01250,20,114.0,0,Smart TV,E-Wallet,Upgrade
+USR-01251,33,67.5,4,Mobile,Credit Card,Retain
+USR-01252,20,106.7,3,Smart TV,Bank Transfer,Retain
+USR-01253,49,59.6,2,Smart TV,Credit Card,Retain
+USR-01254,12,35.9,2,Smart TV,Bank Transfer,Retain
+USR-01255,47,90.3,3,Smart TV,E-Wallet,Retain
+USR-01256,1,139.4,0,Mobile,Credit Card,Retain
+USR-01257,26,139.5,5,Mobile,E-Wallet,Retain
+USR-01258,14,52.6,3,Smart TV,Credit Card,Retain
+USR-01259,38,80.1,0,Smart TV,Credit Card,Retain
+USR-01260,37,33.3,1,Smart TV,Credit Card,Retain
+USR-01261,11,149.4,2,Mobile,Credit Card,Retain
+USR-01262,36,147.2,0,Smart TV,Bank Transfer,Retain
+USR-01263,13,98.1,4,Mobile,Credit Card,Retain
+USR-01264,43,121.1,4,Smart TV,E-Wallet,Retain
+USR-01265,3,107.8,2,Smart TV,Credit Card,Upgrade
+USR-01266,33,89.8,3,Web,E-Wallet,Retain
+USR-01267,6,9.9,5,Mobile,Credit Card,Churn
+USR-01268,50,69.3,3,Smart TV,E-Wallet,Retain
+USR-01269,56,101.9,0,Web,E-Wallet,Retain
+USR-01270,10,102.3,3,Mobile,E-Wallet,Retain
+USR-01271,5,57.2,2,Web,Credit Card,Retain
+USR-01272,23,141.4,0,Mobile,E-Wallet,Retain
+USR-01273,10,26.8,1,Mobile,Credit Card,Retain
+USR-01274,44,76.1,3,Web,Credit Card,Retain
+USR-01275,2,104.3,3,Smart TV,Credit Card,Retain
+USR-01276,13,105.2,5,Mobile,Credit Card,Retain
+USR-01277,40,98.0,0,Mobile,Credit Card,Retain
+USR-01278,2,42.7,4,Smart TV,E-Wallet,Retain
+USR-01279,20,25.1,3,Smart TV,Credit Card,Downgrade
+USR-01280,1,96.1,2,Smart TV,Credit Card,Retain
+USR-01281,37,90.7,3,Mobile,Credit Card,Retain
+USR-01282,9,28.5,5,Mobile,E-Wallet,Retain
+USR-01283,17,106.4,1,Mobile,E-Wallet,Retain
+USR-01284,9,69.4,5,Smart TV,Credit Card,Retain
+USR-01285,11,100.8,3,Mobile,E-Wallet,Retain
+USR-01286,15,125.9,4,Web,E-Wallet,Retain
+USR-01287,24,27.1,3,Smart TV,Credit Card,Downgrade
+USR-01288,38,4.8,0,Mobile,E-Wallet,Retain
+USR-01289,55,117.3,3,Mobile,E-Wallet,Retain
+USR-01290,35,92.2,4,Mobile,E-Wallet,Retain
+USR-01291,30,105.5,0,Mobile,Credit Card,Retain
+USR-01292,31,126.0,2,Web,Credit Card,Retain
+USR-01293,49,120.8,0,Smart TV,Credit Card,Upgrade
+USR-01294,5,144.2,5,Web,E-Wallet,Retain
+USR-01295,44,81.3,1,Smart TV,Bank Transfer,Retain
+USR-01296,50,74.3,5,Smart TV,Credit Card,Retain
+USR-01297,14,61.5,0,Smart TV,Credit Card,Retain
+USR-01298,53,24.7,2,Mobile,E-Wallet,Downgrade
+USR-01299,56,86.7,3,Mobile,Bank Transfer,Retain
+USR-01300,11,43.0,0,Smart TV,Bank Transfer,Retain
+USR-01301,9,138.4,5,Smart TV,E-Wallet,Upgrade
+USR-01302,34,88.3,0,Web,Bank Transfer,Retain
+USR-01303,12,89.7,0,Web,Credit Card,Retain
+USR-01304,35,54.5,0,Mobile,Credit Card,Retain
+USR-01305,35,9.7,2,Mobile,Credit Card,Retain
+USR-01306,1,6.7,4,Mobile,E-Wallet,Churn
+USR-01307,40,64.7,4,Smart TV,Credit Card,Retain
+USR-01308,22,14.5,0,Web,Credit Card,Retain
+USR-01309,29,91.8,2,Smart TV,Credit Card,Retain
+USR-01310,8,132.4,2,Mobile,Credit Card,Retain
+USR-01311,11,132.7,0,Smart TV,Bank Transfer,Upgrade
+USR-01312,41,99.5,5,Mobile,Credit Card,Retain
+USR-01313,37,33.3,5,Mobile,Credit Card,Retain
+USR-01314,14,129.7,1,Mobile,E-Wallet,Retain
+USR-01315,30,133.1,0,Smart TV,Credit Card,Upgrade
+USR-01316,35,31.1,1,Mobile,E-Wallet,Retain
+USR-01317,21,111.1,5,Smart TV,Bank Transfer,Retain
+USR-01318,37,44.4,5,Smart TV,Bank Transfer,Retain
+USR-01319,5,120.8,0,Smart TV,Bank Transfer,Retain
+USR-01320,19,149.6,1,Mobile,Credit Card,Retain
+USR-01321,59,6.4,1,Mobile,E-Wallet,Churn
+USR-01322,14,134.8,0,Mobile,Credit Card,Retain
+USR-01323,26,94.1,1,Mobile,Credit Card,Retain
+USR-01324,4,146.1,3,Mobile,Credit Card,Retain
+USR-01325,25,70.8,5,Mobile,Credit Card,Retain
+USR-01326,45,127.4,4,Smart TV,Bank Transfer,Upgrade
+USR-01327,42,11.2,2,Smart TV,Credit Card,Downgrade
+USR-01328,25,51.6,1,Mobile,E-Wallet,Retain
+USR-01329,18,11.9,1,Mobile,Credit Card,Retain
+USR-01330,40,146.4,2,Web,Credit Card,Retain
+USR-01331,8,122.9,1,Web,Bank Transfer,Retain
+USR-01332,39,128.2,2,Smart TV,Credit Card,Upgrade
+USR-01333,40,140.8,0,Smart TV,E-Wallet,Upgrade
+USR-01334,14,14.6,3,Mobile,Credit Card,Downgrade
+USR-01335,32,59.1,3,Smart TV,Credit Card,Retain
+USR-01336,51,12.5,5,Smart TV,Credit Card,Retain
+USR-01337,38,33.2,4,Web,Bank Transfer,Retain
+USR-01338,33,35.9,1,Smart TV,Credit Card,Retain
+USR-01339,23,71.4,4,Web,Credit Card,Retain
+USR-01340,15,41.7,0,Mobile,Credit Card,Retain
+USR-01341,33,16.9,3,Mobile,E-Wallet,Downgrade
+USR-01342,25,26.8,0,Smart TV,E-Wallet,Retain
+USR-01343,17,23.8,0,Smart TV,E-Wallet,Retain
+USR-01344,33,146.0,1,Mobile,Credit Card,Retain
+USR-01345,47,114.4,0,Smart TV,Bank Transfer,Retain
+USR-01346,55,145.2,3,Smart TV,E-Wallet,Upgrade
+USR-01347,2,67.1,4,Smart TV,Bank Transfer,Retain
+USR-01348,14,43.2,3,Smart TV,Bank Transfer,Retain
+USR-01349,53,120.1,1,Smart TV,E-Wallet,Upgrade
+USR-01350,40,50.3,3,Mobile,Credit Card,Retain
+USR-01351,40,46.3,2,Smart TV,Bank Transfer,Retain
+USR-01352,51,36.4,4,Smart TV,Bank Transfer,Retain
+USR-01353,39,21.2,2,Mobile,Credit Card,Downgrade
+USR-01354,51,40.0,2,Web,Credit Card,Retain
+USR-01355,6,54.6,5,Smart TV,Bank Transfer,Retain
+USR-01356,6,101.8,1,Smart TV,Credit Card,Retain
+USR-01357,3,11.3,0,Mobile,Bank Transfer,Retain
+USR-01358,7,33.2,2,Web,Credit Card,Retain
+USR-01359,51,121.7,3,Mobile,Credit Card,Retain
+USR-01360,8,23.7,0,Mobile,Credit Card,Retain
+USR-01361,42,52.7,3,Smart TV,Credit Card,Retain
+USR-01362,52,130.0,3,Mobile,Credit Card,Retain
+USR-01363,15,24.9,0,Smart TV,Credit Card,Retain
+USR-01364,47,14.2,0,Mobile,E-Wallet,Retain
+USR-01365,29,73.7,3,Mobile,Bank Transfer,Retain
+USR-01366,33,46.8,1,Web,Credit Card,Retain
+USR-01367,52,85.4,4,Smart TV,E-Wallet,Retain
+USR-01368,30,121.0,5,Smart TV,E-Wallet,Upgrade
+USR-01369,39,22.3,4,Mobile,E-Wallet,Retain
+USR-01370,27,87.9,1,Mobile,E-Wallet,Retain
+USR-01371,36,76.8,5,Mobile,Credit Card,Retain
+USR-01372,29,23.3,0,Smart TV,Credit Card,Retain
+USR-01373,38,94.4,5,Smart TV,Credit Card,Retain
+USR-01374,57,42.5,3,Mobile,Credit Card,Retain
+USR-01375,33,74.2,4,Smart TV,E-Wallet,Retain
+USR-01376,37,14.2,5,Web,Credit Card,Retain
+USR-01377,27,70.0,3,Mobile,Bank Transfer,Retain
+USR-01378,55,47.4,1,Mobile,Bank Transfer,Retain
+USR-01379,33,123.7,5,Mobile,Bank Transfer,Retain
+USR-01380,4,10.4,3,Mobile,Bank Transfer,Downgrade
+USR-01381,22,64.0,1,Smart TV,Credit Card,Retain
+USR-01382,2,69.8,0,Web,E-Wallet,Retain
+USR-01383,10,109.3,1,Smart TV,Credit Card,Upgrade
+USR-01384,5,87.0,1,Mobile,Bank Transfer,Retain
+USR-01385,59,100.7,4,Smart TV,Bank Transfer,Upgrade
+USR-01386,10,117.0,3,Mobile,Bank Transfer,Retain
+USR-01387,33,129.6,5,Smart TV,Credit Card,Upgrade
+USR-01388,54,48.5,4,Smart TV,E-Wallet,Retain
+USR-01389,38,81.6,2,Web,Credit Card,Retain
+USR-01390,13,126.3,1,Smart TV,Credit Card,Upgrade
+USR-01391,31,148.4,2,Mobile,E-Wallet,Retain
+USR-01392,47,133.6,4,Web,Credit Card,Upgrade
+USR-01393,36,57.0,3,Smart TV,Bank Transfer,Retain
+USR-01394,45,30.9,4,Mobile,Credit Card,Retain
+USR-01395,24,74.4,3,Smart TV,Bank Transfer,Retain
+USR-01396,52,111.8,3,Smart TV,Credit Card,Upgrade
+USR-01397,56,74.9,0,Mobile,Bank Transfer,Retain
+USR-01398,15,73.5,1,Web,Bank Transfer,Retain
+USR-01399,29,126.1,4,Smart TV,Bank Transfer,Upgrade
+USR-01400,8,55.5,3,Mobile,Credit Card,Retain
+USR-01401,5,129.2,4,Mobile,Bank Transfer,Retain
+USR-01402,29,62.2,4,Web,Credit Card,Retain
+USR-01403,47,50.6,3,Smart TV,Credit Card,Retain
+USR-01404,4,69.2,5,Mobile,Credit Card,Retain
+USR-01405,12,114.8,2,Mobile,Bank Transfer,Retain
+USR-01406,45,20.6,1,Mobile,Credit Card,Retain
+USR-01407,2,31.1,1,Web,Bank Transfer,Retain
+USR-01408,27,142.8,5,Web,E-Wallet,Retain
+USR-01409,31,28.0,0,Smart TV,Credit Card,Retain
+USR-01410,51,86.0,5,Mobile,Bank Transfer,Retain
+USR-01411,51,87.7,0,Smart TV,Credit Card,Retain
+USR-01412,36,74.5,0,Smart TV,Bank Transfer,Retain
+USR-01413,36,97.4,5,Mobile,Credit Card,Retain
+USR-01414,26,36.0,1,Smart TV,E-Wallet,Retain
+USR-01415,43,83.8,2,Mobile,Credit Card,Retain
+USR-01416,27,57.1,1,Web,Credit Card,Retain
+USR-01417,5,99.9,1,Smart TV,Credit Card,Retain
+USR-01418,20,22.9,1,Web,Credit Card,Retain
+USR-01419,11,86.5,5,Mobile,Credit Card,Retain
+USR-01420,10,29.4,5,Mobile,Credit Card,Retain
+USR-01421,40,43.2,5,Web,Credit Card,Retain
+USR-01422,38,34.4,1,Smart TV,E-Wallet,Retain
+USR-01423,6,29.1,2,Mobile,E-Wallet,Downgrade
+USR-01424,8,124.2,0,Mobile,Bank Transfer,Retain
+USR-01425,23,44.3,4,Smart TV,E-Wallet,Retain
+USR-01426,47,139.2,0,Web,E-Wallet,Retain
+USR-01427,26,145.5,0,Web,E-Wallet,Retain
+USR-01428,46,86.5,4,Smart TV,Credit Card,Retain
+USR-01429,43,23.2,1,Smart TV,E-Wallet,Retain
+USR-01430,12,57.4,2,Mobile,Credit Card,Retain
+USR-01431,26,120.1,2,Smart TV,Bank Transfer,Upgrade
+USR-01432,13,56.4,0,Mobile,E-Wallet,Retain
+USR-01433,40,14.9,4,Smart TV,Credit Card,Retain
+USR-01434,18,84.4,3,Mobile,E-Wallet,Retain
+USR-01435,25,127.1,1,Smart TV,Credit Card,Upgrade
+USR-01436,33,119.8,0,Smart TV,Credit Card,Upgrade
+USR-01437,47,27.9,2,Mobile,Credit Card,Downgrade
+USR-01438,40,101.6,5,Mobile,E-Wallet,Retain
+USR-01439,43,34.6,5,Web,E-Wallet,Retain
+USR-01440,12,34.3,4,Web,Bank Transfer,Retain
+USR-01441,44,131.4,4,Smart TV,Credit Card,Retain
+USR-01442,36,39.0,0,Smart TV,E-Wallet,Retain
+USR-01443,48,41.0,3,Web,E-Wallet,Retain
+USR-01444,4,2.1,2,Web,Credit Card,Retain
+USR-01445,5,130.9,0,Web,E-Wallet,Retain
+USR-01446,56,119.3,3,Smart TV,Credit Card,Upgrade
+USR-01447,37,94.8,4,Web,Credit Card,Retain
+USR-01448,8,113.0,5,Smart TV,Credit Card,Upgrade
+USR-01449,42,24.5,1,Mobile,E-Wallet,Retain
+USR-01450,49,69.8,5,Web,Credit Card,Retain
+USR-01451,28,54.0,2,Smart TV,Credit Card,Retain
+USR-01452,31,15.9,2,Web,Credit Card,Downgrade
+USR-01453,58,73.9,5,Smart TV,Credit Card,Retain
+USR-01454,9,138.3,5,Web,Credit Card,Retain
+USR-01455,54,7.9,3,Smart TV,Credit Card,Retain
+USR-01456,51,45.1,0,Web,E-Wallet,Retain
+USR-01457,29,32.7,4,Smart TV,Credit Card,Retain
+USR-01458,14,37.2,3,Mobile,E-Wallet,Retain
+USR-01459,40,136.4,1,Mobile,E-Wallet,Retain
+USR-01460,41,71.3,5,Mobile,Credit Card,Retain
+USR-01461,22,71.0,1,Smart TV,Credit Card,Retain
+USR-01462,11,114.6,1,Mobile,Bank Transfer,Retain
+USR-01463,23,24.9,3,Smart TV,Credit Card,Downgrade
+USR-01464,1,74.1,4,Mobile,Credit Card,Retain
+USR-01465,46,65.6,2,Smart TV,Credit Card,Retain
+USR-01466,37,90.3,0,Web,E-Wallet,Retain
+USR-01467,21,149.9,2,Smart TV,E-Wallet,Upgrade
+USR-01468,26,115.9,4,Smart TV,Bank Transfer,Upgrade
+USR-01469,46,60.9,2,Smart TV,Bank Transfer,Retain
+USR-01470,36,124.5,5,Mobile,Credit Card,Retain
+USR-01471,54,27.3,5,Smart TV,Credit Card,Retain
+USR-01472,23,6.5,3,Mobile,Credit Card,Retain
+USR-01473,57,32.3,1,Web,Credit Card,Retain
+USR-01474,1,52.4,4,Mobile,Credit Card,Retain
+USR-01475,54,77.6,4,Mobile,Credit Card,Retain
+USR-01476,55,93.0,2,Smart TV,Credit Card,Retain
+USR-01477,51,136.8,3,Mobile,Credit Card,Retain
+USR-01478,40,77.5,2,Smart TV,Credit Card,Retain
+USR-01479,15,76.2,2,Mobile,Bank Transfer,Retain
+USR-01480,21,9.4,4,Smart TV,E-Wallet,Churn
+USR-01481,47,7.2,2,Mobile,Bank Transfer,Retain
+USR-01482,9,83.6,1,Smart TV,Credit Card,Retain
+USR-01483,53,66.9,2,Web,Credit Card,Retain
+USR-01484,9,126.2,1,Smart TV,Credit Card,Upgrade
+USR-01485,10,25.8,4,Mobile,Credit Card,Retain
+USR-01486,52,5.7,3,Smart TV,Credit Card,Retain
+USR-01487,57,68.5,5,Mobile,Bank Transfer,Retain
+USR-01488,53,37.1,1,Web,Bank Transfer,Retain
+USR-01489,26,9.3,3,Mobile,Credit Card,Churn
+USR-01490,41,109.2,3,Mobile,Credit Card,Retain
+USR-01491,35,18.5,1,Web,Credit Card,Retain
+USR-01492,52,92.0,4,Mobile,Credit Card,Retain
+USR-01493,25,43.6,0,Mobile,Credit Card,Retain
+USR-01494,26,27.7,3,Mobile,Credit Card,Downgrade
+USR-01495,11,58.2,3,Mobile,Credit Card,Retain
+USR-01496,38,120.6,4,Smart TV,Credit Card,Upgrade
+USR-01497,2,60.0,4,Web,Credit Card,Retain
+USR-01498,7,113.1,2,Mobile,Credit Card,Retain
+USR-01499,18,20.6,4,Smart TV,Credit Card,Retain
+USR-01500,27,116.4,3,Mobile,Bank Transfer,Retain
+USR-01501,34,37.1,1,Smart TV,Credit Card,Retain
+USR-01502,27,102.3,0,Smart TV,Bank Transfer,Retain
+USR-01503,17,85.7,2,Mobile,Bank Transfer,Retain
+USR-01504,43,139.5,1,Web,Bank Transfer,Retain
+USR-01505,59,59.3,0,Web,E-Wallet,Retain
+USR-01506,44,11.8,0,Web,E-Wallet,Retain
+USR-01507,59,4.8,0,Web,Bank Transfer,Retain
+USR-01508,51,124.4,5,Smart TV,Credit Card,Retain
+USR-01509,54,79.7,1,Smart TV,Credit Card,Retain
+USR-01510,24,116.7,2,Web,Bank Transfer,Retain
+USR-01511,25,36.7,2,Smart TV,E-Wallet,Retain
+USR-01512,7,53.1,0,Mobile,Bank Transfer,Retain
+USR-01513,52,6.5,1,Mobile,E-Wallet,Retain
+USR-01514,6,144.3,5,Smart TV,Bank Transfer,Upgrade
+USR-01515,53,100.8,0,Web,E-Wallet,Retain
+USR-01516,24,140.1,4,Mobile,E-Wallet,Retain
+USR-01517,33,41.3,2,Mobile,E-Wallet,Retain
+USR-01518,49,92.5,3,Web,Bank Transfer,Retain
+USR-01519,29,102.4,0,Mobile,Bank Transfer,Retain
+USR-01520,43,49.0,4,Smart TV,Bank Transfer,Retain
+USR-01521,22,127.5,2,Mobile,E-Wallet,Retain
+USR-01522,26,142.2,5,Web,Credit Card,Retain
+USR-01523,28,133.0,1,Mobile,Credit Card,Retain
+USR-01524,50,111.4,2,Mobile,Bank Transfer,Retain
+USR-01525,21,43.1,1,Mobile,E-Wallet,Retain
+USR-01526,49,43.7,1,Smart TV,Credit Card,Retain
+USR-01527,7,144.6,5,Web,Credit Card,Retain
+USR-01528,17,3.5,5,Web,Bank Transfer,Churn
+USR-01529,20,108.0,0,Smart TV,Bank Transfer,Upgrade
+USR-01530,41,106.5,0,Smart TV,Bank Transfer,Upgrade
+USR-01531,49,94.2,2,Web,E-Wallet,Retain
+USR-01532,20,148.5,5,Web,Credit Card,Retain
+USR-01533,54,48.2,4,Web,Credit Card,Retain
+USR-01534,22,52.3,2,Web,Credit Card,Retain
+USR-01535,28,13.7,3,Mobile,Bank Transfer,Downgrade
+USR-01536,40,67.5,1,Mobile,Credit Card,Retain
+USR-01537,49,40.6,1,Mobile,E-Wallet,Retain
+USR-01538,7,52.8,0,Smart TV,E-Wallet,Retain
+USR-01539,1,125.5,4,Mobile,E-Wallet,Retain
+USR-01540,32,140.5,5,Mobile,Bank Transfer,Retain
+USR-01541,13,29.5,5,Mobile,Credit Card,Churn
+USR-01542,30,57.1,0,Mobile,E-Wallet,Retain
+USR-01543,23,139.4,3,Mobile,Credit Card,Retain
+USR-01544,51,11.1,2,Smart TV,Credit Card,Downgrade
+USR-01545,59,15.7,2,Smart TV,Credit Card,Downgrade
+USR-01546,56,26.1,4,Smart TV,Credit Card,Retain
+USR-01547,19,90.1,0,Smart TV,E-Wallet,Retain
+USR-01548,32,24.3,0,Web,E-Wallet,Retain
+USR-01549,30,145.3,3,Smart TV,Credit Card,Upgrade
+USR-01550,29,68.1,2,Smart TV,Credit Card,Retain
+USR-01551,49,76.2,0,Mobile,E-Wallet,Retain
+USR-01552,45,38.5,5,Mobile,Bank Transfer,Retain
+USR-01553,29,71.7,4,Smart TV,Credit Card,Retain
+USR-01554,30,100.0,2,Mobile,E-Wallet,Retain
+USR-01555,16,113.2,3,Mobile,E-Wallet,Retain
+USR-01556,40,113.6,4,Smart TV,E-Wallet,Upgrade
+USR-01557,19,87.5,1,Smart TV,Credit Card,Retain
+USR-01558,18,135.8,5,Web,E-Wallet,Retain
+USR-01559,1,123.0,3,Web,E-Wallet,Retain
+USR-01560,14,114.0,4,Mobile,E-Wallet,Retain
+USR-01561,51,10.2,0,Smart TV,E-Wallet,Retain
+USR-01562,47,3.0,1,Mobile,Bank Transfer,Retain
+USR-01563,50,33.4,3,Mobile,Credit Card,Retain
+USR-01564,2,100.2,0,Smart TV,Bank Transfer,Upgrade
+USR-01565,54,62.9,5,Mobile,E-Wallet,Retain
+USR-01566,28,61.6,1,Mobile,E-Wallet,Retain
+USR-01567,49,132.9,2,Smart TV,Credit Card,Upgrade
+USR-01568,50,134.5,0,Mobile,Credit Card,Retain
+USR-01569,30,136.6,4,Web,E-Wallet,Retain
+USR-01570,38,48.5,3,Smart TV,E-Wallet,Retain
+USR-01571,51,104.3,1,Web,Credit Card,Retain
+USR-01572,4,42.2,0,Smart TV,E-Wallet,Retain
+USR-01573,1,30.2,2,Web,Credit Card,Retain
+USR-01574,8,29.3,3,Smart TV,Bank Transfer,Downgrade
+USR-01575,29,52.6,3,Smart TV,Bank Transfer,Retain
+USR-01576,55,65.6,0,Mobile,Credit Card,Retain
+USR-01577,39,125.0,2,Mobile,Bank Transfer,Retain
+USR-01578,3,19.7,5,Web,Bank Transfer,Retain
+USR-01579,32,110.8,5,Smart TV,Credit Card,Retain
+USR-01580,10,80.7,1,Smart TV,E-Wallet,Retain
+USR-01581,10,44.6,0,Mobile,Credit Card,Retain
+USR-01582,19,74.9,1,Mobile,E-Wallet,Retain
+USR-01583,46,46.4,5,Smart TV,Credit Card,Retain
+USR-01584,34,90.2,3,Mobile,Credit Card,Retain
+USR-01585,33,66.2,1,Mobile,Credit Card,Retain
+USR-01586,23,26.3,2,Web,Credit Card,Downgrade
+USR-01587,55,19.3,4,Web,Bank Transfer,Retain
+USR-01588,28,82.9,5,Smart TV,Credit Card,Retain
+USR-01589,32,135.6,5,Mobile,Credit Card,Retain
+USR-01590,50,52.9,2,Smart TV,Bank Transfer,Retain
+USR-01591,7,110.5,1,Mobile,Credit Card,Retain
+USR-01592,29,99.5,0,Mobile,E-Wallet,Retain
+USR-01593,8,139.9,3,Web,Bank Transfer,Retain
+USR-01594,1,123.5,4,Mobile,Bank Transfer,Retain
+USR-01595,57,85.9,0,Web,Credit Card,Retain
+USR-01596,55,99.2,0,Web,Credit Card,Retain
+USR-01597,3,135.0,2,Web,Bank Transfer,Retain
+USR-01598,24,61.1,1,Web,Credit Card,Retain
+USR-01599,23,50.4,5,Mobile,Credit Card,Retain
+USR-01600,59,3.6,5,Smart TV,Credit Card,Churn
+USR-01601,8,124.3,2,Smart TV,Credit Card,Upgrade
+USR-01602,54,120.5,1,Smart TV,E-Wallet,Upgrade
+USR-01603,57,17.5,2,Mobile,E-Wallet,Downgrade
+USR-01604,47,87.4,5,Mobile,Bank Transfer,Retain
+USR-01605,37,70.7,0,Mobile,E-Wallet,Retain
+USR-01606,3,19.6,3,Web,Credit Card,Downgrade
+USR-01607,51,147.1,1,Web,Credit Card,Retain
+USR-01608,33,33.8,4,Smart TV,Bank Transfer,Retain
+USR-01609,28,12.0,4,Smart TV,Credit Card,Retain
+USR-01610,47,90.0,0,Mobile,Credit Card,Retain
+USR-01611,8,111.4,2,Smart TV,Bank Transfer,Upgrade
+USR-01612,34,6.8,2,Mobile,E-Wallet,Retain
+USR-01613,35,99.5,5,Mobile,Credit Card,Retain
+USR-01614,32,80.8,0,Mobile,Bank Transfer,Retain
+USR-01615,24,17.3,5,Web,Bank Transfer,Retain
+USR-01616,14,27.5,5,Web,Credit Card,Retain
+USR-01617,32,86.1,4,Smart TV,Bank Transfer,Retain
+USR-01618,56,45.9,5,Mobile,Credit Card,Retain
+USR-01619,46,140.9,5,Mobile,E-Wallet,Retain
+USR-01620,43,123.2,4,Smart TV,Bank Transfer,Upgrade
+USR-01621,16,147.6,2,Smart TV,Bank Transfer,Upgrade
+USR-01622,4,40.4,1,Mobile,Credit Card,Retain
+USR-01623,52,145.5,3,Smart TV,Credit Card,Upgrade
+USR-01624,37,65.8,5,Smart TV,Credit Card,Retain
+USR-01625,54,53.4,1,Mobile,E-Wallet,Retain
+USR-01626,21,9.5,4,Mobile,Credit Card,Churn
+USR-01627,14,9.8,1,Smart TV,Credit Card,Retain
+USR-01628,31,104.4,3,Smart TV,Credit Card,Upgrade
+USR-01629,55,69.8,1,Web,Credit Card,Retain
+USR-01630,48,35.5,1,Smart TV,Credit Card,Retain
+USR-01631,18,92.9,1,Web,Bank Transfer,Retain
+USR-01632,7,39.4,1,Mobile,Credit Card,Retain
+USR-01633,10,87.5,0,Smart TV,Credit Card,Retain
+USR-01634,7,55.2,5,Smart TV,Bank Transfer,Retain
+USR-01635,33,123.9,4,Smart TV,E-Wallet,Upgrade
+USR-01636,23,123.5,3,Smart TV,Credit Card,Retain
+USR-01637,21,72.6,4,Smart TV,Credit Card,Retain
+USR-01638,19,53.9,0,Mobile,E-Wallet,Retain
+USR-01639,48,55.7,0,Smart TV,Credit Card,Retain
+USR-01640,19,121.2,0,Mobile,E-Wallet,Retain
+USR-01641,36,50.6,5,Mobile,Credit Card,Retain
+USR-01642,29,32.9,0,Smart TV,Credit Card,Retain
+USR-01643,18,14.5,1,Smart TV,Credit Card,Downgrade
+USR-01644,2,71.1,4,Smart TV,E-Wallet,Retain
+USR-01645,1,73.4,2,Smart TV,Bank Transfer,Retain
+USR-01646,47,126.5,3,Mobile,Credit Card,Retain
+USR-01647,5,34.7,0,Smart TV,E-Wallet,Retain
+USR-01648,20,58.4,4,Mobile,Credit Card,Retain
+USR-01649,11,121.6,0,Mobile,Credit Card,Retain
+USR-01650,42,123.9,5,Mobile,Bank Transfer,Retain
+USR-01651,2,58.9,0,Mobile,Credit Card,Retain
+USR-01652,3,70.0,0,Mobile,Bank Transfer,Retain
+USR-01653,23,46.9,0,Smart TV,E-Wallet,Retain
+USR-01654,55,140.0,0,Smart TV,Bank Transfer,Upgrade
+USR-01655,12,19.6,3,Mobile,E-Wallet,Downgrade
+USR-01656,20,140.2,4,Smart TV,Credit Card,Upgrade
+USR-01657,5,103.2,5,Mobile,Credit Card,Retain
+USR-01658,37,80.7,0,Mobile,Credit Card,Retain
+USR-01659,38,6.8,0,Mobile,Credit Card,Retain
+USR-01660,30,72.4,0,Mobile,Credit Card,Retain
+USR-01661,9,62.3,0,Mobile,Credit Card,Retain
+USR-01662,34,25.9,1,Mobile,Bank Transfer,Retain
+USR-01663,53,99.1,1,Mobile,Credit Card,Retain
+USR-01664,44,145.7,2,Mobile,E-Wallet,Retain
+USR-01665,35,85.2,0,Mobile,Bank Transfer,Retain
+USR-01666,52,107.8,2,Web,Bank Transfer,Retain
+USR-01667,58,12.1,3,Mobile,Credit Card,Downgrade
+USR-01668,22,63.8,2,Mobile,Credit Card,Retain
+USR-01669,44,19.2,4,Mobile,Credit Card,Retain
+USR-01670,24,92.7,1,Mobile,Credit Card,Retain
+USR-01671,17,140.9,1,Smart TV,Credit Card,Retain
+USR-01672,10,99.9,0,Web,Bank Transfer,Retain
+USR-01673,30,13.4,0,Smart TV,Credit Card,Retain
+USR-01674,56,54.5,3,Mobile,E-Wallet,Retain
+USR-01675,59,83.5,5,Mobile,Bank Transfer,Retain
+USR-01676,46,61.7,3,Web,Credit Card,Retain
+USR-01677,23,125.4,4,Smart TV,Credit Card,Upgrade
+USR-01678,32,122.6,0,Mobile,E-Wallet,Retain
+USR-01679,17,92.6,0,Mobile,Credit Card,Retain
+USR-01680,50,57.3,3,Smart TV,E-Wallet,Retain
+USR-01681,51,39.8,3,Smart TV,Credit Card,Retain
+USR-01682,17,17.7,3,Mobile,Bank Transfer,Downgrade
+USR-01683,14,54.5,1,Mobile,Credit Card,Retain
+USR-01684,9,63.1,2,Smart TV,Credit Card,Retain
+USR-01685,40,102.0,2,Mobile,E-Wallet,Retain
+USR-01686,2,99.4,0,Mobile,Credit Card,Retain
+USR-01687,45,12.4,1,Mobile,Credit Card,Retain
+USR-01688,25,60.5,3,Web,Credit Card,Retain
+USR-01689,39,28.9,0,Mobile,Credit Card,Retain
+USR-01690,9,25.2,1,Web,E-Wallet,Retain
+USR-01691,54,124.4,4,Web,E-Wallet,Retain
+USR-01692,22,8.2,5,Smart TV,E-Wallet,Churn
+USR-01693,43,64.0,1,Smart TV,E-Wallet,Retain
+USR-01694,46,26.9,0,Mobile,Credit Card,Downgrade
+USR-01695,4,132.1,2,Mobile,Credit Card,Retain
+USR-01696,26,84.4,3,Mobile,E-Wallet,Retain
+USR-01697,58,36.2,5,Mobile,Bank Transfer,Retain
+USR-01698,29,76.4,4,Mobile,Credit Card,Retain
+USR-01699,45,110.3,5,Mobile,Credit Card,Retain
+USR-01700,34,143.8,5,Smart TV,Credit Card,Retain
+USR-01701,23,34.6,1,Web,E-Wallet,Retain
+USR-01702,37,133.2,0,Smart TV,E-Wallet,Upgrade
+USR-01703,11,140.3,0,Web,Credit Card,Retain
+USR-01704,6,137.6,5,Smart TV,E-Wallet,Upgrade
+USR-01705,18,96.0,3,Web,Credit Card,Retain
+USR-01706,21,95.2,0,Smart TV,Credit Card,Retain
+USR-01707,42,61.7,5,Smart TV,Bank Transfer,Retain
+USR-01708,36,113.4,0,Smart TV,Credit Card,Upgrade
+USR-01709,41,80.6,3,Mobile,Credit Card,Retain
+USR-01710,38,102.3,4,Web,Bank Transfer,Retain
+USR-01711,34,65.4,5,Mobile,Bank Transfer,Retain
+USR-01712,17,110.3,2,Web,E-Wallet,Retain
+USR-01713,37,124.0,2,Mobile,Credit Card,Retain
+USR-01714,25,23.7,5,Mobile,Credit Card,Downgrade
+USR-01715,38,125.3,1,Web,Bank Transfer,Retain
+USR-01716,58,82.0,4,Smart TV,E-Wallet,Retain
+USR-01717,12,127.0,1,Smart TV,Bank Transfer,Upgrade
+USR-01718,23,65.8,2,Web,Credit Card,Retain
+USR-01719,53,58.1,3,Web,Credit Card,Retain
+USR-01720,42,137.4,5,Web,Bank Transfer,Retain
+USR-01721,22,39.2,0,Web,E-Wallet,Retain
+USR-01722,21,126.9,2,Smart TV,Credit Card,Retain
+USR-01723,27,73.6,4,Web,Credit Card,Retain
+USR-01724,57,78.1,2,Mobile,Credit Card,Retain
+USR-01725,31,47.7,4,Web,Credit Card,Retain
+USR-01726,6,86.8,4,Mobile,Credit Card,Retain
+USR-01727,27,50.1,5,Mobile,Credit Card,Retain
+USR-01728,40,7.8,4,Mobile,E-Wallet,Churn
+USR-01729,34,42.3,1,Smart TV,Credit Card,Retain
+USR-01730,12,2.9,3,Smart TV,Bank Transfer,Retain
+USR-01731,45,146.8,2,Web,Credit Card,Retain
+USR-01732,57,144.9,3,Web,E-Wallet,Retain
+USR-01733,53,60.5,0,Smart TV,Credit Card,Retain
+USR-01734,7,109.8,2,Mobile,E-Wallet,Retain
+USR-01735,10,53.2,3,Mobile,Bank Transfer,Retain
+USR-01736,45,101.3,3,Mobile,Bank Transfer,Retain
+USR-01737,17,121.2,5,Smart TV,E-Wallet,Upgrade
+USR-01738,26,142.1,5,Web,Credit Card,Retain
+USR-01739,21,61.2,0,Mobile,Bank Transfer,Retain
+USR-01740,28,117.9,4,Mobile,Bank Transfer,Retain
+USR-01741,58,41.4,2,Mobile,Bank Transfer,Retain
+USR-01742,46,148.6,5,Smart TV,Credit Card,Upgrade
+USR-01743,2,5.8,2,Mobile,Bank Transfer,Retain
+USR-01744,54,91.3,0,Smart TV,Credit Card,Retain
+USR-01745,43,99.6,5,Smart TV,Credit Card,Retain
+USR-01746,1,103.8,5,Mobile,Credit Card,Retain
+USR-01747,51,19.8,4,Web,Credit Card,Retain
+USR-01748,53,140.9,2,Mobile,E-Wallet,Retain
+USR-01749,36,28.8,2,Smart TV,Bank Transfer,Downgrade
+USR-01750,51,94.2,2,Mobile,E-Wallet,Retain
+USR-01751,26,35.0,4,Web,E-Wallet,Retain
+USR-01752,29,47.5,5,Mobile,E-Wallet,Retain
+USR-01753,21,82.9,0,Web,E-Wallet,Retain
+USR-01754,11,63.7,2,Mobile,Credit Card,Retain
+USR-01755,40,25.7,3,Mobile,Bank Transfer,Downgrade
+USR-01756,11,27.3,4,Smart TV,E-Wallet,Retain
+USR-01757,36,63.9,1,Smart TV,E-Wallet,Retain
+USR-01758,49,114.1,0,Smart TV,E-Wallet,Upgrade
+USR-01759,59,134.9,3,Mobile,Bank Transfer,Retain
+USR-01760,39,14.5,2,Web,Credit Card,Downgrade
+USR-01761,40,60.2,1,Web,Credit Card,Retain
+USR-01762,35,16.8,0,Smart TV,E-Wallet,Retain
+USR-01763,54,4.5,4,Smart TV,Credit Card,Churn
+USR-01764,34,99.9,1,Smart TV,Bank Transfer,Retain
+USR-01765,55,91.2,5,Smart TV,Credit Card,Churn
+USR-01766,47,26.1,1,Mobile,Credit Card,Retain
+USR-01767,24,36.6,3,Web,Bank Transfer,Retain
+USR-01768,54,5.5,0,Web,Credit Card,Retain
+USR-01769,22,125.6,3,Mobile,E-Wallet,Retain
+USR-01770,5,146.3,3,Web,Credit Card,Retain
+USR-01771,56,22.0,2,Mobile,Credit Card,Downgrade
+USR-01772,33,36.3,4,Smart TV,E-Wallet,Retain
+USR-01773,58,130.5,1,Mobile,Credit Card,Retain
+USR-01774,36,139.1,0,Mobile,Bank Transfer,Retain
+USR-01775,47,64.1,5,Mobile,E-Wallet,Retain
+USR-01776,20,9.5,4,Smart TV,Credit Card,Churn
+USR-01777,19,7.8,4,Smart TV,E-Wallet,Churn
+USR-01778,35,86.9,0,Smart TV,E-Wallet,Retain
+USR-01779,52,60.1,4,Web,Credit Card,Retain
+USR-01780,43,6.2,2,Mobile,Credit Card,Retain
+USR-01781,17,88.3,4,Mobile,Credit Card,Retain
+USR-01782,59,3.7,2,Mobile,E-Wallet,Retain
+USR-01783,45,118.5,1,Smart TV,E-Wallet,Retain
+USR-01784,43,47.4,1,Mobile,E-Wallet,Retain
+USR-01785,34,8.0,3,Web,E-Wallet,Retain
+USR-01786,9,89.1,2,Mobile,E-Wallet,Retain
+USR-01787,26,60.9,5,Web,E-Wallet,Retain
+USR-01788,2,146.1,1,Smart TV,E-Wallet,Retain
+USR-01789,53,82.5,4,Smart TV,Credit Card,Retain
+USR-01790,9,42.7,0,Web,Bank Transfer,Retain
+USR-01791,9,107.0,0,Web,E-Wallet,Retain
+USR-01792,40,42.2,2,Web,Bank Transfer,Retain
+USR-01793,17,135.8,5,Mobile,E-Wallet,Retain
+USR-01794,1,57.5,3,Web,Credit Card,Retain
+USR-01795,25,83.4,4,Web,E-Wallet,Retain
+USR-01796,43,9.5,2,Web,Credit Card,Retain
+USR-01797,40,65.1,0,Mobile,E-Wallet,Retain
+USR-01798,42,125.2,2,Smart TV,Credit Card,Upgrade
+USR-01799,25,121.2,4,Web,Bank Transfer,Retain
+USR-01800,39,35.2,5,Mobile,E-Wallet,Retain
+USR-01801,35,35.5,5,Mobile,E-Wallet,Retain
+USR-01802,3,123.0,1,Mobile,Credit Card,Retain
+USR-01803,50,139.7,4,Mobile,Bank Transfer,Retain
+USR-01804,37,16.1,1,Mobile,Bank Transfer,Retain
+USR-01805,44,68.6,1,Smart TV,E-Wallet,Retain
+USR-01806,44,51.9,1,Web,Credit Card,Retain
+USR-01807,51,130.9,2,Mobile,E-Wallet,Retain
+USR-01808,30,14.4,0,Mobile,Credit Card,Retain
+USR-01809,38,33.2,5,Smart TV,E-Wallet,Retain
+USR-01810,34,113.4,2,Smart TV,Credit Card,Upgrade
+USR-01811,12,9.6,0,Smart TV,E-Wallet,Retain
+USR-01812,19,74.9,5,Mobile,E-Wallet,Retain
+USR-01813,37,67.4,4,Smart TV,Credit Card,Retain
+USR-01814,44,51.5,5,Web,Credit Card,Retain
+USR-01815,59,60.4,5,Smart TV,Bank Transfer,Retain
+USR-01816,59,80.4,5,Smart TV,Credit Card,Retain
+USR-01817,49,25.9,3,Smart TV,E-Wallet,Downgrade
+USR-01818,17,86.7,4,Smart TV,Credit Card,Retain
+USR-01819,10,121.2,2,Mobile,Credit Card,Retain
+USR-01820,57,114.5,2,Web,Credit Card,Retain
+USR-01821,55,24.8,0,Mobile,E-Wallet,Retain
+USR-01822,49,24.1,2,Smart TV,Credit Card,Downgrade
+USR-01823,47,41.7,1,Smart TV,Bank Transfer,Retain
+USR-01824,12,55.4,5,Mobile,E-Wallet,Retain
+USR-01825,16,62.5,2,Web,Credit Card,Retain
+USR-01826,24,102.6,0,Smart TV,E-Wallet,Retain
+USR-01827,19,10.4,0,Mobile,Credit Card,Retain
+USR-01828,8,7.1,1,Mobile,E-Wallet,Retain
+USR-01829,31,60.0,0,Smart TV,Credit Card,Retain
+USR-01830,21,105.2,3,Mobile,Credit Card,Retain
+USR-01831,17,30.6,5,Smart TV,E-Wallet,Churn
+USR-01832,23,96.9,5,Mobile,Bank Transfer,Retain
+USR-01833,37,40.5,5,Smart TV,Credit Card,Churn
+USR-01834,54,133.1,4,Mobile,Bank Transfer,Retain
+USR-01835,16,134.6,2,Smart TV,Credit Card,Upgrade
+USR-01836,6,46.0,3,Web,Bank Transfer,Retain
+USR-01837,8,36.0,2,Smart TV,E-Wallet,Retain
+USR-01838,25,62.9,3,Web,Credit Card,Retain
+USR-01839,18,37.6,2,Web,Credit Card,Retain
+USR-01840,25,101.5,1,Web,Credit Card,Retain
+USR-01841,12,124.3,0,Mobile,Credit Card,Retain
+USR-01842,15,101.6,0,Mobile,Credit Card,Retain
+USR-01843,59,124.0,1,Smart TV,E-Wallet,Upgrade
+USR-01844,26,60.8,3,Smart TV,Bank Transfer,Retain
+USR-01845,41,25.1,4,Mobile,Credit Card,Retain
+USR-01846,45,111.2,3,Smart TV,E-Wallet,Upgrade
+USR-01847,26,55.4,0,Web,E-Wallet,Retain
+USR-01848,47,101.3,4,Smart TV,Bank Transfer,Retain
+USR-01849,32,42.1,2,Mobile,E-Wallet,Retain
+USR-01850,10,14.0,4,Mobile,E-Wallet,Retain
+USR-01851,16,148.9,3,Mobile,Credit Card,Retain
+USR-01852,7,25.1,1,Mobile,Credit Card,Retain
+USR-01853,17,148.3,2,Smart TV,Credit Card,Upgrade
+USR-01854,23,146.6,3,Mobile,Credit Card,Retain
+USR-01855,26,119.5,2,Smart TV,Credit Card,Upgrade
+USR-01856,21,99.6,4,Web,E-Wallet,Retain
+USR-01857,22,87.5,0,Mobile,Credit Card,Retain
+USR-01858,58,130.2,3,Web,E-Wallet,Retain
+USR-01859,7,44.8,1,Smart TV,Credit Card,Retain
+USR-01860,14,71.2,4,Smart TV,Bank Transfer,Retain
+USR-01861,15,93.7,3,Smart TV,Bank Transfer,Retain
+USR-01862,53,62.9,1,Smart TV,Credit Card,Retain
+USR-01863,7,65.3,3,Smart TV,Credit Card,Retain
+USR-01864,9,50.9,4,Mobile,E-Wallet,Retain
+USR-01865,51,85.5,3,Smart TV,Credit Card,Retain
+USR-01866,48,127.9,2,Mobile,Credit Card,Retain
+USR-01867,8,31.8,4,Web,Credit Card,Retain
+USR-01868,50,140.3,3,Mobile,Bank Transfer,Retain
+USR-01869,59,104.0,0,Smart TV,Bank Transfer,Upgrade
+USR-01870,23,123.8,3,Smart TV,E-Wallet,Upgrade
+USR-01871,29,84.3,2,Mobile,E-Wallet,Retain
+USR-01872,18,117.4,1,Smart TV,Bank Transfer,Upgrade
+USR-01873,31,4.4,1,Mobile,Bank Transfer,Retain
+USR-01874,30,123.1,1,Smart TV,Bank Transfer,Upgrade
+USR-01875,52,7.9,0,Web,Credit Card,Retain
+USR-01876,39,133.7,2,Mobile,Credit Card,Retain
+USR-01877,35,148.8,4,Mobile,E-Wallet,Retain
+USR-01878,18,45.5,1,Smart TV,E-Wallet,Retain
+USR-01879,59,33.1,2,Smart TV,Credit Card,Retain
+USR-01880,42,115.3,3,Mobile,Credit Card,Upgrade
+USR-01881,39,39.4,0,Mobile,Bank Transfer,Retain
+USR-01882,17,130.1,2,Smart TV,Bank Transfer,Upgrade
+USR-01883,14,17.2,2,Smart TV,Credit Card,Downgrade
+USR-01884,31,20.6,4,Smart TV,Bank Transfer,Retain
+USR-01885,24,146.9,2,Mobile,E-Wallet,Retain
+USR-01886,35,101.7,4,Smart TV,Bank Transfer,Upgrade
+USR-01887,44,127.3,0,Mobile,Credit Card,Retain
+USR-01888,45,50.0,0,Mobile,Credit Card,Retain
+USR-01889,34,102.1,3,Mobile,Credit Card,Retain
+USR-01890,3,89.9,4,Web,Credit Card,Retain
+USR-01891,37,91.3,4,Web,E-Wallet,Retain
+USR-01892,43,103.0,1,Mobile,Credit Card,Retain
+USR-01893,40,87.2,1,Smart TV,Bank Transfer,Retain
+USR-01894,26,65.5,3,Mobile,Credit Card,Retain
+USR-01895,55,42.8,0,Mobile,Credit Card,Retain
+USR-01896,23,115.8,5,Mobile,E-Wallet,Retain
+USR-01897,44,35.5,1,Mobile,E-Wallet,Retain
+USR-01898,39,104.5,2,Smart TV,Credit Card,Upgrade
+USR-01899,15,36.5,0,Mobile,E-Wallet,Retain
+USR-01900,56,94.5,5,Smart TV,E-Wallet,Retain
+USR-01901,49,112.6,2,Mobile,E-Wallet,Retain
+USR-01902,4,34.4,4,Smart TV,E-Wallet,Retain
+USR-01903,29,10.9,0,Mobile,Credit Card,Retain
+USR-01904,22,21.4,3,Smart TV,E-Wallet,Downgrade
+USR-01905,25,91.7,4,Mobile,Bank Transfer,Retain
+USR-01906,13,127.7,4,Mobile,Credit Card,Retain
+USR-01907,18,8.7,2,Smart TV,Credit Card,Retain
+USR-01908,33,110.7,4,Mobile,Bank Transfer,Retain
+USR-01909,16,52.5,1,Mobile,Credit Card,Retain
+USR-01910,45,72.8,0,Mobile,Credit Card,Retain
+USR-01911,42,139.5,1,Smart TV,Bank Transfer,Upgrade
+USR-01912,44,51.1,2,Mobile,Credit Card,Retain
+USR-01913,2,70.9,5,Mobile,Credit Card,Retain
+USR-01914,55,4.0,2,Mobile,Bank Transfer,Retain
+USR-01915,35,14.1,0,Mobile,Bank Transfer,Retain
+USR-01916,42,40.3,4,Mobile,Credit Card,Retain
+USR-01917,34,6.1,3,Smart TV,E-Wallet,Retain
+USR-01918,30,95.4,2,Smart TV,Bank Transfer,Retain
+USR-01919,59,65.1,0,Smart TV,E-Wallet,Retain
+USR-01920,55,83.1,3,Smart TV,Credit Card,Retain
+USR-01921,13,27.8,4,Mobile,Credit Card,Retain
+USR-01922,13,45.8,5,Mobile,Credit Card,Retain
+USR-01923,18,100.2,2,Smart TV,Bank Transfer,Upgrade
+USR-01924,32,144.9,5,Web,Bank Transfer,Retain
+USR-01925,32,9.5,0,Mobile,Bank Transfer,Retain
+USR-01926,35,133.8,5,Web,Bank Transfer,Retain
+USR-01927,59,87.4,5,Mobile,E-Wallet,Retain
+USR-01928,39,85.5,0,Mobile,Credit Card,Retain
+USR-01929,46,76.0,0,Smart TV,E-Wallet,Retain
+USR-01930,52,12.3,2,Smart TV,E-Wallet,Downgrade
+USR-01931,29,15.3,5,Smart TV,E-Wallet,Retain
+USR-01932,49,90.9,3,Mobile,Credit Card,Retain
+USR-01933,29,52.5,0,Smart TV,Bank Transfer,Retain
+USR-01934,53,137.8,4,Mobile,Credit Card,Retain
+USR-01935,44,62.2,5,Smart TV,Credit Card,Retain
+USR-01936,57,23.2,0,Web,E-Wallet,Retain
+USR-01937,16,107.8,3,Smart TV,E-Wallet,Upgrade
+USR-01938,56,45.4,2,Smart TV,Credit Card,Retain
+USR-01939,44,79.8,5,Smart TV,Bank Transfer,Retain
+USR-01940,47,105.3,0,Mobile,Credit Card,Retain
+USR-01941,57,135.2,0,Smart TV,Credit Card,Upgrade
+USR-01942,10,119.2,4,Mobile,Credit Card,Retain
+USR-01943,30,102.1,4,Smart TV,E-Wallet,Retain
+USR-01944,25,102.6,5,Smart TV,Bank Transfer,Upgrade
+USR-01945,39,142.0,0,Web,Bank Transfer,Retain
+USR-01946,20,45.8,5,Smart TV,Bank Transfer,Retain
+USR-01947,5,2.2,0,Web,Credit Card,Retain
+USR-01948,1,42.2,4,Web,Credit Card,Churn
+USR-01949,30,34.2,3,Smart TV,E-Wallet,Retain
+USR-01950,49,100.0,1,Smart TV,Credit Card,Retain
+USR-01951,3,95.8,1,Smart TV,Bank Transfer,Retain
+USR-01952,45,89.8,0,Mobile,E-Wallet,Retain
+USR-01953,14,4.4,4,Mobile,Bank Transfer,Churn
+USR-01954,56,109.9,2,Mobile,Credit Card,Retain
+USR-01955,30,49.9,2,Mobile,Credit Card,Retain
+USR-01956,50,100.4,1,Smart TV,E-Wallet,Upgrade
+USR-01957,4,84.4,3,Web,Credit Card,Retain
+USR-01958,18,52.7,1,Mobile,E-Wallet,Retain
+USR-01959,37,21.9,0,Mobile,Credit Card,Retain
+USR-01960,25,16.0,3,Web,Credit Card,Downgrade
+USR-01961,48,125.1,2,Mobile,Credit Card,Retain
+USR-01962,1,137.9,4,Smart TV,Credit Card,Retain
+USR-01963,53,98.2,4,Mobile,E-Wallet,Retain
+USR-01964,46,17.3,0,Mobile,Credit Card,Retain
+USR-01965,15,61.5,1,Smart TV,Credit Card,Retain
+USR-01966,9,109.9,0,Web,Credit Card,Retain
+USR-01967,15,117.4,4,Smart TV,Credit Card,Upgrade
+USR-01968,49,19.5,2,Mobile,Credit Card,Downgrade
+USR-01969,57,2.0,4,Mobile,Credit Card,Churn
+USR-01970,24,107.4,3,Smart TV,E-Wallet,Upgrade
+USR-01971,4,54.8,5,Web,E-Wallet,Retain
+USR-01972,12,39.7,4,Web,E-Wallet,Retain
+USR-01973,59,3.9,4,Mobile,Bank Transfer,Churn
+USR-01974,58,82.0,5,Smart TV,Credit Card,Retain
+USR-01975,37,128.0,3,Smart TV,E-Wallet,Upgrade
+USR-01976,37,143.7,1,Smart TV,Bank Transfer,Upgrade
+USR-01977,43,85.7,4,Smart TV,Credit Card,Retain
+USR-01978,6,78.1,0,Mobile,E-Wallet,Retain
+USR-01979,39,14.6,4,Web,Credit Card,Retain
+USR-01980,56,83.2,0,Mobile,Credit Card,Retain
+USR-01981,46,58.2,3,Web,E-Wallet,Retain
+USR-01982,24,91.9,4,Mobile,Credit Card,Retain
+USR-01983,11,59.5,3,Mobile,Credit Card,Retain
+USR-01984,13,37.6,3,Web,Credit Card,Retain
+USR-01985,34,16.1,1,Mobile,Credit Card,Retain
+USR-01986,25,48.6,4,Web,Credit Card,Churn
+USR-01987,7,16.3,0,Smart TV,E-Wallet,Retain
+USR-01988,52,28.2,0,Smart TV,E-Wallet,Retain
+USR-01989,4,148.1,4,Web,E-Wallet,Retain
+USR-01990,59,67.7,5,Mobile,Credit Card,Retain
+USR-01991,8,80.7,1,Web,Bank Transfer,Retain
+USR-01992,20,131.3,1,Web,E-Wallet,Retain
+USR-01993,29,149.3,1,Smart TV,Credit Card,Upgrade
+USR-01994,54,88.2,0,Mobile,Bank Transfer,Retain
+USR-01995,53,122.2,3,Smart TV,E-Wallet,Upgrade
+USR-01996,51,50.4,5,Mobile,E-Wallet,Retain
+USR-01997,45,47.3,1,Mobile,Credit Card,Retain
+USR-01998,46,61.6,0,Smart TV,Credit Card,Retain
+USR-01999,10,101.5,0,Mobile,Bank Transfer,Retain
+USR-02000,43,103.0,3,Mobile,E-Wallet,Retain
+USR-02001,34,48.7,4,Smart TV,E-Wallet,Retain
+USR-02002,57,21.7,4,Web,E-Wallet,Retain
+USR-02003,26,95.6,1,Mobile,Bank Transfer,Retain
+USR-02004,41,21.0,1,Web,Credit Card,Retain
+USR-02005,49,87.6,5,Smart TV,E-Wallet,Retain
+USR-02006,58,104.6,3,Smart TV,Credit Card,Retain
+USR-02007,3,105.7,1,Mobile,E-Wallet,Retain
+USR-02008,56,113.5,3,Smart TV,E-Wallet,Upgrade
+USR-02009,6,131.2,0,Web,Credit Card,Retain
+USR-02010,5,76.0,1,Smart TV,E-Wallet,Retain
+USR-02011,5,110.1,0,Mobile,Credit Card,Retain
+USR-02012,54,93.6,2,Mobile,Credit Card,Retain
+USR-02013,47,29.6,3,Smart TV,Credit Card,Downgrade
+USR-02014,23,5.8,2,Smart TV,Credit Card,Retain
+USR-02015,49,44.1,1,Mobile,Credit Card,Retain
+USR-02016,9,67.6,0,Mobile,Credit Card,Retain
+USR-02017,35,93.3,1,Smart TV,E-Wallet,Retain
+USR-02018,20,127.8,2,Web,E-Wallet,Retain
+USR-02019,58,31.0,1,Smart TV,E-Wallet,Retain
+USR-02020,49,20.6,5,Mobile,Credit Card,Retain
+USR-02021,59,144.6,4,Mobile,Bank Transfer,Retain
+USR-02022,42,18.0,2,Smart TV,E-Wallet,Downgrade
+USR-02023,35,72.8,1,Web,Credit Card,Retain
+USR-02024,50,88.7,0,Smart TV,Bank Transfer,Retain
+USR-02025,18,82.1,1,Smart TV,Credit Card,Retain
+USR-02026,17,14.7,0,Smart TV,E-Wallet,Retain
+USR-02027,24,10.4,4,Mobile,Credit Card,Retain
+USR-02028,3,17.6,1,Mobile,Credit Card,Retain
+USR-02029,32,88.7,4,Mobile,Bank Transfer,Retain
+USR-02030,35,82.6,2,Smart TV,Credit Card,Retain
+USR-02031,38,36.6,0,Smart TV,Credit Card,Retain
+USR-02032,13,96.4,5,Web,Bank Transfer,Retain
+USR-02033,56,123.4,2,Smart TV,Bank Transfer,Retain
+USR-02034,47,8.2,0,Web,E-Wallet,Retain
+USR-02035,25,75.7,4,Smart TV,Credit Card,Retain
+USR-02036,9,104.0,3,Web,Credit Card,Retain
+USR-02037,4,39.3,1,Smart TV,E-Wallet,Retain
+USR-02038,14,47.6,4,Mobile,Credit Card,Retain
+USR-02039,37,92.8,0,Smart TV,Credit Card,Retain
+USR-02040,34,134.9,0,Smart TV,E-Wallet,Retain
+USR-02041,11,121.9,0,Smart TV,Credit Card,Upgrade
+USR-02042,41,88.3,0,Smart TV,Credit Card,Retain
+USR-02043,56,110.1,1,Smart TV,Credit Card,Upgrade
+USR-02044,3,56.0,2,Mobile,Credit Card,Retain
+USR-02045,59,96.9,5,Mobile,Credit Card,Retain
+USR-02046,28,71.0,3,Mobile,Credit Card,Retain
+USR-02047,29,30.1,1,Mobile,Credit Card,Retain
+USR-02048,9,105.9,0,Mobile,E-Wallet,Retain
+USR-02049,3,84.4,1,Mobile,Bank Transfer,Retain
+USR-02050,25,55.1,4,Mobile,Credit Card,Retain
+USR-02051,34,136.9,5,Mobile,E-Wallet,Retain
+USR-02052,12,5.1,0,Web,Credit Card,Churn
+USR-02053,42,48.7,3,Smart TV,Credit Card,Retain
+USR-02054,9,10.4,0,Smart TV,Credit Card,Retain
+USR-02055,15,115.4,5,Mobile,E-Wallet,Retain
+USR-02056,40,105.9,3,Smart TV,E-Wallet,Upgrade
+USR-02057,25,51.0,5,Web,E-Wallet,Retain
+USR-02058,5,102.0,3,Web,Credit Card,Retain
+USR-02059,11,60.6,2,Smart TV,Credit Card,Retain
+USR-02060,59,113.9,2,Smart TV,E-Wallet,Upgrade
+USR-02061,34,69.2,1,Mobile,Credit Card,Retain
+USR-02062,24,63.0,1,Mobile,E-Wallet,Retain
+USR-02063,15,140.3,3,Smart TV,E-Wallet,Upgrade
+USR-02064,38,39.1,0,Mobile,E-Wallet,Retain
+USR-02065,8,19.8,4,Mobile,Bank Transfer,Retain
+USR-02066,59,88.5,4,Smart TV,Bank Transfer,Retain
+USR-02067,5,145.5,0,Smart TV,E-Wallet,Upgrade
+USR-02068,48,57.9,0,Mobile,E-Wallet,Retain
+USR-02069,26,11.2,2,Smart TV,Credit Card,Downgrade
+USR-02070,18,52.2,4,Web,Bank Transfer,Retain
+USR-02071,6,76.9,3,Mobile,Credit Card,Retain
+USR-02072,37,26.0,5,Mobile,Credit Card,Retain
+USR-02073,48,99.4,1,Web,Credit Card,Retain
+USR-02074,13,149.7,5,Web,Credit Card,Retain
+USR-02075,28,68.9,2,Smart TV,E-Wallet,Retain
+USR-02076,5,54.5,4,Smart TV,E-Wallet,Retain
+USR-02077,13,61.3,0,Mobile,Credit Card,Retain
+USR-02078,17,19.0,4,Mobile,Credit Card,Retain
+USR-02079,50,132.7,3,Smart TV,Bank Transfer,Upgrade
+USR-02080,40,63.4,2,Web,E-Wallet,Retain
+USR-02081,45,59.3,0,Smart TV,Bank Transfer,Retain
+USR-02082,32,99.6,5,Smart TV,Credit Card,Retain
+USR-02083,29,67.4,3,Smart TV,E-Wallet,Retain
+USR-02084,51,97.9,5,Mobile,Credit Card,Retain
+USR-02085,58,11.1,1,Mobile,Credit Card,Downgrade
+USR-02086,3,122.4,2,Smart TV,Credit Card,Upgrade
+USR-02087,56,141.2,3,Smart TV,Credit Card,Upgrade
+USR-02088,40,98.0,3,Smart TV,Credit Card,Retain
+USR-02089,34,143.3,5,Mobile,Bank Transfer,Retain
+USR-02090,40,24.4,0,Smart TV,Credit Card,Retain
+USR-02091,27,72.7,1,Web,Credit Card,Retain
+USR-02092,13,91.1,5,Smart TV,Credit Card,Retain
+USR-02093,45,88.1,3,Web,Credit Card,Retain
+USR-02094,33,61.4,2,Smart TV,E-Wallet,Retain
+USR-02095,6,52.0,3,Mobile,Credit Card,Retain
+USR-02096,24,20.8,4,Smart TV,E-Wallet,Retain
+USR-02097,19,60.0,2,Smart TV,Credit Card,Retain
+USR-02098,16,26.1,2,Web,E-Wallet,Downgrade
+USR-02099,40,110.7,3,Web,E-Wallet,Retain
+USR-02100,28,32.9,0,Mobile,Bank Transfer,Retain
+USR-02101,33,10.7,2,Mobile,Bank Transfer,Downgrade
+USR-02102,59,83.8,4,Mobile,E-Wallet,Retain
+USR-02103,59,90.1,5,Web,Credit Card,Retain
+USR-02104,48,131.0,0,Smart TV,E-Wallet,Upgrade
+USR-02105,41,87.4,0,Mobile,E-Wallet,Retain
+USR-02106,13,53.1,0,Mobile,Bank Transfer,Retain
+USR-02107,43,120.8,2,Smart TV,Credit Card,Upgrade
+USR-02108,45,82.0,0,Web,Credit Card,Retain
+USR-02109,25,13.7,3,Smart TV,E-Wallet,Downgrade
+USR-02110,53,85.7,0,Smart TV,Credit Card,Retain
+USR-02111,42,136.4,4,Mobile,Credit Card,Retain
+USR-02112,36,60.7,1,Mobile,Credit Card,Retain
+USR-02113,27,45.9,4,Smart TV,E-Wallet,Retain
+USR-02114,38,23.2,2,Smart TV,Bank Transfer,Downgrade
+USR-02115,7,24.4,0,Web,Credit Card,Retain
+USR-02116,5,66.1,0,Smart TV,Credit Card,Retain
+USR-02117,43,90.2,3,Mobile,Credit Card,Retain
+USR-02118,45,13.9,5,Mobile,Credit Card,Retain
+USR-02119,58,141.1,0,Mobile,E-Wallet,Retain
+USR-02120,57,113.8,4,Web,E-Wallet,Retain
+USR-02121,51,88.8,2,Mobile,Credit Card,Retain
+USR-02122,31,124.6,1,Mobile,E-Wallet,Retain
+USR-02123,23,13.9,0,Mobile,E-Wallet,Retain
+USR-02124,42,72.6,1,Mobile,Credit Card,Retain
+USR-02125,10,95.3,0,Mobile,Credit Card,Retain
+USR-02126,32,124.6,2,Web,Bank Transfer,Retain
+USR-02127,43,118.0,5,Smart TV,Credit Card,Retain
+USR-02128,53,43.0,4,Smart TV,E-Wallet,Retain
+USR-02129,30,141.3,2,Smart TV,Credit Card,Upgrade
+USR-02130,39,20.4,1,Smart TV,E-Wallet,Retain
+USR-02131,31,131.5,0,Smart TV,E-Wallet,Retain
+USR-02132,18,145.7,1,Web,E-Wallet,Retain
+USR-02133,36,28.2,4,Mobile,Bank Transfer,Retain
+USR-02134,2,108.9,2,Mobile,Bank Transfer,Retain
+USR-02135,14,8.0,1,Mobile,E-Wallet,Retain
+USR-02136,13,62.0,1,Web,Credit Card,Retain
+USR-02137,29,78.4,4,Mobile,Credit Card,Retain
+USR-02138,12,87.9,0,Web,E-Wallet,Retain
+USR-02139,39,140.5,1,Smart TV,E-Wallet,Upgrade
+USR-02140,2,101.5,4,Web,Credit Card,Retain
+USR-02141,32,73.2,0,Mobile,Credit Card,Retain
+USR-02142,13,121.8,5,Smart TV,E-Wallet,Upgrade
+USR-02143,46,142.7,0,Mobile,Credit Card,Retain
+USR-02144,27,5.3,5,Mobile,Credit Card,Churn
+USR-02145,49,147.4,2,Smart TV,E-Wallet,Upgrade
+USR-02146,41,14.7,4,Mobile,E-Wallet,Retain
+USR-02147,17,122.5,0,Smart TV,Credit Card,Upgrade
+USR-02148,40,43.5,5,Smart TV,Credit Card,Retain
+USR-02149,31,21.6,5,Web,Credit Card,Retain
+USR-02150,34,67.1,2,Mobile,Credit Card,Retain
+USR-02151,24,97.3,3,Web,E-Wallet,Retain
+USR-02152,45,58.4,4,Mobile,E-Wallet,Retain
+USR-02153,35,10.1,3,Smart TV,Credit Card,Downgrade
+USR-02154,48,90.7,0,Mobile,Credit Card,Retain
+USR-02155,6,135.6,4,Mobile,Credit Card,Retain
+USR-02156,19,58.7,2,Web,Bank Transfer,Retain
+USR-02157,30,34.0,0,Smart TV,Credit Card,Retain
+USR-02158,7,67.5,4,Web,Bank Transfer,Retain
+USR-02159,10,9.2,4,Web,Bank Transfer,Churn
+USR-02160,41,123.4,3,Mobile,E-Wallet,Retain
+USR-02161,32,124.3,0,Web,E-Wallet,Retain
+USR-02162,34,89.0,2,Smart TV,Credit Card,Retain
+USR-02163,28,54.3,2,Web,E-Wallet,Retain
+USR-02164,15,120.4,0,Mobile,Credit Card,Retain
+USR-02165,30,84.1,0,Smart TV,Bank Transfer,Retain
+USR-02166,37,124.2,5,Web,Credit Card,Retain
+USR-02167,29,95.5,1,Mobile,E-Wallet,Retain
+USR-02168,22,118.1,3,Mobile,Credit Card,Retain
+USR-02169,4,90.6,0,Mobile,Bank Transfer,Retain
+USR-02170,20,63.3,0,Smart TV,Credit Card,Retain
+USR-02171,32,143.8,1,Mobile,E-Wallet,Retain
+USR-02172,36,82.1,1,Web,Credit Card,Retain
+USR-02173,50,91.6,4,Smart TV,Credit Card,Retain
+USR-02174,4,34.6,2,Smart TV,E-Wallet,Retain
+USR-02175,27,94.6,3,Smart TV,Bank Transfer,Retain
+USR-02176,17,86.6,4,Mobile,Credit Card,Retain
+USR-02177,12,29.4,0,Mobile,Bank Transfer,Retain
+USR-02178,22,10.8,1,Mobile,E-Wallet,Retain
+USR-02179,17,91.4,5,Web,Bank Transfer,Retain
+USR-02180,10,115.0,2,Mobile,Credit Card,Retain
+USR-02181,54,79.5,4,Smart TV,Credit Card,Retain
+USR-02182,1,35.6,5,Web,Bank Transfer,Retain
+USR-02183,22,100.6,2,Mobile,Credit Card,Retain
+USR-02184,26,13.9,5,Mobile,E-Wallet,Retain
+USR-02185,56,67.4,1,Mobile,Credit Card,Retain
+USR-02186,59,26.2,4,Web,Credit Card,Retain
+USR-02187,18,29.3,4,Mobile,E-Wallet,Retain
+USR-02188,50,31.9,2,Smart TV,E-Wallet,Retain
+USR-02189,14,59.2,5,Mobile,E-Wallet,Retain
+USR-02190,47,9.6,1,Smart TV,Credit Card,Retain
+USR-02191,29,60.9,0,Smart TV,Credit Card,Retain
+USR-02192,12,77.7,4,Mobile,Credit Card,Retain
+USR-02193,36,73.5,0,Smart TV,Credit Card,Retain
+USR-02194,59,58.7,1,Smart TV,Bank Transfer,Retain
+USR-02195,35,126.2,4,Smart TV,E-Wallet,Upgrade
+USR-02196,52,23.5,4,Mobile,Credit Card,Retain
+USR-02197,12,76.8,5,Web,Bank Transfer,Retain
+USR-02198,7,11.2,0,Web,Credit Card,Retain
+USR-02199,29,12.5,5,Smart TV,E-Wallet,Retain
+USR-02200,11,86.9,3,Mobile,Credit Card,Retain
+USR-02201,33,85.8,0,Web,E-Wallet,Retain
+USR-02202,6,131.9,0,Smart TV,Credit Card,Upgrade
+USR-02203,47,84.6,3,Mobile,Credit Card,Retain
+USR-02204,15,144.0,1,Mobile,Credit Card,Retain
+USR-02205,32,9.2,1,Smart TV,Credit Card,Retain
+USR-02206,51,16.5,4,Web,Credit Card,Retain
+USR-02207,11,8.5,2,Web,Credit Card,Retain
+USR-02208,58,29.4,5,Smart TV,Credit Card,Retain
+USR-02209,23,82.1,2,Smart TV,E-Wallet,Retain
+USR-02210,26,97.5,4,Smart TV,Credit Card,Retain
+USR-02211,34,8.7,2,Smart TV,E-Wallet,Retain
+USR-02212,46,142.0,0,Mobile,Credit Card,Retain
+USR-02213,34,126.6,0,Mobile,Bank Transfer,Retain
+USR-02214,29,45.9,3,Smart TV,Bank Transfer,Retain
+USR-02215,4,13.4,3,Web,Credit Card,Downgrade
+USR-02216,17,27.1,4,Smart TV,E-Wallet,Retain
+USR-02217,35,20.8,4,Smart TV,Credit Card,Downgrade
+USR-02218,13,20.2,4,Smart TV,Bank Transfer,Retain
+USR-02219,41,78.7,0,Mobile,E-Wallet,Retain
+USR-02220,39,38.4,2,Mobile,Credit Card,Retain
+USR-02221,15,55.0,5,Smart TV,Credit Card,Retain
+USR-02222,55,148.4,4,Smart TV,Credit Card,Upgrade
+USR-02223,29,103.3,4,Web,Credit Card,Retain
+USR-02224,29,142.4,0,Web,E-Wallet,Retain
+USR-02225,11,23.1,5,Smart TV,Credit Card,Retain
+USR-02226,52,58.6,0,Smart TV,Credit Card,Retain
+USR-02227,32,84.1,5,Mobile,Credit Card,Retain
+USR-02228,2,13.4,0,Mobile,Credit Card,Retain
+USR-02229,47,2.6,2,Smart TV,Credit Card,Retain
+USR-02230,14,101.2,4,Web,Bank Transfer,Retain
+USR-02231,20,97.0,1,Mobile,Credit Card,Retain
+USR-02232,22,62.8,1,Mobile,E-Wallet,Retain
+USR-02233,11,74.5,4,Mobile,Credit Card,Retain
+USR-02234,27,63.5,4,Web,Credit Card,Retain
+USR-02235,3,5.6,4,Mobile,E-Wallet,Churn
+USR-02236,17,51.6,4,Smart TV,Credit Card,Retain
+USR-02237,44,28.2,5,Smart TV,Credit Card,Retain
+USR-02238,56,16.6,2,Mobile,E-Wallet,Downgrade
+USR-02239,28,143.6,1,Smart TV,Credit Card,Upgrade
+USR-02240,29,90.7,3,Mobile,Credit Card,Retain
+USR-02241,21,109.8,1,Web,E-Wallet,Retain
+USR-02242,47,48.7,1,Mobile,E-Wallet,Retain
+USR-02243,16,60.2,0,Web,Credit Card,Retain
+USR-02244,37,37.1,4,Smart TV,Credit Card,Retain
+USR-02245,59,16.4,4,Web,Credit Card,Retain
+USR-02246,20,28.5,4,Mobile,Credit Card,Retain
+USR-02247,6,120.0,0,Smart TV,E-Wallet,Retain
+USR-02248,19,102.3,2,Mobile,Bank Transfer,Retain
+USR-02249,57,82.9,2,Smart TV,Bank Transfer,Retain
+USR-02250,5,72.3,3,Mobile,Credit Card,Retain
+USR-02251,3,138.5,2,Mobile,Credit Card,Retain
+USR-02252,59,12.8,2,Smart TV,E-Wallet,Downgrade
+USR-02253,1,43.5,4,Mobile,Credit Card,Retain
+USR-02254,58,53.8,5,Mobile,E-Wallet,Retain
+USR-02255,38,117.8,1,Smart TV,E-Wallet,Upgrade
+USR-02256,15,148.9,2,Smart TV,Bank Transfer,Upgrade
+USR-02257,34,37.6,2,Mobile,Credit Card,Retain
+USR-02258,35,131.4,0,Mobile,Credit Card,Retain
+USR-02259,49,124.9,3,Web,Bank Transfer,Retain
+USR-02260,25,35.2,5,Web,E-Wallet,Retain
+USR-02261,24,61.1,0,Mobile,Bank Transfer,Retain
+USR-02262,12,62.6,4,Mobile,Credit Card,Retain
+USR-02263,18,146.8,1,Mobile,E-Wallet,Retain
+USR-02264,15,28.8,3,Mobile,E-Wallet,Downgrade
+USR-02265,44,120.3,0,Smart TV,Credit Card,Upgrade
+USR-02266,16,51.5,2,Smart TV,E-Wallet,Retain
+USR-02267,27,110.2,2,Mobile,E-Wallet,Retain
+USR-02268,8,64.2,3,Smart TV,Credit Card,Retain
+USR-02269,46,87.6,2,Mobile,Credit Card,Retain
+USR-02270,25,125.2,0,Web,E-Wallet,Retain
+USR-02271,17,121.0,0,Smart TV,Credit Card,Upgrade
+USR-02272,29,130.2,2,Mobile,Bank Transfer,Retain
+USR-02273,53,10.8,2,Web,Credit Card,Downgrade
+USR-02274,8,104.4,4,Mobile,Credit Card,Retain
+USR-02275,15,22.7,1,Smart TV,Bank Transfer,Retain
+USR-02276,27,63.5,3,Smart TV,Bank Transfer,Retain
+USR-02277,46,83.2,0,Mobile,Credit Card,Retain
+USR-02278,50,61.6,3,Mobile,E-Wallet,Retain
+USR-02279,52,78.9,4,Smart TV,Credit Card,Retain
+USR-02280,7,149.5,0,Smart TV,Credit Card,Retain
+USR-02281,3,22.0,4,Web,Credit Card,Retain
+USR-02282,29,102.0,4,Mobile,Credit Card,Retain
+USR-02283,44,60.6,5,Web,Bank Transfer,Retain
+USR-02284,53,21.7,2,Mobile,E-Wallet,Downgrade
+USR-02285,24,25.5,5,Web,Bank Transfer,Retain
+USR-02286,58,142.5,3,Smart TV,E-Wallet,Upgrade
+USR-02287,3,132.2,3,Mobile,Credit Card,Retain
+USR-02288,20,136.2,2,Smart TV,E-Wallet,Retain
+USR-02289,46,148.7,5,Mobile,Bank Transfer,Retain
+USR-02290,15,32.8,3,Mobile,E-Wallet,Retain
+USR-02291,25,54.6,5,Smart TV,E-Wallet,Retain
+USR-02292,30,101.0,2,Web,Bank Transfer,Retain
+USR-02293,14,73.6,0,Web,Credit Card,Retain
+USR-02294,7,63.9,4,Smart TV,E-Wallet,Retain
+USR-02295,17,55.0,4,Mobile,Bank Transfer,Retain
+USR-02296,44,89.9,5,Smart TV,Bank Transfer,Retain
+USR-02297,20,87.2,3,Mobile,Credit Card,Retain
+USR-02298,36,25.9,5,Web,E-Wallet,Retain
+USR-02299,9,71.8,5,Smart TV,E-Wallet,Retain
+USR-02300,38,83.9,1,Web,Credit Card,Retain
+USR-02301,48,86.4,4,Smart TV,E-Wallet,Retain
+USR-02302,57,33.1,2,Mobile,Credit Card,Retain
+USR-02303,22,111.9,5,Mobile,Credit Card,Retain
+USR-02304,54,5.7,1,Smart TV,Credit Card,Retain
+USR-02305,53,54.5,1,Smart TV,E-Wallet,Retain
+USR-02306,53,117.5,4,Web,Credit Card,Retain
+USR-02307,2,85.5,4,Mobile,Credit Card,Retain
+USR-02308,24,40.7,4,Smart TV,Credit Card,Retain
+USR-02309,8,104.9,2,Mobile,Credit Card,Retain
+USR-02310,11,86.0,1,Smart TV,Credit Card,Retain
+USR-02311,13,119.8,3,Smart TV,Credit Card,Retain
+USR-02312,17,110.8,2,Mobile,E-Wallet,Retain
+USR-02313,8,92.3,0,Smart TV,E-Wallet,Retain
+USR-02314,21,74.3,5,Web,Credit Card,Retain
+USR-02315,18,21.7,4,Mobile,Credit Card,Retain
+USR-02316,30,40.7,1,Web,E-Wallet,Retain
+USR-02317,18,64.0,5,Mobile,Credit Card,Retain
+USR-02318,46,90.7,2,Web,Bank Transfer,Retain
+USR-02319,47,78.0,0,Mobile,E-Wallet,Retain
+USR-02320,31,44.7,2,Mobile,Credit Card,Retain
+USR-02321,38,3.0,2,Web,Credit Card,Retain
+USR-02322,32,75.4,3,Mobile,E-Wallet,Retain
+USR-02323,11,44.3,5,Smart TV,Credit Card,Retain
+USR-02324,45,110.7,3,Mobile,Credit Card,Retain
+USR-02325,25,5.5,2,Web,Credit Card,Retain
+USR-02326,33,88.6,0,Mobile,E-Wallet,Retain
+USR-02327,38,141.3,1,Mobile,E-Wallet,Retain
+USR-02328,41,27.8,1,Mobile,Credit Card,Retain
+USR-02329,8,71.8,5,Web,E-Wallet,Retain
+USR-02330,11,15.5,4,Smart TV,Credit Card,Retain
+USR-02331,22,94.6,4,Mobile,E-Wallet,Retain
+USR-02332,51,83.5,1,Smart TV,Credit Card,Retain
+USR-02333,24,62.3,2,Mobile,E-Wallet,Retain
+USR-02334,41,79.2,2,Mobile,Bank Transfer,Retain
+USR-02335,17,134.7,3,Smart TV,Credit Card,Upgrade
+USR-02336,12,31.1,5,Smart TV,Credit Card,Retain
+USR-02337,57,5.3,3,Mobile,Credit Card,Retain
+USR-02338,46,129.5,4,Smart TV,Credit Card,Upgrade
+USR-02339,32,87.4,1,Smart TV,Credit Card,Retain
+USR-02340,15,133.8,2,Web,Bank Transfer,Retain
+USR-02341,16,90.3,1,Smart TV,Bank Transfer,Retain
+USR-02342,54,121.9,0,Mobile,Credit Card,Retain
+USR-02343,22,65.6,1,Web,E-Wallet,Retain
+USR-02344,28,113.0,0,Smart TV,E-Wallet,Upgrade
+USR-02345,20,137.1,3,Smart TV,E-Wallet,Upgrade
+USR-02346,33,86.7,3,Mobile,Credit Card,Retain
+USR-02347,10,28.8,4,Mobile,Credit Card,Retain
+USR-02348,40,41.8,1,Web,Credit Card,Retain
+USR-02349,32,31.4,1,Web,Credit Card,Retain
+USR-02350,50,38.5,0,Mobile,E-Wallet,Retain
+USR-02351,33,47.3,3,Smart TV,E-Wallet,Retain
+USR-02352,2,84.2,0,Smart TV,Credit Card,Retain
+USR-02353,33,89.0,3,Smart TV,Credit Card,Retain
+USR-02354,33,65.1,0,Smart TV,Bank Transfer,Retain
+USR-02355,41,93.1,3,Mobile,E-Wallet,Retain
+USR-02356,13,14.1,0,Mobile,Bank Transfer,Downgrade
+USR-02357,30,15.0,3,Smart TV,Credit Card,Downgrade
+USR-02358,33,27.4,5,Web,E-Wallet,Retain
+USR-02359,13,78.7,0,Smart TV,E-Wallet,Retain
+USR-02360,52,33.7,1,Mobile,Bank Transfer,Retain
+USR-02361,26,43.9,4,Mobile,Credit Card,Retain
+USR-02362,22,61.2,5,Mobile,Credit Card,Retain
+USR-02363,39,122.2,5,Mobile,Credit Card,Retain
+USR-02364,2,4.1,0,Smart TV,Bank Transfer,Retain
+USR-02365,38,98.1,4,Mobile,Bank Transfer,Retain
+USR-02366,39,101.0,1,Mobile,Bank Transfer,Retain
+USR-02367,26,120.2,5,Web,Bank Transfer,Retain
+USR-02368,46,140.0,1,Mobile,Credit Card,Retain
+USR-02369,58,5.0,3,Mobile,Credit Card,Retain
+USR-02370,50,24.8,4,Mobile,Credit Card,Retain
+USR-02371,15,133.2,2,Web,Credit Card,Retain
+USR-02372,34,69.9,3,Smart TV,Bank Transfer,Retain
+USR-02373,42,85.6,4,Mobile,Bank Transfer,Retain
+USR-02374,55,100.1,0,Mobile,Credit Card,Retain
+USR-02375,44,102.5,0,Mobile,E-Wallet,Retain
+USR-02376,49,139.9,1,Smart TV,Bank Transfer,Upgrade
+USR-02377,40,149.5,5,Mobile,Credit Card,Retain
+USR-02378,11,108.6,2,Smart TV,Credit Card,Upgrade
+USR-02379,3,44.5,0,Mobile,Credit Card,Retain
+USR-02380,59,132.2,4,Mobile,Credit Card,Retain
+USR-02381,6,9.3,5,Web,E-Wallet,Churn
+USR-02382,9,36.2,5,Mobile,Credit Card,Retain
+USR-02383,6,134.8,4,Smart TV,Credit Card,Upgrade
+USR-02384,9,39.9,5,Smart TV,Bank Transfer,Retain
+USR-02385,39,34.7,0,Web,E-Wallet,Retain
+USR-02386,31,22.4,4,Smart TV,Credit Card,Retain
+USR-02387,32,129.1,4,Mobile,Bank Transfer,Retain
+USR-02388,41,76.0,1,Smart TV,Credit Card,Retain
+USR-02389,50,101.9,2,Mobile,Credit Card,Retain
+USR-02390,12,37.4,1,Mobile,Bank Transfer,Retain
+USR-02391,8,114.2,2,Smart TV,Credit Card,Upgrade
+USR-02392,8,114.5,4,Smart TV,E-Wallet,Retain
+USR-02393,50,48.3,5,Web,Credit Card,Retain
+USR-02394,28,62.8,2,Mobile,Credit Card,Retain
+USR-02395,20,33.0,4,Mobile,E-Wallet,Retain
+USR-02396,47,146.5,4,Web,Credit Card,Retain
+USR-02397,59,97.5,1,Web,E-Wallet,Retain
+USR-02398,7,140.3,1,Smart TV,E-Wallet,Upgrade
+USR-02399,11,46.9,5,Web,Bank Transfer,Retain
+USR-02400,20,117.7,3,Smart TV,E-Wallet,Upgrade
+USR-02401,16,115.3,0,Smart TV,Credit Card,Upgrade
+USR-02402,4,104.4,3,Web,Bank Transfer,Retain
+USR-02403,6,144.9,3,Smart TV,E-Wallet,Upgrade
+USR-02404,58,60.2,5,Smart TV,E-Wallet,Retain
+USR-02405,22,21.3,2,Smart TV,Bank Transfer,Downgrade
+USR-02406,26,101.4,5,Mobile,E-Wallet,Retain
+USR-02407,3,109.9,5,Mobile,Credit Card,Upgrade
+USR-02408,41,87.1,4,Mobile,E-Wallet,Retain
+USR-02409,42,32.6,4,Web,Credit Card,Retain
+USR-02410,14,76.7,4,Mobile,Credit Card,Retain
+USR-02411,11,48.2,0,Smart TV,E-Wallet,Retain
+USR-02412,18,65.3,2,Web,Credit Card,Retain
+USR-02413,54,97.5,2,Smart TV,Credit Card,Retain
+USR-02414,12,112.3,4,Smart TV,Credit Card,Upgrade
+USR-02415,23,36.4,3,Smart TV,E-Wallet,Retain
+USR-02416,12,62.0,0,Mobile,Credit Card,Retain
+USR-02417,13,41.8,3,Smart TV,E-Wallet,Retain
+USR-02418,25,31.4,1,Smart TV,Credit Card,Retain
+USR-02419,45,117.9,2,Smart TV,Credit Card,Upgrade
+USR-02420,51,136.6,2,Smart TV,Credit Card,Upgrade
+USR-02421,58,56.8,3,Mobile,E-Wallet,Retain
+USR-02422,19,113.2,0,Web,Credit Card,Retain
+USR-02423,55,134.8,2,Mobile,Bank Transfer,Retain
+USR-02424,46,127.2,3,Smart TV,Bank Transfer,Upgrade
+USR-02425,36,29.1,5,Smart TV,Bank Transfer,Retain
+USR-02426,45,143.5,5,Web,Bank Transfer,Retain
+USR-02427,8,57.7,0,Smart TV,Credit Card,Retain
+USR-02428,29,52.2,3,Web,E-Wallet,Retain
+USR-02429,55,11.2,5,Smart TV,E-Wallet,Downgrade
+USR-02430,53,74.0,0,Web,E-Wallet,Retain
+USR-02431,55,18.1,4,Smart TV,Bank Transfer,Retain
+USR-02432,32,38.8,0,Mobile,E-Wallet,Retain
+USR-02433,51,48.9,1,Mobile,Bank Transfer,Retain
+USR-02434,44,121.7,4,Mobile,Credit Card,Retain
+USR-02435,18,131.6,3,Smart TV,Bank Transfer,Upgrade
+USR-02436,6,46.8,4,Mobile,E-Wallet,Retain
+USR-02437,18,129.1,4,Mobile,E-Wallet,Retain
+USR-02438,19,128.9,3,Smart TV,Credit Card,Upgrade
+USR-02439,22,115.2,3,Smart TV,E-Wallet,Upgrade
+USR-02440,37,23.7,5,Mobile,Bank Transfer,Retain
+USR-02441,32,104.2,1,Smart TV,Credit Card,Upgrade
+USR-02442,56,141.9,3,Mobile,E-Wallet,Retain
+USR-02443,41,103.0,2,Smart TV,Credit Card,Upgrade
+USR-02444,59,51.1,2,Mobile,Bank Transfer,Retain
+USR-02445,3,76.1,1,Smart TV,Credit Card,Retain
+USR-02446,28,97.6,0,Mobile,Credit Card,Retain
+USR-02447,10,77.6,0,Smart TV,Credit Card,Retain
+USR-02448,51,19.8,2,Smart TV,E-Wallet,Retain
+USR-02449,35,48.2,3,Smart TV,Credit Card,Retain
+USR-02450,29,120.8,1,Web,E-Wallet,Retain
+USR-02451,54,129.5,0,Smart TV,Bank Transfer,Upgrade
+USR-02452,15,22.3,0,Mobile,Bank Transfer,Retain
+USR-02453,33,143.0,4,Smart TV,Credit Card,Upgrade
+USR-02454,7,50.7,2,Smart TV,Bank Transfer,Retain
+USR-02455,12,100.0,3,Mobile,E-Wallet,Retain
+USR-02456,49,113.3,1,Mobile,Credit Card,Retain
+USR-02457,30,122.2,0,Web,Credit Card,Retain
+USR-02458,21,142.0,4,Web,Credit Card,Retain
+USR-02459,31,48.3,2,Mobile,Bank Transfer,Retain
+USR-02460,58,129.1,2,Mobile,Credit Card,Retain
+USR-02461,24,21.5,1,Mobile,Credit Card,Retain
+USR-02462,20,106.3,0,Smart TV,E-Wallet,Upgrade
+USR-02463,37,111.8,1,Web,E-Wallet,Retain
+USR-02464,4,102.3,1,Mobile,E-Wallet,Retain
+USR-02465,28,39.3,5,Mobile,E-Wallet,Retain
+USR-02466,44,131.2,4,Smart TV,Credit Card,Upgrade
+USR-02467,20,27.0,2,Smart TV,Bank Transfer,Downgrade
+USR-02468,24,9.9,5,Web,Credit Card,Churn
+USR-02469,50,108.2,3,Smart TV,E-Wallet,Upgrade
+USR-02470,49,72.4,2,Mobile,E-Wallet,Retain
+USR-02471,51,127.7,2,Smart TV,Credit Card,Upgrade
+USR-02472,32,58.7,4,Web,Bank Transfer,Retain
+USR-02473,41,26.9,3,Smart TV,Credit Card,Downgrade
+USR-02474,36,125.8,0,Web,Credit Card,Retain
+USR-02475,58,83.2,3,Smart TV,Bank Transfer,Retain
+USR-02476,53,30.0,0,Web,E-Wallet,Retain
+USR-02477,34,108.6,3,Mobile,E-Wallet,Retain
+USR-02478,36,77.6,1,Smart TV,E-Wallet,Retain
+USR-02479,2,91.4,3,Mobile,Bank Transfer,Retain
+USR-02480,15,70.2,5,Smart TV,Credit Card,Retain
+USR-02481,34,124.6,5,Smart TV,Credit Card,Retain
+USR-02482,36,124.8,4,Web,Credit Card,Retain
+USR-02483,6,107.0,0,Mobile,Credit Card,Retain
+USR-02484,39,17.6,2,Smart TV,E-Wallet,Downgrade
+USR-02485,42,126.2,4,Smart TV,Credit Card,Upgrade
+USR-02486,51,101.3,5,Smart TV,Credit Card,Upgrade
+USR-02487,51,105.2,5,Web,Credit Card,Retain
+USR-02488,58,55.7,0,Smart TV,E-Wallet,Retain
+USR-02489,54,132.1,5,Web,Bank Transfer,Retain
+USR-02490,12,109.4,5,Web,Credit Card,Retain
+USR-02491,3,18.7,0,Smart TV,E-Wallet,Retain
+USR-02492,45,62.4,5,Smart TV,Credit Card,Retain
+USR-02493,18,133.2,2,Web,E-Wallet,Retain
+USR-02494,40,9.0,1,Smart TV,Credit Card,Retain
+USR-02495,21,144.3,4,Smart TV,Credit Card,Upgrade
+USR-02496,15,102.5,2,Smart TV,E-Wallet,Upgrade
+USR-02497,33,95.4,2,Mobile,Bank Transfer,Retain
+USR-02498,35,42.0,1,Mobile,Credit Card,Retain
+USR-02499,26,38.8,4,Smart TV,E-Wallet,Retain
+USR-02500,8,141.4,2,Smart TV,E-Wallet,Upgrade
+USR-02501,36,46.1,5,Web,Bank Transfer,Retain
+USR-02502,48,116.8,1,Mobile,Credit Card,Retain
+USR-02503,30,60.2,4,Mobile,Credit Card,Retain
+USR-02504,23,22.6,3,Mobile,Bank Transfer,Downgrade
+USR-02505,42,3.6,0,Mobile,Credit Card,Retain
+USR-02506,44,82.6,5,Mobile,Credit Card,Retain
+USR-02507,14,146.4,1,Smart TV,Credit Card,Upgrade
+USR-02508,14,56.6,0,Smart TV,Bank Transfer,Retain
+USR-02509,2,54.9,3,Mobile,Credit Card,Retain
+USR-02510,55,52.9,2,Mobile,Bank Transfer,Retain
+USR-02511,37,79.0,2,Web,Credit Card,Retain
+USR-02512,5,67.2,4,Smart TV,Credit Card,Retain
+USR-02513,38,132.2,1,Web,Credit Card,Retain
+USR-02514,45,76.8,1,Web,Credit Card,Retain
+USR-02515,41,77.1,4,Smart TV,E-Wallet,Retain
+USR-02516,54,22.5,0,Mobile,E-Wallet,Retain
+USR-02517,47,147.4,2,Mobile,Credit Card,Retain
+USR-02518,14,39.0,2,Web,Credit Card,Retain
+USR-02519,56,12.9,1,Mobile,E-Wallet,Retain
+USR-02520,39,100.1,1,Mobile,Bank Transfer,Retain
+USR-02521,25,90.1,4,Mobile,E-Wallet,Retain
+USR-02522,20,63.4,3,Smart TV,Bank Transfer,Retain
+USR-02523,2,64.5,0,Smart TV,Credit Card,Retain
+USR-02524,39,118.2,5,Mobile,Bank Transfer,Retain
+USR-02525,6,31.0,3,Mobile,Credit Card,Retain
+USR-02526,17,123.4,3,Mobile,Credit Card,Retain
+USR-02527,59,98.0,1,Mobile,Bank Transfer,Retain
+USR-02528,25,64.0,1,Smart TV,Bank Transfer,Retain
+USR-02529,57,69.8,1,Mobile,E-Wallet,Retain
+USR-02530,28,40.0,3,Smart TV,Credit Card,Retain
+USR-02531,2,113.3,0,Web,Credit Card,Retain
+USR-02532,35,77.9,1,Web,Credit Card,Retain
+USR-02533,37,49.5,2,Mobile,Bank Transfer,Retain
+USR-02534,5,90.2,0,Smart TV,Credit Card,Retain
+USR-02535,1,149.4,2,Smart TV,Bank Transfer,Upgrade
+USR-02536,40,66.4,0,Mobile,Credit Card,Retain
+USR-02537,12,138.3,1,Mobile,Bank Transfer,Retain
+USR-02538,56,53.1,5,Mobile,Bank Transfer,Retain
+USR-02539,36,10.1,4,Smart TV,Credit Card,Retain
+USR-02540,45,32.2,1,Mobile,Credit Card,Retain
+USR-02541,23,64.0,3,Mobile,Bank Transfer,Retain
+USR-02542,47,34.5,5,Smart TV,E-Wallet,Retain
+USR-02543,31,2.0,3,Mobile,E-Wallet,Retain
+USR-02544,11,137.4,0,Smart TV,E-Wallet,Upgrade
+USR-02545,10,126.9,3,Mobile,Credit Card,Retain
+USR-02546,3,111.9,5,Web,Bank Transfer,Retain
+USR-02547,54,26.8,5,Mobile,Credit Card,Retain
+USR-02548,14,19.8,1,Web,Bank Transfer,Retain
+USR-02549,16,12.0,2,Mobile,Credit Card,Downgrade
+USR-02550,10,109.2,1,Smart TV,E-Wallet,Retain
+USR-02551,29,139.5,0,Mobile,Credit Card,Retain
+USR-02552,10,65.7,3,Mobile,Credit Card,Retain
+USR-02553,12,19.6,2,Smart TV,Credit Card,Downgrade
+USR-02554,30,77.8,4,Smart TV,E-Wallet,Retain
+USR-02555,41,53.6,5,Mobile,E-Wallet,Retain
+USR-02556,1,57.5,2,Smart TV,Bank Transfer,Retain
+USR-02557,5,94.0,2,Smart TV,Credit Card,Retain
+USR-02558,20,108.4,1,Mobile,E-Wallet,Retain
+USR-02559,8,18.4,4,Smart TV,E-Wallet,Retain
+USR-02560,43,7.3,5,Web,Credit Card,Churn
+USR-02561,12,149.2,0,Smart TV,Credit Card,Upgrade
+USR-02562,1,36.4,0,Mobile,Credit Card,Retain
+USR-02563,57,10.0,2,Mobile,Credit Card,Retain
+USR-02564,54,30.1,2,Mobile,Credit Card,Retain
+USR-02565,20,7.8,3,Smart TV,E-Wallet,Retain
+USR-02566,28,60.0,4,Web,Credit Card,Retain
+USR-02567,57,120.8,5,Mobile,E-Wallet,Retain
+USR-02568,43,52.5,2,Web,Bank Transfer,Retain
+USR-02569,37,67.7,3,Smart TV,E-Wallet,Retain
+USR-02570,47,102.0,4,Smart TV,E-Wallet,Upgrade
+USR-02571,37,77.3,5,Mobile,Credit Card,Retain
+USR-02572,12,129.5,0,Smart TV,Bank Transfer,Upgrade
+USR-02573,37,130.2,3,Mobile,Credit Card,Retain
+USR-02574,49,3.5,4,Smart TV,E-Wallet,Churn
+USR-02575,49,117.2,3,Mobile,Bank Transfer,Retain
+USR-02576,56,70.2,2,Web,E-Wallet,Retain
+USR-02577,44,148.3,1,Mobile,E-Wallet,Retain
+USR-02578,56,73.5,0,Web,Credit Card,Retain
+USR-02579,28,148.1,2,Mobile,Credit Card,Retain
+USR-02580,47,113.7,2,Mobile,E-Wallet,Retain
+USR-02581,15,38.8,4,Web,Credit Card,Retain
+USR-02582,6,81.7,3,Web,E-Wallet,Retain
+USR-02583,44,148.8,0,Mobile,Credit Card,Retain
+USR-02584,59,128.9,2,Smart TV,Bank Transfer,Upgrade
+USR-02585,20,16.4,4,Mobile,Credit Card,Retain
+USR-02586,50,106.5,0,Smart TV,E-Wallet,Upgrade
+USR-02587,14,53.1,3,Mobile,E-Wallet,Retain
+USR-02588,2,3.0,2,Mobile,Credit Card,Retain
+USR-02589,9,61.7,5,Web,Credit Card,Retain
+USR-02590,37,36.7,2,Web,Credit Card,Retain
+USR-02591,20,123.2,2,Mobile,Credit Card,Retain
+USR-02592,26,51.9,0,Smart TV,Credit Card,Retain
+USR-02593,29,124.5,0,Web,Credit Card,Retain
+USR-02594,1,2.1,0,Smart TV,E-Wallet,Retain
+USR-02595,55,47.6,0,Mobile,Credit Card,Retain
+USR-02596,35,37.7,4,Smart TV,Bank Transfer,Retain
+USR-02597,6,36.6,1,Smart TV,E-Wallet,Retain
+USR-02598,37,12.1,4,Web,Credit Card,Retain
+USR-02599,53,29.7,2,Smart TV,Credit Card,Downgrade
+USR-02600,59,84.2,4,Mobile,Bank Transfer,Retain
+USR-02601,5,45.1,3,Smart TV,Credit Card,Retain
+USR-02602,33,63.8,5,Web,E-Wallet,Retain
+USR-02603,49,57.8,0,Web,E-Wallet,Retain
+USR-02604,51,131.6,3,Smart TV,Credit Card,Retain
+USR-02605,14,136.0,5,Smart TV,Bank Transfer,Upgrade
+USR-02606,12,75.0,3,Mobile,Credit Card,Retain
+USR-02607,42,50.9,2,Smart TV,Credit Card,Retain
+USR-02608,20,17.8,0,Mobile,Bank Transfer,Retain
+USR-02609,53,143.1,3,Smart TV,E-Wallet,Upgrade
+USR-02610,50,10.9,2,Smart TV,Bank Transfer,Downgrade
+USR-02611,24,46.1,0,Mobile,E-Wallet,Retain
+USR-02612,59,46.1,1,Smart TV,E-Wallet,Retain
+USR-02613,43,49.4,2,Web,Bank Transfer,Retain
+USR-02614,34,26.3,4,Smart TV,Credit Card,Retain
+USR-02615,25,117.9,0,Smart TV,E-Wallet,Upgrade
+USR-02616,50,20.1,3,Web,E-Wallet,Downgrade
+USR-02617,29,96.0,5,Mobile,Credit Card,Retain
+USR-02618,57,20.3,3,Mobile,E-Wallet,Downgrade
+USR-02619,39,12.4,4,Smart TV,Credit Card,Retain
+USR-02620,31,136.6,4,Mobile,E-Wallet,Retain
+USR-02621,56,30.1,3,Mobile,E-Wallet,Retain
+USR-02622,47,123.5,5,Smart TV,Bank Transfer,Upgrade
+USR-02623,43,82.6,0,Web,Credit Card,Retain
+USR-02624,50,13.5,2,Mobile,E-Wallet,Downgrade
+USR-02625,23,143.4,4,Smart TV,Credit Card,Retain
+USR-02626,44,38.6,4,Mobile,E-Wallet,Retain
+USR-02627,38,129.2,4,Mobile,E-Wallet,Retain
+USR-02628,20,27.0,5,Smart TV,E-Wallet,Retain
+USR-02629,23,128.4,1,Mobile,Bank Transfer,Retain
+USR-02630,45,4.0,5,Smart TV,Bank Transfer,Churn
+USR-02631,52,77.7,0,Mobile,Credit Card,Retain
+USR-02632,16,115.9,0,Mobile,Credit Card,Retain
+USR-02633,50,140.3,0,Mobile,E-Wallet,Retain
+USR-02634,42,136.6,0,Web,Credit Card,Retain
+USR-02635,55,123.3,0,Smart TV,Credit Card,Upgrade
+USR-02636,8,133.5,3,Mobile,E-Wallet,Retain
+USR-02637,50,31.5,4,Mobile,Credit Card,Retain
+USR-02638,21,44.1,5,Mobile,Credit Card,Retain
+USR-02639,1,44.8,3,Mobile,Bank Transfer,Retain
+USR-02640,55,57.8,5,Smart TV,Credit Card,Retain
+USR-02641,8,60.2,1,Smart TV,Credit Card,Retain
+USR-02642,29,82.6,2,Smart TV,Credit Card,Retain
+USR-02643,32,25.7,4,Web,Bank Transfer,Retain
+USR-02644,38,104.3,1,Smart TV,Bank Transfer,Upgrade
+USR-02645,5,26.8,3,Web,E-Wallet,Downgrade
+USR-02646,47,47.9,2,Mobile,Credit Card,Retain
+USR-02647,22,76.5,1,Smart TV,Bank Transfer,Retain
+USR-02648,47,119.9,5,Mobile,E-Wallet,Retain
+USR-02649,34,111.4,2,Web,Bank Transfer,Retain
+USR-02650,1,97.5,5,Web,E-Wallet,Retain
+USR-02651,55,25.1,1,Smart TV,Credit Card,Retain
+USR-02652,55,83.0,3,Smart TV,Credit Card,Retain
+USR-02653,26,14.9,5,Smart TV,Credit Card,Retain
+USR-02654,43,57.8,2,Smart TV,Credit Card,Retain
+USR-02655,10,63.2,1,Mobile,E-Wallet,Retain
+USR-02656,30,7.9,5,Web,Bank Transfer,Churn
+USR-02657,50,42.6,3,Smart TV,E-Wallet,Retain
+USR-02658,18,143.4,4,Mobile,Credit Card,Retain
+USR-02659,17,143.1,3,Mobile,Credit Card,Retain
+USR-02660,26,54.1,3,Smart TV,Credit Card,Retain
+USR-02661,8,8.4,4,Smart TV,Credit Card,Churn
+USR-02662,47,28.5,3,Mobile,Credit Card,Downgrade
+USR-02663,40,60.0,4,Web,E-Wallet,Retain
+USR-02664,49,142.3,4,Mobile,Credit Card,Retain
+USR-02665,12,22.9,5,Smart TV,Bank Transfer,Churn
+USR-02666,27,115.0,5,Smart TV,Credit Card,Upgrade
+USR-02667,8,18.1,4,Smart TV,Bank Transfer,Retain
+USR-02668,25,147.2,1,Mobile,E-Wallet,Retain
+USR-02669,46,58.5,2,Mobile,Credit Card,Retain
+USR-02670,4,116.7,1,Smart TV,E-Wallet,Upgrade
+USR-02671,33,52.7,4,Web,E-Wallet,Retain
+USR-02672,1,94.9,2,Mobile,E-Wallet,Retain
+USR-02673,19,30.4,5,Mobile,E-Wallet,Retain
+USR-02674,31,23.6,2,Web,Credit Card,Downgrade
+USR-02675,16,140.8,4,Smart TV,E-Wallet,Upgrade
+USR-02676,14,137.8,5,Web,Bank Transfer,Retain
+USR-02677,53,133.3,2,Smart TV,Credit Card,Retain
+USR-02678,48,94.6,2,Smart TV,Credit Card,Retain
+USR-02679,5,121.6,1,Web,Bank Transfer,Retain
+USR-02680,41,12.2,2,Web,Credit Card,Downgrade
+USR-02681,26,51.5,4,Mobile,E-Wallet,Retain
+USR-02682,28,48.4,0,Mobile,E-Wallet,Retain
+USR-02683,2,96.1,0,Mobile,E-Wallet,Retain
+USR-02684,50,54.7,0,Web,Credit Card,Retain
+USR-02685,6,24.0,4,Smart TV,Credit Card,Retain
+USR-02686,9,90.3,0,Web,Credit Card,Retain
+USR-02687,33,122.5,1,Mobile,E-Wallet,Retain
+USR-02688,41,58.6,4,Mobile,E-Wallet,Retain
+USR-02689,25,21.6,5,Mobile,E-Wallet,Retain
+USR-02690,48,31.1,4,Mobile,E-Wallet,Retain
+USR-02691,13,37.1,4,Web,Credit Card,Retain
+USR-02692,9,46.4,2,Mobile,Credit Card,Retain
+USR-02693,53,97.1,2,Web,Bank Transfer,Retain
+USR-02694,13,90.9,2,Smart TV,Credit Card,Retain
+USR-02695,31,105.0,3,Mobile,Credit Card,Retain
+USR-02696,41,55.7,1,Web,Credit Card,Retain
+USR-02697,11,124.0,4,Mobile,Credit Card,Retain
+USR-02698,4,32.2,4,Mobile,Credit Card,Retain
+USR-02699,34,71.4,2,Mobile,Bank Transfer,Retain
+USR-02700,38,120.5,4,Web,Bank Transfer,Retain
+USR-02701,46,28.7,5,Web,Bank Transfer,Retain
+USR-02702,4,18.3,4,Smart TV,Bank Transfer,Retain
+USR-02703,38,132.8,0,Web,Bank Transfer,Retain
+USR-02704,19,52.8,5,Mobile,E-Wallet,Retain
+USR-02705,6,103.2,5,Smart TV,Credit Card,Upgrade
+USR-02706,34,5.8,4,Web,E-Wallet,Churn
+USR-02707,18,104.1,3,Mobile,Credit Card,Retain
+USR-02708,13,48.8,2,Web,Credit Card,Retain
+USR-02709,41,10.2,1,Smart TV,Credit Card,Retain
+USR-02710,23,92.3,1,Smart TV,E-Wallet,Retain
+USR-02711,19,37.6,0,Mobile,Credit Card,Retain
+USR-02712,45,59.2,1,Smart TV,Credit Card,Retain
+USR-02713,11,13.9,1,Mobile,Credit Card,Retain
+USR-02714,1,23.8,2,Smart TV,Bank Transfer,Downgrade
+USR-02715,24,46.1,2,Mobile,E-Wallet,Retain
+USR-02716,54,15.3,3,Smart TV,Bank Transfer,Downgrade
+USR-02717,7,136.8,0,Smart TV,Credit Card,Retain
+USR-02718,25,2.9,1,Mobile,Credit Card,Retain
+USR-02719,21,73.6,3,Smart TV,E-Wallet,Retain
+USR-02720,15,20.2,0,Mobile,Credit Card,Retain
+USR-02721,1,47.5,5,Web,E-Wallet,Retain
+USR-02722,12,139.1,1,Mobile,E-Wallet,Retain
+USR-02723,58,25.9,1,Web,E-Wallet,Retain
+USR-02724,7,144.9,2,Smart TV,Bank Transfer,Retain
+USR-02725,15,32.5,4,Smart TV,Credit Card,Retain
+USR-02726,21,111.8,0,Web,Credit Card,Retain
+USR-02727,19,82.9,1,Mobile,E-Wallet,Retain
+USR-02728,29,132.9,0,Mobile,Credit Card,Retain
+USR-02729,25,84.0,3,Mobile,Credit Card,Retain
+USR-02730,33,81.1,3,Mobile,Credit Card,Retain
+USR-02731,49,30.9,4,Smart TV,Credit Card,Retain
+USR-02732,32,26.6,1,Mobile,Credit Card,Downgrade
+USR-02733,49,137.6,2,Mobile,Credit Card,Retain
+USR-02734,35,50.5,1,Mobile,E-Wallet,Retain
+USR-02735,44,57.1,0,Web,E-Wallet,Retain
+USR-02736,38,114.5,5,Smart TV,E-Wallet,Upgrade
+USR-02737,26,52.1,3,Smart TV,E-Wallet,Retain
+USR-02738,11,142.9,0,Web,Credit Card,Retain
+USR-02739,35,111.2,4,Mobile,Credit Card,Retain
+USR-02740,8,90.4,3,Mobile,Credit Card,Retain
+USR-02741,46,132.4,2,Smart TV,Bank Transfer,Upgrade
+USR-02742,14,9.3,3,Smart TV,E-Wallet,Retain
+USR-02743,10,40.0,5,Mobile,Credit Card,Retain
+USR-02744,2,70.8,1,Smart TV,Credit Card,Retain
+USR-02745,46,35.6,5,Web,Bank Transfer,Retain
+USR-02746,9,112.1,5,Web,E-Wallet,Retain
+USR-02747,3,138.0,1,Web,Bank Transfer,Retain
+USR-02748,21,64.7,3,Smart TV,Credit Card,Retain
+USR-02749,26,52.6,4,Mobile,Credit Card,Retain
+USR-02750,8,144.3,1,Smart TV,E-Wallet,Upgrade
+USR-02751,48,67.8,1,Smart TV,E-Wallet,Retain
+USR-02752,2,74.4,2,Smart TV,E-Wallet,Retain
+USR-02753,6,54.0,3,Smart TV,E-Wallet,Retain
+USR-02754,28,136.6,1,Web,E-Wallet,Retain
+USR-02755,53,86.2,4,Smart TV,E-Wallet,Retain
+USR-02756,29,114.8,0,Smart TV,Credit Card,Upgrade
+USR-02757,26,122.1,3,Web,Credit Card,Retain
+USR-02758,25,52.6,2,Smart TV,Bank Transfer,Retain
+USR-02759,12,66.2,5,Mobile,Credit Card,Retain
+USR-02760,5,127.6,1,Smart TV,E-Wallet,Upgrade
+USR-02761,34,55.8,4,Smart TV,E-Wallet,Retain
+USR-02762,48,119.5,3,Web,Bank Transfer,Retain
+USR-02763,37,141.3,4,Smart TV,Credit Card,Retain
+USR-02764,15,94.2,4,Mobile,Credit Card,Retain
+USR-02765,44,111.8,5,Smart TV,Bank Transfer,Upgrade
+USR-02766,36,121.2,2,Smart TV,Bank Transfer,Upgrade
+USR-02767,15,127.1,3,Smart TV,E-Wallet,Upgrade
+USR-02768,43,60.5,1,Smart TV,Credit Card,Retain
+USR-02769,48,9.6,2,Smart TV,Credit Card,Churn
+USR-02770,23,61.5,1,Mobile,E-Wallet,Retain
+USR-02771,6,101.7,0,Mobile,Bank Transfer,Retain
+USR-02772,46,68.7,4,Smart TV,Bank Transfer,Retain
+USR-02773,50,112.8,0,Mobile,Credit Card,Retain
+USR-02774,44,54.8,4,Web,Credit Card,Retain
+USR-02775,59,95.9,5,Web,Credit Card,Retain
+USR-02776,43,29.6,2,Mobile,Bank Transfer,Downgrade
+USR-02777,45,112.9,1,Web,E-Wallet,Retain
+USR-02778,21,82.8,5,Smart TV,Credit Card,Retain
+USR-02779,23,32.2,1,Smart TV,Credit Card,Retain
+USR-02780,43,45.2,2,Mobile,E-Wallet,Retain
+USR-02781,55,112.8,3,Mobile,Credit Card,Retain
+USR-02782,16,73.4,0,Mobile,Bank Transfer,Retain
+USR-02783,47,34.0,0,Mobile,E-Wallet,Retain
+USR-02784,53,145.2,1,Web,Credit Card,Retain
+USR-02785,15,107.8,1,Web,Credit Card,Retain
+USR-02786,25,143.7,1,Mobile,Bank Transfer,Retain
+USR-02787,36,65.2,2,Mobile,Credit Card,Retain
+USR-02788,11,72.3,3,Smart TV,Credit Card,Retain
+USR-02789,51,134.9,0,Smart TV,Bank Transfer,Retain
+USR-02790,15,79.7,5,Smart TV,Bank Transfer,Retain
+USR-02791,4,106.7,4,Mobile,Bank Transfer,Retain
+USR-02792,21,39.3,2,Smart TV,Credit Card,Retain
+USR-02793,13,68.1,0,Web,Credit Card,Retain
+USR-02794,22,20.3,3,Smart TV,Credit Card,Downgrade
+USR-02795,19,32.5,2,Mobile,Credit Card,Retain
+USR-02796,34,2.1,5,Smart TV,E-Wallet,Churn
+USR-02797,14,7.8,0,Smart TV,Credit Card,Retain
+USR-02798,4,146.6,2,Web,E-Wallet,Retain
+USR-02799,48,37.9,0,Mobile,Credit Card,Retain
+USR-02800,53,100.2,0,Web,Credit Card,Retain
+USR-02801,52,126.2,3,Web,Bank Transfer,Retain
+USR-02802,46,83.5,4,Smart TV,Credit Card,Retain
+USR-02803,27,24.7,3,Smart TV,Credit Card,Downgrade
+USR-02804,29,109.8,0,Web,Credit Card,Retain
+USR-02805,47,90.8,2,Web,Credit Card,Retain
+USR-02806,28,110.2,5,Mobile,Credit Card,Retain
+USR-02807,35,115.9,3,Mobile,Credit Card,Retain
+USR-02808,8,146.4,4,Mobile,E-Wallet,Retain
+USR-02809,16,86.9,0,Smart TV,Bank Transfer,Retain
+USR-02810,42,52.6,5,Mobile,E-Wallet,Retain
+USR-02811,36,98.0,3,Web,Credit Card,Retain
+USR-02812,30,12.1,3,Mobile,E-Wallet,Downgrade
+USR-02813,18,134.8,3,Smart TV,Credit Card,Upgrade
+USR-02814,2,19.7,3,Smart TV,E-Wallet,Downgrade
+USR-02815,49,50.5,5,Smart TV,E-Wallet,Retain
+USR-02816,13,122.7,2,Smart TV,Credit Card,Upgrade
+USR-02817,4,90.4,4,Web,Bank Transfer,Retain
+USR-02818,26,60.3,4,Smart TV,Bank Transfer,Retain
+USR-02819,25,72.1,0,Smart TV,Bank Transfer,Retain
+USR-02820,30,128.5,1,Smart TV,Credit Card,Retain
+USR-02821,11,52.3,2,Mobile,E-Wallet,Retain
+USR-02822,7,130.7,0,Mobile,Bank Transfer,Retain
+USR-02823,31,15.0,0,Smart TV,Credit Card,Retain
+USR-02824,44,117.0,3,Smart TV,Bank Transfer,Upgrade
+USR-02825,10,127.4,1,Smart TV,Credit Card,Upgrade
+USR-02826,39,28.9,1,Mobile,Credit Card,Retain
+USR-02827,13,65.7,2,Smart TV,E-Wallet,Retain
+USR-02828,31,26.5,1,Web,E-Wallet,Retain
+USR-02829,7,106.6,0,Mobile,E-Wallet,Retain
+USR-02830,56,81.2,1,Smart TV,Bank Transfer,Retain
+USR-02831,49,96.0,1,Mobile,Credit Card,Retain
+USR-02832,42,31.1,4,Smart TV,Credit Card,Retain
+USR-02833,42,33.3,0,Mobile,Bank Transfer,Retain
+USR-02834,56,8.1,5,Smart TV,Credit Card,Churn
+USR-02835,36,49.7,1,Mobile,E-Wallet,Retain
+USR-02836,20,84.8,1,Mobile,E-Wallet,Retain
+USR-02837,4,129.0,3,Web,Credit Card,Retain
+USR-02838,54,100.7,1,Smart TV,Credit Card,Upgrade
+USR-02839,7,66.4,1,Smart TV,E-Wallet,Retain
+USR-02840,54,143.1,4,Mobile,Bank Transfer,Retain
+USR-02841,1,108.4,0,Web,E-Wallet,Retain
+USR-02842,44,139.7,2,Web,E-Wallet,Retain
+USR-02843,56,80.1,0,Smart TV,Credit Card,Retain
+USR-02844,45,40.3,3,Smart TV,Credit Card,Retain
+USR-02845,42,9.8,0,Mobile,Credit Card,Retain
+USR-02846,47,109.5,1,Smart TV,Credit Card,Upgrade
+USR-02847,59,20.0,3,Smart TV,Credit Card,Downgrade
+USR-02848,13,46.8,0,Smart TV,Credit Card,Retain
+USR-02849,55,80.8,3,Mobile,Credit Card,Retain
+USR-02850,22,85.5,2,Web,Credit Card,Retain
+USR-02851,54,90.9,0,Web,Credit Card,Retain
+USR-02852,21,26.6,5,Smart TV,E-Wallet,Retain
+USR-02853,22,58.2,1,Mobile,E-Wallet,Retain
+USR-02854,28,93.3,3,Web,Credit Card,Retain
+USR-02855,9,145.5,5,Smart TV,Bank Transfer,Retain
+USR-02856,26,109.7,5,Mobile,Credit Card,Retain
+USR-02857,9,138.5,4,Mobile,Bank Transfer,Retain
+USR-02858,15,114.8,3,Smart TV,Credit Card,Retain
+USR-02859,10,89.6,5,Mobile,Bank Transfer,Retain
+USR-02860,24,30.4,4,Smart TV,Credit Card,Retain
+USR-02861,58,100.7,5,Mobile,E-Wallet,Retain
+USR-02862,57,94.3,1,Smart TV,Credit Card,Retain
+USR-02863,42,91.2,2,Smart TV,E-Wallet,Retain
+USR-02864,8,74.5,4,Smart TV,Credit Card,Retain
+USR-02865,24,80.2,2,Web,Credit Card,Retain
+USR-02866,16,51.5,3,Mobile,E-Wallet,Retain
+USR-02867,49,78.9,1,Mobile,Credit Card,Retain
+USR-02868,26,31.2,4,Mobile,Bank Transfer,Retain
+USR-02869,27,121.2,3,Mobile,Credit Card,Retain
+USR-02870,37,29.5,5,Smart TV,Credit Card,Retain
+USR-02871,4,14.6,0,Mobile,E-Wallet,Retain
+USR-02872,50,66.6,3,Smart TV,Credit Card,Retain
+USR-02873,24,99.4,2,Smart TV,Credit Card,Retain
+USR-02874,19,66.8,1,Mobile,E-Wallet,Retain
+USR-02875,36,43.0,1,Smart TV,E-Wallet,Retain
+USR-02876,39,84.6,3,Smart TV,Bank Transfer,Retain
+USR-02877,10,53.4,5,Mobile,Credit Card,Retain
+USR-02878,25,140.1,0,Mobile,E-Wallet,Retain
+USR-02879,18,138.6,2,Mobile,Credit Card,Retain
+USR-02880,19,76.4,3,Mobile,Credit Card,Retain
+USR-02881,36,50.5,3,Mobile,E-Wallet,Retain
+USR-02882,10,111.1,1,Mobile,Credit Card,Retain
+USR-02883,33,7.4,2,Smart TV,Credit Card,Retain
+USR-02884,55,72.3,0,Smart TV,Credit Card,Retain
+USR-02885,50,51.8,1,Mobile,E-Wallet,Retain
+USR-02886,5,138.2,3,Smart TV,Bank Transfer,Upgrade
+USR-02887,47,3.8,1,Web,E-Wallet,Churn
+USR-02888,49,83.8,1,Web,Credit Card,Retain
+USR-02889,35,111.6,4,Smart TV,E-Wallet,Upgrade
+USR-02890,44,73.8,1,Smart TV,E-Wallet,Retain
+USR-02891,34,14.6,5,Smart TV,Credit Card,Retain
+USR-02892,33,145.9,1,Smart TV,Credit Card,Retain
+USR-02893,55,78.7,5,Smart TV,Credit Card,Retain
+USR-02894,21,92.9,2,Mobile,Credit Card,Retain
+USR-02895,17,37.0,1,Web,Bank Transfer,Retain
+USR-02896,22,73.6,0,Mobile,Credit Card,Retain
+USR-02897,48,65.5,5,Smart TV,Credit Card,Retain
+USR-02898,37,13.1,5,Smart TV,Bank Transfer,Retain
+USR-02899,15,17.7,3,Mobile,Bank Transfer,Retain
+USR-02900,35,125.9,2,Web,E-Wallet,Retain
+USR-02901,28,37.5,1,Web,Credit Card,Retain
+USR-02902,7,30.9,0,Web,Credit Card,Retain
+USR-02903,32,76.7,3,Mobile,Credit Card,Retain
+USR-02904,11,115.8,2,Mobile,Credit Card,Retain
+USR-02905,10,11.2,5,Smart TV,Credit Card,Retain
+USR-02906,9,87.4,0,Mobile,E-Wallet,Retain
+USR-02907,14,19.6,1,Smart TV,Credit Card,Retain
+USR-02908,13,7.4,4,Mobile,Credit Card,Churn
+USR-02909,57,9.8,4,Mobile,Credit Card,Churn
+USR-02910,25,125.5,2,Smart TV,E-Wallet,Retain
+USR-02911,2,19.5,0,Smart TV,E-Wallet,Retain
+USR-02912,35,8.7,3,Smart TV,E-Wallet,Retain
+USR-02913,7,66.8,0,Smart TV,Credit Card,Retain
+USR-02914,21,126.9,5,Smart TV,Credit Card,Upgrade
+USR-02915,18,40.8,4,Smart TV,Credit Card,Retain
+USR-02916,3,64.4,2,Smart TV,Credit Card,Retain
+USR-02917,42,7.9,1,Smart TV,Bank Transfer,Retain
+USR-02918,54,68.5,0,Web,Bank Transfer,Retain
+USR-02919,39,87.5,4,Smart TV,E-Wallet,Retain
+USR-02920,41,86.5,3,Smart TV,Bank Transfer,Retain
+USR-02921,49,51.2,2,Mobile,E-Wallet,Retain
+USR-02922,11,48.7,1,Web,Credit Card,Retain
+USR-02923,39,17.8,0,Mobile,Bank Transfer,Retain
+USR-02924,24,56.3,3,Smart TV,Credit Card,Retain
+USR-02925,46,16.7,1,Mobile,E-Wallet,Retain
+USR-02926,19,115.5,5,Mobile,Credit Card,Retain
+USR-02927,4,145.0,4,Mobile,Credit Card,Retain
+USR-02928,26,145.6,5,Mobile,E-Wallet,Retain
+USR-02929,38,130.0,4,Web,Credit Card,Retain
+USR-02930,42,90.9,3,Web,Credit Card,Retain
+USR-02931,32,105.7,5,Mobile,Credit Card,Retain
+USR-02932,39,44.2,4,Mobile,Credit Card,Retain
+USR-02933,45,95.4,2,Mobile,Bank Transfer,Retain
+USR-02934,46,69.4,3,Web,E-Wallet,Retain
+USR-02935,36,73.3,4,Smart TV,Credit Card,Retain
+USR-02936,40,114.2,0,Web,Credit Card,Retain
+USR-02937,37,43.7,4,Smart TV,Bank Transfer,Retain
+USR-02938,33,49.1,5,Mobile,Credit Card,Retain
+USR-02939,36,138.8,2,Web,Credit Card,Retain
+USR-02940,3,10.3,1,Smart TV,Credit Card,Retain
+USR-02941,9,73.9,1,Mobile,Bank Transfer,Retain
+USR-02942,8,137.1,4,Smart TV,Credit Card,Upgrade
+USR-02943,33,92.3,1,Smart TV,Credit Card,Retain
+USR-02944,59,82.9,4,Smart TV,Credit Card,Retain
+USR-02945,6,39.0,2,Smart TV,Credit Card,Retain
+USR-02946,41,52.8,1,Smart TV,E-Wallet,Retain
+USR-02947,39,128.1,5,Web,Credit Card,Retain
+USR-02948,4,84.8,5,Web,Credit Card,Retain
+USR-02949,13,78.2,0,Smart TV,Credit Card,Retain
+USR-02950,49,16.7,4,Mobile,Credit Card,Retain
+USR-02951,2,4.4,1,Smart TV,Bank Transfer,Retain
+USR-02952,5,144.6,5,Smart TV,Bank Transfer,Upgrade
+USR-02953,44,57.8,2,Smart TV,Credit Card,Retain
+USR-02954,27,91.3,2,Web,Credit Card,Retain
+USR-02955,32,13.8,0,Web,Credit Card,Retain
+USR-02956,21,103.1,2,Smart TV,E-Wallet,Retain
+USR-02957,8,140.0,2,Smart TV,E-Wallet,Retain
+USR-02958,38,87.2,1,Smart TV,Credit Card,Retain
+USR-02959,8,20.7,4,Mobile,E-Wallet,Retain
+USR-02960,50,88.1,3,Mobile,E-Wallet,Retain
+USR-02961,3,115.4,2,Smart TV,Bank Transfer,Upgrade
+USR-02962,54,62.1,2,Mobile,Credit Card,Retain
+USR-02963,44,132.2,3,Smart TV,Credit Card,Retain
+USR-02964,58,98.0,2,Web,Credit Card,Retain
+USR-02965,3,135.1,1,Mobile,Bank Transfer,Retain
+USR-02966,22,94.3,1,Mobile,E-Wallet,Retain
+USR-02967,6,21.4,3,Mobile,E-Wallet,Downgrade
+USR-02968,2,47.8,5,Web,Credit Card,Retain
+USR-02969,23,31.9,2,Smart TV,Credit Card,Retain
+USR-02970,44,136.5,5,Smart TV,Credit Card,Upgrade
+USR-02971,2,114.5,2,Web,E-Wallet,Retain
+USR-02972,38,102.1,4,Smart TV,Credit Card,Upgrade
+USR-02973,17,46.5,2,Smart TV,Credit Card,Retain
+USR-02974,35,29.2,1,Mobile,E-Wallet,Retain
+USR-02975,34,114.0,0,Web,Credit Card,Retain
+USR-02976,23,72.2,0,Mobile,Credit Card,Retain
+USR-02977,30,35.4,0,Web,Credit Card,Retain
+USR-02978,52,93.3,0,Mobile,Bank Transfer,Retain
+USR-02979,8,8.0,5,Smart TV,E-Wallet,Churn
+USR-02980,22,50.3,5,Mobile,Bank Transfer,Retain
+USR-02981,44,71.3,2,Mobile,Credit Card,Retain
+USR-02982,58,23.9,5,Smart TV,Bank Transfer,Retain
+USR-02983,36,147.7,2,Smart TV,Bank Transfer,Upgrade
+USR-02984,5,32.9,4,Smart TV,E-Wallet,Retain
+USR-02985,13,21.3,2,Mobile,Bank Transfer,Downgrade
+USR-02986,29,32.1,0,Web,Credit Card,Retain
+USR-02987,31,115.8,3,Mobile,Credit Card,Retain
+USR-02988,47,65.0,3,Web,Credit Card,Retain
+USR-02989,57,85.7,1,Smart TV,E-Wallet,Retain
+USR-02990,55,5.1,1,Web,E-Wallet,Churn
+USR-02991,16,7.1,2,Web,E-Wallet,Retain
+USR-02992,42,68.0,3,Smart TV,Credit Card,Retain
+USR-02993,30,122.9,0,Web,Credit Card,Retain
+USR-02994,57,133.0,5,Smart TV,Credit Card,Upgrade
+USR-02995,55,14.8,0,Web,E-Wallet,Retain
+USR-02996,16,81.7,0,Web,Credit Card,Retain
+USR-02997,12,137.2,2,Mobile,Bank Transfer,Retain
+USR-02998,17,59.4,2,Mobile,Credit Card,Retain
+USR-02999,16,124.8,4,Smart TV,Credit Card,Retain
+USR-03000,12,21.8,0,Mobile,Bank Transfer,Retain
+USR-03001,8,140.4,0,Smart TV,Credit Card,Upgrade
+USR-03002,20,113.2,2,Mobile,Credit Card,Retain
+USR-03003,3,141.3,2,Mobile,Credit Card,Retain
+USR-03004,16,102.1,4,Web,Credit Card,Retain
+USR-03005,30,55.8,4,Smart TV,Bank Transfer,Retain
+USR-03006,45,140.9,1,Web,E-Wallet,Retain
+USR-03007,23,42.8,3,Web,Credit Card,Retain
+USR-03008,28,51.2,0,Mobile,E-Wallet,Retain
+USR-03009,51,105.7,0,Smart TV,Credit Card,Upgrade
+USR-03010,40,115.3,4,Smart TV,E-Wallet,Upgrade
+USR-03011,54,139.6,4,Smart TV,Bank Transfer,Upgrade
+USR-03012,5,32.3,1,Mobile,Bank Transfer,Retain
+USR-03013,20,120.1,3,Mobile,Credit Card,Retain
+USR-03014,40,111.3,1,Web,Credit Card,Retain
+USR-03015,56,11.4,3,Smart TV,Credit Card,Downgrade
+USR-03016,44,59.3,5,Smart TV,E-Wallet,Retain
+USR-03017,1,43.8,0,Mobile,E-Wallet,Retain
+USR-03018,57,47.1,1,Web,Credit Card,Retain
+USR-03019,30,147.5,4,Web,Bank Transfer,Retain
+USR-03020,21,97.1,1,Web,Credit Card,Retain
+USR-03021,20,108.2,5,Mobile,Credit Card,Retain
+USR-03022,6,146.5,1,Mobile,Credit Card,Retain
+USR-03023,22,57.8,0,Web,Credit Card,Retain
+USR-03024,18,120.7,5,Mobile,Credit Card,Retain
+USR-03025,8,66.3,4,Smart TV,E-Wallet,Retain
+USR-03026,39,130.7,4,Smart TV,Credit Card,Retain
+USR-03027,32,28.7,2,Smart TV,Credit Card,Downgrade
+USR-03028,33,142.3,5,Mobile,E-Wallet,Retain
+USR-03029,53,34.4,2,Smart TV,Credit Card,Retain
+USR-03030,16,50.3,2,Smart TV,E-Wallet,Retain
+USR-03031,12,113.9,0,Smart TV,Credit Card,Upgrade
+USR-03032,38,60.3,1,Mobile,E-Wallet,Retain
+USR-03033,52,92.0,4,Smart TV,Bank Transfer,Retain
+USR-03034,34,67.8,4,Mobile,Credit Card,Retain
+USR-03035,14,111.9,1,Smart TV,E-Wallet,Retain
+USR-03036,36,35.8,4,Smart TV,Bank Transfer,Retain
+USR-03037,33,10.7,1,Mobile,E-Wallet,Retain
+USR-03038,23,46.4,5,Smart TV,Credit Card,Retain
+USR-03039,50,72.2,0,Smart TV,Credit Card,Retain
+USR-03040,45,26.9,0,Smart TV,E-Wallet,Retain
+USR-03041,2,54.5,0,Web,Bank Transfer,Retain
+USR-03042,41,61.2,1,Mobile,Credit Card,Retain
+USR-03043,21,10.5,1,Smart TV,Credit Card,Retain
+USR-03044,2,88.3,3,Smart TV,Credit Card,Retain
+USR-03045,27,132.9,4,Web,Credit Card,Retain
+USR-03046,57,24.5,4,Mobile,Credit Card,Retain
+USR-03047,9,90.5,3,Mobile,Credit Card,Retain
+USR-03048,1,100.4,3,Mobile,Credit Card,Retain
+USR-03049,11,64.1,0,Mobile,Credit Card,Retain
+USR-03050,3,105.8,3,Mobile,Bank Transfer,Retain
+USR-03051,52,62.8,1,Mobile,Credit Card,Retain
+USR-03052,23,76.7,2,Mobile,Credit Card,Retain
+USR-03053,26,3.1,1,Smart TV,Credit Card,Retain
+USR-03054,4,104.4,3,Web,Bank Transfer,Retain
+USR-03055,18,99.9,4,Mobile,E-Wallet,Retain
+USR-03056,55,7.7,1,Smart TV,E-Wallet,Churn
+USR-03057,6,56.5,4,Web,Credit Card,Retain
+USR-03058,35,146.9,1,Web,Bank Transfer,Retain
+USR-03059,22,64.3,4,Web,Credit Card,Retain
+USR-03060,43,76.3,5,Web,Credit Card,Retain
+USR-03061,15,136.7,1,Web,E-Wallet,Retain
+USR-03062,22,108.2,4,Smart TV,Bank Transfer,Upgrade
+USR-03063,37,88.1,2,Web,E-Wallet,Retain
+USR-03064,52,120.1,0,Web,Bank Transfer,Retain
+USR-03065,42,129.9,1,Smart TV,Bank Transfer,Upgrade
+USR-03066,12,69.6,2,Smart TV,Credit Card,Retain
+USR-03067,47,72.3,0,Web,Credit Card,Retain
+USR-03068,49,59.1,1,Smart TV,Credit Card,Retain
+USR-03069,42,145.1,2,Web,Bank Transfer,Retain
+USR-03070,38,105.2,2,Smart TV,Credit Card,Upgrade
+USR-03071,18,14.3,5,Smart TV,Bank Transfer,Retain
+USR-03072,45,129.7,2,Mobile,Credit Card,Retain
+USR-03073,35,73.1,5,Smart TV,Credit Card,Retain
+USR-03074,30,12.2,3,Mobile,Credit Card,Downgrade
+USR-03075,24,83.4,4,Mobile,Credit Card,Retain
+USR-03076,42,63.7,0,Smart TV,Bank Transfer,Retain
+USR-03077,30,131.9,4,Smart TV,Credit Card,Retain
+USR-03078,14,32.2,4,Smart TV,Credit Card,Retain
+USR-03079,6,124.3,5,Smart TV,Credit Card,Upgrade
+USR-03080,3,84.5,4,Mobile,Credit Card,Retain
+USR-03081,16,10.1,2,Mobile,Credit Card,Downgrade
+USR-03082,7,145.8,5,Smart TV,Credit Card,Upgrade
+USR-03083,52,77.9,4,Mobile,Bank Transfer,Retain
+USR-03084,14,45.0,5,Smart TV,Credit Card,Retain
+USR-03085,9,71.5,3,Smart TV,Credit Card,Retain
+USR-03086,15,129.0,5,Smart TV,E-Wallet,Retain
+USR-03087,21,47.1,1,Web,Credit Card,Retain
+USR-03088,35,30.5,2,Web,Credit Card,Retain
+USR-03089,2,21.1,0,Web,E-Wallet,Retain
+USR-03090,27,46.1,1,Smart TV,Credit Card,Retain
+USR-03091,2,117.4,1,Smart TV,E-Wallet,Upgrade
+USR-03092,35,71.8,1,Mobile,Credit Card,Retain
+USR-03093,18,35.7,4,Mobile,E-Wallet,Retain
+USR-03094,14,26.6,5,Web,Bank Transfer,Retain
+USR-03095,20,51.2,5,Smart TV,Credit Card,Retain
+USR-03096,18,141.1,4,Smart TV,Credit Card,Retain
+USR-03097,10,52.8,2,Mobile,Credit Card,Retain
+USR-03098,25,148.2,4,Web,Credit Card,Retain
+USR-03099,2,73.8,4,Web,Bank Transfer,Retain
+USR-03100,25,28.5,4,Mobile,E-Wallet,Retain
+USR-03101,54,133.9,2,Web,Credit Card,Retain
+USR-03102,33,70.1,2,Mobile,E-Wallet,Retain
+USR-03103,36,107.0,3,Web,Credit Card,Retain
+USR-03104,31,147.6,3,Web,E-Wallet,Retain
+USR-03105,14,9.4,3,Web,E-Wallet,Retain
+USR-03106,1,16.3,3,Smart TV,E-Wallet,Downgrade
+USR-03107,46,108.6,5,Smart TV,Credit Card,Upgrade
+USR-03108,16,43.7,1,Mobile,E-Wallet,Retain
+USR-03109,54,29.3,1,Mobile,Credit Card,Retain
+USR-03110,46,7.8,3,Web,E-Wallet,Retain
+USR-03111,52,5.2,3,Smart TV,Credit Card,Retain
+USR-03112,3,116.6,0,Smart TV,Credit Card,Upgrade
+USR-03113,35,21.9,1,Mobile,E-Wallet,Retain
+USR-03114,41,71.2,0,Smart TV,Bank Transfer,Retain
+USR-03115,6,91.7,0,Smart TV,Credit Card,Retain
+USR-03116,25,65.4,4,Smart TV,Bank Transfer,Retain
+USR-03117,13,6.0,5,Mobile,E-Wallet,Churn
+USR-03118,53,118.0,2,Smart TV,E-Wallet,Retain
+USR-03119,34,3.6,1,Web,Bank Transfer,Retain
+USR-03120,8,114.8,3,Mobile,Credit Card,Retain
+USR-03121,21,134.2,3,Web,Bank Transfer,Retain
+USR-03122,34,66.1,2,Mobile,Credit Card,Retain
+USR-03123,4,81.3,1,Smart TV,Credit Card,Retain
+USR-03124,25,72.6,3,Smart TV,E-Wallet,Retain
+USR-03125,15,59.6,3,Smart TV,Bank Transfer,Retain
+USR-03126,4,133.3,4,Mobile,Bank Transfer,Retain
+USR-03127,45,134.3,0,Smart TV,E-Wallet,Upgrade
+USR-03128,12,51.7,3,Smart TV,E-Wallet,Retain
+USR-03129,32,93.0,5,Mobile,Credit Card,Retain
+USR-03130,32,139.2,1,Smart TV,Bank Transfer,Retain
+USR-03131,28,144.4,5,Smart TV,Credit Card,Upgrade
+USR-03132,13,77.3,2,Mobile,E-Wallet,Retain
+USR-03133,31,69.0,4,Web,E-Wallet,Retain
+USR-03134,14,43.2,1,Smart TV,E-Wallet,Retain
+USR-03135,20,143.9,4,Smart TV,Credit Card,Upgrade
+USR-03136,18,23.1,0,Web,Bank Transfer,Retain
+USR-03137,29,87.8,3,Smart TV,E-Wallet,Retain
+USR-03138,6,43.8,1,Web,Bank Transfer,Retain
+USR-03139,32,43.3,2,Smart TV,Credit Card,Retain
+USR-03140,29,61.9,0,Web,E-Wallet,Retain
+USR-03141,43,149.8,0,Smart TV,E-Wallet,Retain
+USR-03142,2,10.1,4,Web,E-Wallet,Retain
+USR-03143,23,87.6,0,Smart TV,Bank Transfer,Retain
+USR-03144,19,14.2,1,Mobile,Credit Card,Retain
+USR-03145,31,24.9,4,Smart TV,Credit Card,Retain
+USR-03146,51,67.1,0,Smart TV,Credit Card,Retain
+USR-03147,5,77.5,2,Mobile,Credit Card,Retain
+USR-03148,19,40.3,5,Mobile,Bank Transfer,Retain
+USR-03149,34,48.8,1,Web,Credit Card,Retain
+USR-03150,10,14.9,2,Mobile,Credit Card,Downgrade
+USR-03151,25,46.9,2,Web,Credit Card,Retain
+USR-03152,2,145.1,4,Mobile,E-Wallet,Retain
+USR-03153,11,141.8,3,Web,Credit Card,Retain
+USR-03154,50,51.6,4,Web,Credit Card,Retain
+USR-03155,31,86.5,1,Smart TV,Credit Card,Retain
+USR-03156,56,136.6,1,Web,Credit Card,Retain
+USR-03157,15,2.9,4,Web,Bank Transfer,Churn
+USR-03158,9,122.0,3,Smart TV,Credit Card,Retain
+USR-03159,23,142.4,4,Mobile,E-Wallet,Retain
+USR-03160,19,15.5,1,Smart TV,Bank Transfer,Retain
+USR-03161,9,25.9,3,Web,E-Wallet,Retain
+USR-03162,35,144.2,1,Smart TV,Bank Transfer,Upgrade
+USR-03163,21,81.6,3,Smart TV,Bank Transfer,Retain
+USR-03164,9,4.1,3,Mobile,Credit Card,Retain
+USR-03165,28,40.1,4,Mobile,E-Wallet,Retain
+USR-03166,46,68.6,4,Web,Credit Card,Retain
+USR-03167,51,104.6,4,Web,Credit Card,Retain
+USR-03168,7,110.5,3,Mobile,Bank Transfer,Retain
+USR-03169,16,149.3,3,Smart TV,E-Wallet,Upgrade
+USR-03170,16,44.6,1,Mobile,E-Wallet,Retain
+USR-03171,33,81.7,2,Mobile,E-Wallet,Retain
+USR-03172,4,80.9,4,Mobile,Credit Card,Retain
+USR-03173,4,62.0,5,Smart TV,Bank Transfer,Retain
+USR-03174,39,27.0,1,Mobile,Credit Card,Retain
+USR-03175,40,146.7,1,Smart TV,Credit Card,Upgrade
+USR-03176,17,128.3,0,Mobile,Bank Transfer,Retain
+USR-03177,37,75.8,4,Mobile,Credit Card,Retain
+USR-03178,39,91.3,1,Web,E-Wallet,Retain
+USR-03179,52,35.6,0,Mobile,E-Wallet,Retain
+USR-03180,29,82.5,5,Smart TV,Credit Card,Retain
+USR-03181,52,104.9,5,Web,Bank Transfer,Retain
+USR-03182,36,78.2,4,Mobile,E-Wallet,Retain
+USR-03183,38,148.6,3,Smart TV,Credit Card,Upgrade
+USR-03184,39,92.5,0,Mobile,Credit Card,Retain
+USR-03185,50,56.9,3,Smart TV,Bank Transfer,Retain
+USR-03186,37,116.3,5,Web,Credit Card,Retain
+USR-03187,52,27.2,5,Mobile,Bank Transfer,Retain
+USR-03188,35,58.9,2,Mobile,Credit Card,Retain
+USR-03189,7,53.3,2,Smart TV,E-Wallet,Retain
+USR-03190,27,65.9,2,Smart TV,Bank Transfer,Retain
+USR-03191,28,117.7,2,Web,Credit Card,Retain
+USR-03192,22,73.7,1,Web,E-Wallet,Retain
+USR-03193,14,119.5,2,Smart TV,E-Wallet,Upgrade
+USR-03194,7,87.3,1,Smart TV,E-Wallet,Retain
+USR-03195,37,52.6,1,Smart TV,E-Wallet,Retain
+USR-03196,22,121.9,4,Mobile,E-Wallet,Retain
+USR-03197,5,37.3,1,Mobile,E-Wallet,Retain
+USR-03198,55,35.2,1,Mobile,Bank Transfer,Retain
+USR-03199,2,76.7,2,Mobile,E-Wallet,Retain
+USR-03200,27,40.6,1,Web,Credit Card,Retain
+USR-03201,21,3.3,3,Mobile,Bank Transfer,Retain
+USR-03202,54,97.9,2,Smart TV,Credit Card,Retain
+USR-03203,38,77.6,0,Mobile,Credit Card,Retain
+USR-03204,15,67.9,2,Web,Credit Card,Retain
+USR-03205,21,145.1,1,Mobile,Credit Card,Retain
+USR-03206,10,86.5,3,Mobile,Credit Card,Retain
+USR-03207,23,129.8,2,Mobile,Credit Card,Retain
+USR-03208,58,22.6,3,Web,Credit Card,Downgrade
+USR-03209,56,86.2,0,Mobile,E-Wallet,Retain
+USR-03210,39,130.5,5,Smart TV,Credit Card,Upgrade
+USR-03211,5,88.3,0,Web,Credit Card,Retain
+USR-03212,1,108.3,5,Web,Credit Card,Retain
+USR-03213,13,57.1,4,Smart TV,Credit Card,Retain
+USR-03214,21,15.7,5,Mobile,Credit Card,Retain
+USR-03215,26,69.8,4,Mobile,E-Wallet,Retain
+USR-03216,50,60.4,2,Smart TV,Bank Transfer,Retain
+USR-03217,45,130.3,4,Web,Bank Transfer,Retain
+USR-03218,21,38.1,3,Mobile,Bank Transfer,Retain
+USR-03219,53,145.1,4,Web,Credit Card,Retain
+USR-03220,18,143.8,3,Smart TV,Credit Card,Upgrade
+USR-03221,37,38.6,5,Mobile,Credit Card,Retain
+USR-03222,45,53.5,5,Smart TV,E-Wallet,Retain
+USR-03223,32,134.5,5,Mobile,Credit Card,Retain
+USR-03224,36,145.1,4,Mobile,E-Wallet,Retain
+USR-03225,17,67.6,5,Mobile,Credit Card,Retain
+USR-03226,35,49.5,4,Smart TV,Credit Card,Retain
+USR-03227,49,79.9,4,Smart TV,Bank Transfer,Retain
+USR-03228,11,103.8,1,Smart TV,E-Wallet,Upgrade
+USR-03229,21,42.5,1,Smart TV,Bank Transfer,Retain
+USR-03230,52,111.0,4,Mobile,E-Wallet,Retain
+USR-03231,55,9.6,3,Mobile,Bank Transfer,Retain
+USR-03232,53,9.3,2,Mobile,E-Wallet,Retain
+USR-03233,26,59.2,0,Mobile,Bank Transfer,Retain
+USR-03234,4,54.3,1,Smart TV,Credit Card,Retain
+USR-03235,34,48.7,4,Smart TV,E-Wallet,Retain
+USR-03236,52,74.7,0,Smart TV,E-Wallet,Retain
+USR-03237,48,49.5,1,Web,Credit Card,Retain
+USR-03238,18,30.5,2,Mobile,Bank Transfer,Retain
+USR-03239,40,47.8,3,Smart TV,Bank Transfer,Retain
+USR-03240,35,146.3,4,Smart TV,Credit Card,Upgrade
+USR-03241,41,62.8,2,Web,Credit Card,Retain
+USR-03242,29,67.8,1,Mobile,Credit Card,Retain
+USR-03243,52,87.3,4,Mobile,Bank Transfer,Retain
+USR-03244,29,147.5,0,Mobile,E-Wallet,Retain
+USR-03245,38,37.8,5,Smart TV,Credit Card,Retain
+USR-03246,42,102.8,3,Web,E-Wallet,Retain
+USR-03247,21,108.0,1,Mobile,Credit Card,Retain
+USR-03248,42,91.9,3,Smart TV,E-Wallet,Retain
+USR-03249,13,15.1,4,Web,Credit Card,Downgrade
+USR-03250,49,102.2,5,Mobile,Credit Card,Retain
+USR-03251,41,11.5,2,Smart TV,E-Wallet,Downgrade
+USR-03252,17,90.2,3,Mobile,Credit Card,Retain
+USR-03253,56,111.5,0,Smart TV,Credit Card,Upgrade
+USR-03254,9,33.2,1,Smart TV,Credit Card,Retain
+USR-03255,41,126.6,0,Mobile,Credit Card,Retain
+USR-03256,1,6.5,3,Smart TV,Credit Card,Retain
+USR-03257,2,126.9,5,Web,Bank Transfer,Retain
+USR-03258,48,70.1,2,Web,Bank Transfer,Retain
+USR-03259,29,34.2,2,Smart TV,Bank Transfer,Retain
+USR-03260,33,21.8,0,Mobile,Bank Transfer,Downgrade
+USR-03261,10,143.1,4,Web,Credit Card,Retain
+USR-03262,50,12.8,4,Mobile,Credit Card,Retain
+USR-03263,58,31.5,5,Mobile,Credit Card,Retain
+USR-03264,40,53.5,2,Smart TV,Bank Transfer,Retain
+USR-03265,21,93.8,0,Mobile,E-Wallet,Retain
+USR-03266,28,82.6,0,Mobile,Credit Card,Retain
+USR-03267,11,20.6,0,Web,Credit Card,Retain
+USR-03268,55,44.9,3,Smart TV,E-Wallet,Retain
+USR-03269,34,37.3,5,Web,E-Wallet,Retain
+USR-03270,8,33.6,4,Smart TV,Bank Transfer,Retain
+USR-03271,59,62.8,4,Web,Credit Card,Retain
+USR-03272,22,106.2,3,Mobile,Bank Transfer,Retain
+USR-03273,8,34.2,1,Mobile,Credit Card,Retain
+USR-03274,49,56.3,3,Mobile,E-Wallet,Retain
+USR-03275,15,59.9,5,Smart TV,Bank Transfer,Retain
+USR-03276,17,146.5,0,Smart TV,Bank Transfer,Retain
+USR-03277,23,143.3,3,Smart TV,Credit Card,Upgrade
+USR-03278,24,120.4,0,Smart TV,Credit Card,Retain
+USR-03279,45,37.8,5,Smart TV,Credit Card,Retain
+USR-03280,19,12.1,5,Mobile,Credit Card,Retain
+USR-03281,5,48.9,2,Mobile,E-Wallet,Retain
+USR-03282,32,41.5,0,Smart TV,Bank Transfer,Retain
+USR-03283,44,76.9,4,Web,Credit Card,Retain
+USR-03284,1,117.1,3,Mobile,Credit Card,Retain
+USR-03285,23,129.0,5,Web,Credit Card,Retain
+USR-03286,37,127.0,0,Mobile,Bank Transfer,Retain
+USR-03287,8,55.2,1,Smart TV,Bank Transfer,Retain
+USR-03288,13,103.7,2,Mobile,Credit Card,Retain
+USR-03289,8,48.3,1,Mobile,Credit Card,Retain
+USR-03290,57,11.0,5,Smart TV,E-Wallet,Retain
+USR-03291,23,105.8,1,Smart TV,E-Wallet,Upgrade
+USR-03292,43,3.5,1,Smart TV,Credit Card,Retain
+USR-03293,1,62.6,2,Smart TV,Bank Transfer,Retain
+USR-03294,45,50.7,2,Mobile,Bank Transfer,Retain
+USR-03295,51,104.6,2,Mobile,E-Wallet,Upgrade
+USR-03296,24,115.4,2,Smart TV,E-Wallet,Upgrade
+USR-03297,35,47.0,1,Mobile,Credit Card,Retain
+USR-03298,24,122.1,4,Mobile,E-Wallet,Retain
+USR-03299,17,45.5,4,Smart TV,Credit Card,Retain
+USR-03300,5,68.1,2,Smart TV,Credit Card,Retain
+USR-03301,20,109.6,3,Smart TV,Credit Card,Upgrade
+USR-03302,21,104.6,0,Smart TV,Credit Card,Retain
+USR-03303,40,148.1,5,Smart TV,Credit Card,Upgrade
+USR-03304,58,35.3,3,Smart TV,E-Wallet,Retain
+USR-03305,31,100.0,5,Mobile,E-Wallet,Retain
+USR-03306,46,92.2,3,Mobile,E-Wallet,Retain
+USR-03307,36,137.4,3,Smart TV,Credit Card,Retain
+USR-03308,11,25.1,4,Smart TV,Credit Card,Retain
+USR-03309,52,113.3,0,Mobile,Bank Transfer,Retain
+USR-03310,15,86.1,3,Web,Credit Card,Retain
+USR-03311,19,42.7,2,Mobile,Bank Transfer,Retain
+USR-03312,7,72.2,5,Mobile,Credit Card,Retain
+USR-03313,51,51.4,4,Smart TV,E-Wallet,Retain
+USR-03314,28,87.7,5,Smart TV,Credit Card,Retain
+USR-03315,51,133.6,2,Web,E-Wallet,Retain
+USR-03316,43,86.3,2,Smart TV,Bank Transfer,Retain
+USR-03317,58,95.5,3,Web,Bank Transfer,Retain
+USR-03318,5,78.8,2,Mobile,Bank Transfer,Retain
+USR-03319,5,9.6,0,Mobile,Credit Card,Retain
+USR-03320,30,36.5,2,Smart TV,E-Wallet,Retain
+USR-03321,54,74.8,3,Mobile,Credit Card,Retain
+USR-03322,32,47.9,5,Mobile,E-Wallet,Retain
+USR-03323,8,28.9,2,Smart TV,Credit Card,Downgrade
+USR-03324,10,76.6,4,Smart TV,Bank Transfer,Retain
+USR-03325,38,49.8,4,Web,Bank Transfer,Retain
+USR-03326,47,40.2,4,Mobile,Credit Card,Retain
+USR-03327,32,70.7,5,Mobile,Credit Card,Retain
+USR-03328,48,21.7,1,Smart TV,Credit Card,Retain
+USR-03329,28,139.3,4,Mobile,E-Wallet,Retain
+USR-03330,17,130.4,4,Mobile,Credit Card,Retain
+USR-03331,31,106.7,1,Mobile,Bank Transfer,Retain
+USR-03332,8,17.7,5,Mobile,E-Wallet,Retain
+USR-03333,40,116.8,4,Mobile,E-Wallet,Retain
+USR-03334,25,121.6,3,Mobile,E-Wallet,Retain
+USR-03335,9,115.6,5,Smart TV,Credit Card,Upgrade
+USR-03336,2,18.9,4,Web,Bank Transfer,Downgrade
+USR-03337,15,97.3,4,Mobile,E-Wallet,Retain
+USR-03338,50,125.5,1,Smart TV,Bank Transfer,Upgrade
+USR-03339,3,87.4,3,Mobile,E-Wallet,Retain
+USR-03340,49,97.7,5,Web,E-Wallet,Retain
+USR-03341,36,69.8,2,Smart TV,Credit Card,Retain
+USR-03342,4,80.2,0,Smart TV,E-Wallet,Retain
+USR-03343,14,7.1,3,Mobile,E-Wallet,Churn
+USR-03344,41,96.6,2,Smart TV,E-Wallet,Retain
+USR-03345,41,14.1,3,Mobile,E-Wallet,Downgrade
+USR-03346,25,66.4,2,Smart TV,Credit Card,Retain
+USR-03347,58,45.3,2,Mobile,Bank Transfer,Retain
+USR-03348,55,82.7,3,Smart TV,Bank Transfer,Retain
+USR-03349,50,21.7,1,Smart TV,Credit Card,Retain
+USR-03350,10,104.4,3,Web,Bank Transfer,Retain
+USR-03351,21,119.7,3,Mobile,Credit Card,Retain
+USR-03352,36,26.2,2,Smart TV,E-Wallet,Downgrade
+USR-03353,12,17.4,0,Smart TV,Credit Card,Retain
+USR-03354,27,23.5,2,Mobile,Bank Transfer,Downgrade
+USR-03355,40,131.8,4,Mobile,Credit Card,Retain
+USR-03356,2,80.2,3,Web,Credit Card,Retain
+USR-03357,54,71.2,5,Web,Credit Card,Retain
+USR-03358,13,17.8,3,Mobile,Credit Card,Downgrade
+USR-03359,53,98.1,1,Mobile,E-Wallet,Retain
+USR-03360,32,130.5,5,Mobile,Credit Card,Retain
+USR-03361,31,124.6,2,Mobile,E-Wallet,Retain
+USR-03362,16,94.7,1,Smart TV,Bank Transfer,Retain
+USR-03363,32,13.1,3,Smart TV,Bank Transfer,Downgrade
+USR-03364,32,18.6,2,Smart TV,Bank Transfer,Downgrade
+USR-03365,34,9.3,2,Smart TV,Credit Card,Retain
+USR-03366,11,40.1,4,Smart TV,Credit Card,Retain
+USR-03367,10,22.1,4,Mobile,E-Wallet,Retain
+USR-03368,15,40.5,0,Mobile,Credit Card,Retain
+USR-03369,17,59.0,4,Mobile,Bank Transfer,Retain
+USR-03370,40,141.6,5,Smart TV,Credit Card,Retain
+USR-03371,18,92.3,2,Smart TV,Bank Transfer,Retain
+USR-03372,55,125.6,4,Mobile,Credit Card,Retain
+USR-03373,9,107.1,0,Smart TV,Bank Transfer,Upgrade
+USR-03374,25,18.7,3,Mobile,Credit Card,Downgrade
+USR-03375,40,110.9,5,Web,Credit Card,Retain
+USR-03376,59,42.7,4,Smart TV,E-Wallet,Retain
+USR-03377,14,96.6,2,Smart TV,Credit Card,Retain
+USR-03378,58,52.5,3,Mobile,E-Wallet,Retain
+USR-03379,25,149.7,2,Web,E-Wallet,Retain
+USR-03380,50,41.0,3,Mobile,Credit Card,Retain
+USR-03381,22,43.3,5,Web,Bank Transfer,Retain
+USR-03382,52,139.7,2,Smart TV,Credit Card,Upgrade
+USR-03383,30,5.6,4,Web,E-Wallet,Churn
+USR-03384,20,105.1,4,Smart TV,E-Wallet,Upgrade
+USR-03385,21,109.3,0,Smart TV,E-Wallet,Upgrade
+USR-03386,44,125.8,3,Web,Credit Card,Retain
+USR-03387,32,146.2,0,Web,Credit Card,Retain
+USR-03388,51,146.4,1,Smart TV,E-Wallet,Upgrade
+USR-03389,46,11.7,4,Smart TV,Credit Card,Retain
+USR-03390,49,123.6,3,Smart TV,Credit Card,Retain
+USR-03391,56,97.7,5,Smart TV,E-Wallet,Retain
+USR-03392,21,97.8,0,Smart TV,E-Wallet,Retain
+USR-03393,35,21.0,5,Web,Credit Card,Retain
+USR-03394,58,98.2,5,Mobile,Credit Card,Retain
+USR-03395,32,147.4,5,Mobile,Credit Card,Upgrade
+USR-03396,30,136.9,0,Mobile,Credit Card,Retain
+USR-03397,55,67.0,1,Mobile,Credit Card,Retain
+USR-03398,39,7.9,0,Mobile,Credit Card,Churn
+USR-03399,49,55.6,2,Mobile,Bank Transfer,Retain
+USR-03400,12,124.3,4,Smart TV,E-Wallet,Upgrade
+USR-03401,41,105.8,0,Mobile,Credit Card,Retain
+USR-03402,47,70.0,0,Mobile,Credit Card,Retain
+USR-03403,18,10.2,1,Web,E-Wallet,Retain
+USR-03404,21,65.2,2,Web,Credit Card,Retain
+USR-03405,13,71.4,0,Mobile,E-Wallet,Retain
+USR-03406,21,139.4,4,Mobile,Bank Transfer,Churn
+USR-03407,8,96.9,4,Smart TV,E-Wallet,Retain
+USR-03408,46,48.1,0,Mobile,Credit Card,Retain
+USR-03409,40,79.7,5,Smart TV,E-Wallet,Retain
+USR-03410,46,11.8,5,Smart TV,Bank Transfer,Retain
+USR-03411,7,145.9,2,Smart TV,E-Wallet,Upgrade
+USR-03412,23,55.3,4,Mobile,E-Wallet,Retain
+USR-03413,44,72.7,5,Smart TV,Credit Card,Retain
+USR-03414,32,54.6,4,Web,Credit Card,Retain
+USR-03415,11,103.0,2,Smart TV,E-Wallet,Upgrade
+USR-03416,22,100.0,2,Web,Bank Transfer,Retain
+USR-03417,22,107.9,5,Mobile,E-Wallet,Retain
+USR-03418,43,41.7,0,Smart TV,E-Wallet,Retain
+USR-03419,25,48.7,3,Smart TV,Credit Card,Retain
+USR-03420,22,20.5,1,Mobile,Credit Card,Retain
+USR-03421,28,99.0,3,Mobile,E-Wallet,Retain
+USR-03422,29,7.9,3,Mobile,Credit Card,Retain
+USR-03423,13,90.5,4,Smart TV,E-Wallet,Retain
+USR-03424,18,130.7,2,Mobile,Credit Card,Retain
+USR-03425,2,133.8,4,Web,E-Wallet,Retain
+USR-03426,29,68.5,5,Smart TV,Bank Transfer,Retain
+USR-03427,21,70.0,1,Mobile,Credit Card,Retain
+USR-03428,15,13.4,5,Smart TV,Credit Card,Retain
+USR-03429,52,101.3,0,Mobile,E-Wallet,Retain
+USR-03430,27,123.5,1,Mobile,Bank Transfer,Retain
+USR-03431,50,38.2,4,Smart TV,E-Wallet,Retain
+USR-03432,31,64.4,4,Smart TV,Credit Card,Retain
+USR-03433,15,126.1,5,Smart TV,Credit Card,Upgrade
+USR-03434,51,131.8,4,Mobile,Credit Card,Retain
+USR-03435,23,38.0,4,Mobile,Credit Card,Retain
+USR-03436,24,83.5,3,Web,Bank Transfer,Retain
+USR-03437,44,30.5,0,Mobile,Bank Transfer,Retain
+USR-03438,13,17.1,3,Smart TV,Credit Card,Downgrade
+USR-03439,22,136.8,4,Web,Credit Card,Retain
+USR-03440,43,123.4,2,Mobile,Credit Card,Retain
+USR-03441,37,114.5,3,Mobile,Bank Transfer,Retain
+USR-03442,33,9.2,4,Smart TV,E-Wallet,Churn
+USR-03443,56,126.9,4,Smart TV,E-Wallet,Upgrade
+USR-03444,3,66.8,0,Web,Credit Card,Retain
+USR-03445,54,52.7,5,Mobile,E-Wallet,Retain
+USR-03446,19,82.9,1,Smart TV,Credit Card,Retain
+USR-03447,23,15.5,3,Mobile,Credit Card,Downgrade
+USR-03448,29,114.0,3,Web,E-Wallet,Retain
+USR-03449,30,88.2,3,Smart TV,E-Wallet,Retain
+USR-03450,39,29.6,4,Mobile,Credit Card,Retain
+USR-03451,44,29.9,0,Web,Credit Card,Retain
+USR-03452,47,29.3,4,Smart TV,Credit Card,Retain
+USR-03453,25,10.4,4,Mobile,Credit Card,Retain
+USR-03454,37,89.0,5,Mobile,E-Wallet,Retain
+USR-03455,47,126.4,2,Mobile,Bank Transfer,Upgrade
+USR-03456,8,4.6,0,Smart TV,Credit Card,Retain
+USR-03457,42,9.3,3,Smart TV,Credit Card,Churn
+USR-03458,58,86.8,1,Mobile,Credit Card,Retain
+USR-03459,16,123.3,3,Smart TV,E-Wallet,Upgrade
+USR-03460,8,50.4,4,Mobile,Credit Card,Churn
+USR-03461,1,53.7,0,Smart TV,E-Wallet,Retain
+USR-03462,44,90.3,0,Smart TV,Credit Card,Retain
+USR-03463,5,42.6,0,Web,E-Wallet,Retain
+USR-03464,3,5.9,2,Mobile,Bank Transfer,Retain
+USR-03465,1,110.8,3,Web,Bank Transfer,Retain
+USR-03466,4,94.6,2,Smart TV,Bank Transfer,Retain
+USR-03467,40,88.0,5,Mobile,E-Wallet,Retain
+USR-03468,35,111.8,1,Smart TV,Bank Transfer,Retain
+USR-03469,32,101.9,5,Mobile,Credit Card,Retain
+USR-03470,42,32.5,4,Mobile,Credit Card,Retain
+USR-03471,34,54.2,2,Smart TV,Credit Card,Retain
+USR-03472,43,20.7,2,Web,E-Wallet,Downgrade
+USR-03473,25,21.2,5,Smart TV,Bank Transfer,Retain
+USR-03474,10,102.1,4,Mobile,Credit Card,Retain
+USR-03475,21,129.1,0,Web,E-Wallet,Retain
+USR-03476,46,144.5,4,Web,E-Wallet,Retain
+USR-03477,39,95.0,3,Web,Bank Transfer,Retain
+USR-03478,27,29.2,5,Smart TV,E-Wallet,Retain
+USR-03479,27,17.6,4,Smart TV,Bank Transfer,Retain
+USR-03480,2,122.3,0,Smart TV,Credit Card,Upgrade
+USR-03481,41,87.7,4,Mobile,Credit Card,Retain
+USR-03482,48,93.5,2,Mobile,E-Wallet,Retain
+USR-03483,13,117.7,1,Smart TV,Credit Card,Upgrade
+USR-03484,9,106.1,2,Mobile,Credit Card,Retain
+USR-03485,52,125.5,1,Smart TV,E-Wallet,Upgrade
+USR-03486,36,10.3,4,Smart TV,E-Wallet,Retain
+USR-03487,22,112.6,3,Mobile,E-Wallet,Retain
+USR-03488,42,127.9,4,Mobile,Credit Card,Retain
+USR-03489,26,44.3,0,Web,E-Wallet,Retain
+USR-03490,58,96.8,4,Smart TV,Credit Card,Retain
+USR-03491,54,48.5,1,Mobile,Credit Card,Retain
+USR-03492,12,143.8,2,Smart TV,E-Wallet,Upgrade
+USR-03493,17,6.9,3,Smart TV,Credit Card,Churn
+USR-03494,14,87.8,4,Mobile,Credit Card,Retain
+USR-03495,14,26.6,4,Web,E-Wallet,Retain
+USR-03496,57,107.4,2,Smart TV,Credit Card,Upgrade
+USR-03497,34,28.0,3,Smart TV,Bank Transfer,Retain
+USR-03498,53,36.8,5,Mobile,E-Wallet,Retain
+USR-03499,57,75.2,4,Smart TV,Bank Transfer,Retain
+USR-03500,20,137.4,4,Web,Credit Card,Retain
+USR-03501,11,33.3,5,Mobile,E-Wallet,Retain
+USR-03502,16,23.3,1,Smart TV,Credit Card,Retain
+USR-03503,51,114.3,1,Mobile,Bank Transfer,Retain
+USR-03504,31,76.1,0,Mobile,Credit Card,Retain
+USR-03505,55,136.9,2,Smart TV,Credit Card,Upgrade
+USR-03506,6,23.7,3,Mobile,Bank Transfer,Downgrade
+USR-03507,56,97.6,4,Smart TV,Credit Card,Retain
+USR-03508,19,36.5,4,Mobile,Credit Card,Retain
+USR-03509,37,25.2,0,Smart TV,Credit Card,Retain
+USR-03510,58,103.1,4,Web,E-Wallet,Retain
+USR-03511,4,89.9,2,Smart TV,Credit Card,Retain
+USR-03512,47,113.7,0,Smart TV,Credit Card,Upgrade
+USR-03513,4,47.8,2,Web,Credit Card,Retain
+USR-03514,20,68.3,0,Smart TV,E-Wallet,Retain
+USR-03515,10,62.0,4,Smart TV,E-Wallet,Retain
+USR-03516,24,147.6,0,Smart TV,Credit Card,Retain
+USR-03517,54,45.3,1,Smart TV,Credit Card,Retain
+USR-03518,35,45.6,3,Web,Credit Card,Retain
+USR-03519,26,54.5,4,Mobile,Credit Card,Retain
+USR-03520,37,85.6,5,Smart TV,Credit Card,Retain
+USR-03521,38,39.3,3,Mobile,Credit Card,Retain
+USR-03522,21,137.5,4,Mobile,E-Wallet,Retain
+USR-03523,54,41.3,3,Web,Bank Transfer,Retain
+USR-03524,40,134.6,1,Smart TV,Credit Card,Upgrade
+USR-03525,39,17.3,3,Mobile,E-Wallet,Downgrade
+USR-03526,21,99.2,0,Mobile,E-Wallet,Retain
+USR-03527,10,136.2,3,Mobile,E-Wallet,Retain
+USR-03528,38,27.0,4,Mobile,Bank Transfer,Retain
+USR-03529,46,145.3,5,Smart TV,Credit Card,Upgrade
+USR-03530,4,69.0,5,Mobile,Credit Card,Retain
+USR-03531,57,142.0,2,Mobile,E-Wallet,Retain
+USR-03532,45,102.2,3,Web,Credit Card,Retain
+USR-03533,20,46.6,5,Smart TV,Credit Card,Retain
+USR-03534,17,29.9,3,Mobile,Credit Card,Downgrade
+USR-03535,55,47.0,5,Web,Credit Card,Retain
+USR-03536,7,15.8,3,Mobile,E-Wallet,Downgrade
+USR-03537,4,23.3,4,Web,Credit Card,Downgrade
+USR-03538,29,17.5,3,Web,Credit Card,Downgrade
+USR-03539,14,64.6,4,Smart TV,Credit Card,Retain
+USR-03540,3,119.7,4,Mobile,Credit Card,Retain
+USR-03541,24,22.9,2,Smart TV,Bank Transfer,Downgrade
+USR-03542,37,21.3,5,Mobile,Credit Card,Retain
+USR-03543,16,97.2,0,Smart TV,Bank Transfer,Retain
+USR-03544,58,31.2,4,Mobile,E-Wallet,Retain
+USR-03545,55,16.4,5,Mobile,E-Wallet,Retain
+USR-03546,52,26.7,1,Mobile,Credit Card,Retain
+USR-03547,4,138.7,3,Smart TV,Credit Card,Upgrade
+USR-03548,56,123.6,1,Web,Bank Transfer,Retain
+USR-03549,24,54.4,3,Smart TV,Bank Transfer,Retain
+USR-03550,34,99.1,2,Smart TV,Credit Card,Retain
+USR-03551,30,81.5,4,Smart TV,Credit Card,Retain
+USR-03552,18,102.2,0,Web,Credit Card,Retain
+USR-03553,19,103.0,4,Web,Bank Transfer,Retain
+USR-03554,31,95.1,3,Mobile,Credit Card,Retain
+USR-03555,19,41.4,0,Web,E-Wallet,Retain
+USR-03556,49,7.8,4,Smart TV,E-Wallet,Churn
+USR-03557,46,69.4,0,Web,E-Wallet,Retain
+USR-03558,19,133.9,3,Smart TV,E-Wallet,Upgrade
+USR-03559,22,86.3,2,Smart TV,Credit Card,Retain
+USR-03560,24,125.2,2,Smart TV,Bank Transfer,Upgrade
+USR-03561,45,148.8,4,Mobile,E-Wallet,Retain
+USR-03562,12,26.2,1,Mobile,E-Wallet,Retain
+USR-03563,30,104.4,3,Smart TV,Credit Card,Upgrade
+USR-03564,58,101.8,4,Web,E-Wallet,Retain
+USR-03565,38,147.0,4,Mobile,Credit Card,Retain
+USR-03566,53,147.9,2,Smart TV,Credit Card,Upgrade
+USR-03567,31,103.6,0,Mobile,E-Wallet,Retain
+USR-03568,36,38.1,3,Mobile,E-Wallet,Retain
+USR-03569,19,120.2,0,Web,E-Wallet,Retain
+USR-03570,48,17.8,5,Mobile,Credit Card,Downgrade
+USR-03571,45,117.5,5,Mobile,E-Wallet,Retain
+USR-03572,36,136.7,3,Smart TV,Credit Card,Upgrade
+USR-03573,30,58.7,1,Mobile,E-Wallet,Retain
+USR-03574,55,95.3,5,Web,Credit Card,Retain
+USR-03575,49,65.7,2,Smart TV,E-Wallet,Retain
+USR-03576,55,66.8,1,Web,Bank Transfer,Retain
+USR-03577,33,47.9,4,Mobile,Credit Card,Retain
+USR-03578,18,114.8,5,Smart TV,Credit Card,Retain
+USR-03579,52,140.6,2,Web,E-Wallet,Retain
+USR-03580,49,141.2,4,Mobile,E-Wallet,Retain
+USR-03581,59,27.9,1,Smart TV,E-Wallet,Retain
+USR-03582,28,131.5,3,Smart TV,E-Wallet,Upgrade
+USR-03583,59,111.1,4,Smart TV,Credit Card,Upgrade
+USR-03584,47,39.4,0,Web,Credit Card,Retain
+USR-03585,11,12.0,3,Mobile,Credit Card,Downgrade
+USR-03586,57,41.7,3,Web,Credit Card,Retain
+USR-03587,54,137.0,1,Smart TV,E-Wallet,Upgrade
+USR-03588,45,95.7,1,Smart TV,Credit Card,Retain
+USR-03589,33,108.7,2,Smart TV,Bank Transfer,Upgrade
+USR-03590,17,40.1,2,Mobile,Bank Transfer,Retain
+USR-03591,6,108.5,0,Web,Bank Transfer,Retain
+USR-03592,4,6.2,3,Mobile,Bank Transfer,Retain
+USR-03593,20,57.5,0,Smart TV,Credit Card,Retain
+USR-03594,48,94.8,0,Web,Bank Transfer,Retain
+USR-03595,47,23.6,1,Mobile,Credit Card,Retain
+USR-03596,27,123.8,0,Smart TV,Credit Card,Upgrade
+USR-03597,15,36.8,0,Web,E-Wallet,Retain
+USR-03598,6,98.5,4,Smart TV,Credit Card,Retain
+USR-03599,47,62.0,2,Smart TV,Bank Transfer,Retain
+USR-03600,14,90.2,2,Smart TV,E-Wallet,Retain
+USR-03601,11,17.9,3,Mobile,E-Wallet,Downgrade
+USR-03602,39,4.5,2,Mobile,Credit Card,Retain
+USR-03603,9,136.6,5,Smart TV,E-Wallet,Upgrade
+USR-03604,26,41.9,3,Smart TV,Credit Card,Retain
+USR-03605,16,123.3,4,Mobile,Bank Transfer,Retain
+USR-03606,5,149.9,2,Web,Credit Card,Retain
+USR-03607,57,33.3,4,Mobile,E-Wallet,Retain
+USR-03608,52,41.2,2,Smart TV,Credit Card,Retain
+USR-03609,10,100.1,2,Smart TV,Credit Card,Retain
+USR-03610,50,144.9,4,Smart TV,Credit Card,Upgrade
+USR-03611,3,137.5,0,Smart TV,Credit Card,Upgrade
+USR-03612,13,76.4,0,Mobile,E-Wallet,Retain
+USR-03613,43,119.7,0,Mobile,Credit Card,Retain
+USR-03614,49,22.1,5,Mobile,Credit Card,Retain
+USR-03615,30,146.7,0,Mobile,E-Wallet,Retain
+USR-03616,54,144.7,2,Smart TV,Credit Card,Upgrade
+USR-03617,45,26.2,1,Smart TV,Credit Card,Retain
+USR-03618,6,46.3,4,Mobile,Bank Transfer,Retain
+USR-03619,17,16.8,1,Smart TV,Credit Card,Retain
+USR-03620,59,42.2,5,Smart TV,Credit Card,Retain
+USR-03621,45,122.8,1,Smart TV,Credit Card,Upgrade
+USR-03622,51,58.0,3,Smart TV,Credit Card,Retain
+USR-03623,53,15.1,0,Smart TV,E-Wallet,Downgrade
+USR-03624,19,52.6,5,Web,Credit Card,Retain
+USR-03625,42,147.2,2,Web,E-Wallet,Retain
+USR-03626,35,95.2,0,Smart TV,Credit Card,Retain
+USR-03627,46,63.6,0,Smart TV,Credit Card,Retain
+USR-03628,26,26.6,1,Mobile,Credit Card,Retain
+USR-03629,51,148.0,3,Smart TV,E-Wallet,Upgrade
+USR-03630,5,123.5,0,Smart TV,Bank Transfer,Upgrade
+USR-03631,29,43.7,4,Smart TV,E-Wallet,Retain
+USR-03632,37,12.4,4,Smart TV,Bank Transfer,Retain
+USR-03633,20,10.4,0,Mobile,Credit Card,Retain
+USR-03634,49,19.8,1,Web,Credit Card,Retain
+USR-03635,21,88.0,1,Smart TV,Credit Card,Retain
+USR-03636,10,139.5,2,Smart TV,Credit Card,Retain
+USR-03637,5,75.5,5,Smart TV,Credit Card,Retain
+USR-03638,36,126.8,5,Smart TV,Credit Card,Retain
+USR-03639,6,68.0,5,Web,Credit Card,Retain
+USR-03640,26,106.9,3,Mobile,Credit Card,Retain
+USR-03641,4,110.3,1,Mobile,Credit Card,Upgrade
+USR-03642,39,27.7,2,Mobile,Credit Card,Downgrade
+USR-03643,39,55.5,4,Web,Bank Transfer,Retain
+USR-03644,50,96.3,5,Web,Credit Card,Retain
+USR-03645,35,12.5,4,Smart TV,E-Wallet,Retain
+USR-03646,1,55.5,4,Smart TV,E-Wallet,Retain
+USR-03647,24,81.2,0,Mobile,Credit Card,Retain
+USR-03648,57,149.4,3,Smart TV,Credit Card,Upgrade
+USR-03649,36,72.2,2,Web,Credit Card,Retain
+USR-03650,6,122.8,3,Mobile,E-Wallet,Retain
+USR-03651,41,65.9,0,Web,Credit Card,Retain
+USR-03652,54,119.9,2,Smart TV,Credit Card,Retain
+USR-03653,46,90.1,2,Web,Credit Card,Retain
+USR-03654,44,133.2,1,Smart TV,Bank Transfer,Upgrade
+USR-03655,57,62.8,3,Web,Credit Card,Retain
+USR-03656,31,91.4,3,Smart TV,E-Wallet,Retain
+USR-03657,20,95.2,1,Mobile,Credit Card,Retain
+USR-03658,24,63.8,4,Mobile,Bank Transfer,Retain
+USR-03659,25,23.4,0,Mobile,E-Wallet,Retain
+USR-03660,36,15.8,3,Mobile,Credit Card,Downgrade
+USR-03661,21,4.5,1,Web,Bank Transfer,Retain
+USR-03662,30,131.3,2,Mobile,E-Wallet,Retain
+USR-03663,24,37.0,5,Mobile,Credit Card,Retain
+USR-03664,44,33.3,1,Smart TV,Credit Card,Retain
+USR-03665,42,110.9,5,Web,E-Wallet,Retain
+USR-03666,30,49.4,4,Mobile,Bank Transfer,Retain
+USR-03667,22,76.9,0,Mobile,E-Wallet,Retain
+USR-03668,28,26.1,5,Smart TV,E-Wallet,Retain
+USR-03669,7,144.0,4,Mobile,E-Wallet,Retain
+USR-03670,35,128.0,5,Smart TV,Credit Card,Upgrade
+USR-03671,55,129.8,2,Smart TV,E-Wallet,Upgrade
+USR-03672,28,62.2,2,Mobile,Credit Card,Retain
+USR-03673,14,114.8,2,Smart TV,Bank Transfer,Upgrade
+USR-03674,56,23.3,2,Smart TV,E-Wallet,Downgrade
+USR-03675,10,3.3,1,Mobile,E-Wallet,Retain
+USR-03676,16,5.0,2,Smart TV,Credit Card,Retain
+USR-03677,16,88.8,2,Smart TV,Credit Card,Retain
+USR-03678,54,69.4,1,Smart TV,Credit Card,Retain
+USR-03679,31,78.7,2,Mobile,E-Wallet,Retain
+USR-03680,42,3.1,4,Mobile,E-Wallet,Churn
+USR-03681,25,64.6,4,Mobile,Credit Card,Retain
+USR-03682,13,108.3,3,Smart TV,E-Wallet,Upgrade
+USR-03683,6,67.5,4,Smart TV,Bank Transfer,Retain
+USR-03684,44,110.4,0,Smart TV,Credit Card,Retain
+USR-03685,9,36.5,0,Mobile,Credit Card,Retain
+USR-03686,45,122.3,0,Web,E-Wallet,Retain
+USR-03687,36,89.1,1,Smart TV,E-Wallet,Retain
+USR-03688,56,33.2,4,Smart TV,E-Wallet,Retain
+USR-03689,43,37.0,0,Smart TV,E-Wallet,Retain
+USR-03690,20,94.9,3,Mobile,Bank Transfer,Retain
+USR-03691,18,124.8,1,Mobile,Credit Card,Retain
+USR-03692,58,63.5,3,Mobile,Credit Card,Retain
+USR-03693,43,40.2,4,Web,Credit Card,Retain
+USR-03694,57,130.3,2,Mobile,Credit Card,Retain
+USR-03695,21,101.1,3,Smart TV,Credit Card,Upgrade
+USR-03696,4,68.3,2,Smart TV,Credit Card,Retain
+USR-03697,50,74.2,1,Mobile,Bank Transfer,Retain
+USR-03698,33,32.2,3,Mobile,Bank Transfer,Retain
+USR-03699,27,94.8,3,Mobile,Credit Card,Retain
+USR-03700,7,55.1,5,Mobile,E-Wallet,Retain
+USR-03701,6,149.4,1,Mobile,E-Wallet,Retain
+USR-03702,15,73.1,1,Web,Bank Transfer,Retain
+USR-03703,18,73.9,0,Mobile,E-Wallet,Retain
+USR-03704,32,85.7,4,Mobile,Credit Card,Retain
+USR-03705,56,137.7,3,Smart TV,E-Wallet,Retain
+USR-03706,11,120.5,3,Mobile,E-Wallet,Retain
+USR-03707,20,68.8,1,Web,E-Wallet,Retain
+USR-03708,24,108.4,1,Smart TV,Bank Transfer,Upgrade
+USR-03709,15,88.8,4,Mobile,Bank Transfer,Retain
+USR-03710,48,74.9,1,Mobile,E-Wallet,Retain
+USR-03711,7,30.5,2,Smart TV,E-Wallet,Retain
+USR-03712,21,70.7,2,Mobile,Bank Transfer,Retain
+USR-03713,42,38.4,5,Smart TV,Credit Card,Retain
+USR-03714,26,137.4,2,Web,Credit Card,Retain
+USR-03715,44,51.6,2,Web,Credit Card,Retain
+USR-03716,56,142.9,4,Smart TV,Bank Transfer,Upgrade
+USR-03717,14,80.9,3,Smart TV,E-Wallet,Retain
+USR-03718,57,95.5,2,Mobile,Credit Card,Retain
+USR-03719,37,82.4,5,Smart TV,Bank Transfer,Retain
+USR-03720,58,21.1,1,Smart TV,E-Wallet,Retain
+USR-03721,21,57.6,2,Mobile,Bank Transfer,Retain
+USR-03722,18,16.7,5,Smart TV,Credit Card,Retain
+USR-03723,5,94.2,4,Smart TV,E-Wallet,Retain
+USR-03724,3,68.1,1,Web,E-Wallet,Retain
+USR-03725,23,117.1,5,Web,E-Wallet,Retain
+USR-03726,26,34.6,2,Mobile,E-Wallet,Retain
+USR-03727,37,26.4,3,Web,Bank Transfer,Downgrade
+USR-03728,24,62.1,1,Smart TV,Credit Card,Retain
+USR-03729,49,139.1,1,Smart TV,Bank Transfer,Retain
+USR-03730,19,107.1,3,Smart TV,Credit Card,Upgrade
+USR-03731,51,64.0,1,Mobile,Credit Card,Retain
+USR-03732,25,78.6,2,Web,Credit Card,Retain
+USR-03733,21,14.5,1,Mobile,Credit Card,Retain
+USR-03734,12,147.7,2,Web,Credit Card,Retain
+USR-03735,57,100.6,3,Mobile,Bank Transfer,Retain
+USR-03736,41,44.2,0,Smart TV,E-Wallet,Retain
+USR-03737,33,88.7,3,Mobile,Credit Card,Retain
+USR-03738,50,18.2,2,Smart TV,E-Wallet,Downgrade
+USR-03739,53,144.9,4,Smart TV,Credit Card,Upgrade
+USR-03740,4,27.9,3,Mobile,Credit Card,Downgrade
+USR-03741,42,97.9,4,Mobile,E-Wallet,Retain
+USR-03742,57,38.3,4,Mobile,E-Wallet,Retain
+USR-03743,7,108.2,2,Mobile,E-Wallet,Retain
+USR-03744,22,117.0,2,Smart TV,Credit Card,Upgrade
+USR-03745,55,101.7,0,Mobile,E-Wallet,Retain
+USR-03746,33,92.9,5,Mobile,E-Wallet,Retain
+USR-03747,17,134.1,1,Smart TV,Bank Transfer,Retain
+USR-03748,24,13.6,3,Web,Credit Card,Downgrade
+USR-03749,34,51.0,2,Mobile,E-Wallet,Retain
+USR-03750,28,38.7,3,Mobile,E-Wallet,Retain
+USR-03751,58,148.2,5,Web,Bank Transfer,Retain
+USR-03752,43,59.6,5,Web,Credit Card,Retain
+USR-03753,41,110.4,4,Web,E-Wallet,Retain
+USR-03754,39,103.3,1,Smart TV,Credit Card,Upgrade
+USR-03755,22,33.4,0,Smart TV,E-Wallet,Retain
+USR-03756,49,37.4,3,Smart TV,Credit Card,Retain
+USR-03757,17,43.6,1,Smart TV,Credit Card,Retain
+USR-03758,34,62.8,0,Web,E-Wallet,Retain
+USR-03759,6,36.7,3,Mobile,Credit Card,Retain
+USR-03760,46,4.9,1,Smart TV,Credit Card,Churn
+USR-03761,6,132.2,2,Smart TV,Credit Card,Upgrade
+USR-03762,34,144.9,3,Smart TV,Credit Card,Upgrade
+USR-03763,1,52.6,1,Mobile,Bank Transfer,Retain
+USR-03764,10,52.1,5,Mobile,E-Wallet,Retain
+USR-03765,21,3.0,0,Web,Bank Transfer,Retain
+USR-03766,5,102.7,1,Web,Credit Card,Retain
+USR-03767,2,124.2,2,Smart TV,Bank Transfer,Upgrade
+USR-03768,22,23.7,3,Smart TV,Credit Card,Downgrade
+USR-03769,48,25.6,3,Smart TV,E-Wallet,Downgrade
+USR-03770,57,118.9,3,Smart TV,Credit Card,Upgrade
+USR-03771,2,93.2,2,Web,E-Wallet,Retain
+USR-03772,10,8.6,0,Mobile,E-Wallet,Retain
+USR-03773,34,94.1,3,Mobile,Credit Card,Retain
+USR-03774,16,47.7,0,Mobile,Credit Card,Retain
+USR-03775,48,56.6,1,Smart TV,E-Wallet,Retain
+USR-03776,51,115.9,5,Smart TV,Credit Card,Retain
+USR-03777,39,122.0,5,Mobile,Credit Card,Retain
+USR-03778,22,61.3,0,Mobile,Credit Card,Retain
+USR-03779,12,142.2,0,Smart TV,E-Wallet,Upgrade
+USR-03780,24,62.2,5,Mobile,Bank Transfer,Retain
+USR-03781,47,116.2,3,Web,Credit Card,Retain
+USR-03782,40,73.6,4,Mobile,Credit Card,Retain
+USR-03783,38,134.8,4,Mobile,Bank Transfer,Retain
+USR-03784,59,136.3,2,Mobile,E-Wallet,Retain
+USR-03785,10,14.9,5,Mobile,Credit Card,Retain
+USR-03786,35,140.6,5,Mobile,Bank Transfer,Retain
+USR-03787,51,124.2,2,Web,Credit Card,Retain
+USR-03788,49,119.1,4,Smart TV,Credit Card,Upgrade
+USR-03789,32,31.7,1,Mobile,Bank Transfer,Retain
+USR-03790,7,121.2,3,Smart TV,Bank Transfer,Upgrade
+USR-03791,21,127.8,3,Smart TV,Credit Card,Upgrade
+USR-03792,20,44.8,1,Mobile,Credit Card,Retain
+USR-03793,26,142.9,1,Web,Credit Card,Retain
+USR-03794,4,9.4,4,Smart TV,Credit Card,Churn
+USR-03795,46,24.2,2,Smart TV,Credit Card,Downgrade
+USR-03796,52,81.6,1,Smart TV,Credit Card,Retain
+USR-03797,22,87.2,2,Mobile,Bank Transfer,Retain
+USR-03798,15,97.5,0,Smart TV,Bank Transfer,Retain
+USR-03799,56,4.5,3,Smart TV,E-Wallet,Retain
+USR-03800,40,144.1,4,Mobile,E-Wallet,Retain
+USR-03801,21,8.6,3,Smart TV,Credit Card,Churn
+USR-03802,15,23.2,4,Mobile,Credit Card,Retain
+USR-03803,22,4.1,0,Mobile,Credit Card,Retain
+USR-03804,52,85.9,3,Smart TV,E-Wallet,Retain
+USR-03805,28,140.0,0,Mobile,Credit Card,Retain
+USR-03806,14,100.6,4,Mobile,Bank Transfer,Retain
+USR-03807,27,123.8,1,Mobile,E-Wallet,Retain
+USR-03808,41,4.0,3,Mobile,Credit Card,Retain
+USR-03809,40,82.2,0,Smart TV,Credit Card,Retain
+USR-03810,58,70.0,5,Web,E-Wallet,Retain
+USR-03811,28,75.8,3,Mobile,Bank Transfer,Retain
+USR-03812,26,12.7,3,Smart TV,E-Wallet,Downgrade
+USR-03813,49,103.3,3,Smart TV,Credit Card,Upgrade
+USR-03814,2,76.5,2,Smart TV,E-Wallet,Retain
+USR-03815,25,115.2,0,Smart TV,Credit Card,Upgrade
+USR-03816,56,73.8,0,Mobile,Bank Transfer,Retain
+USR-03817,3,24.1,3,Smart TV,E-Wallet,Downgrade
+USR-03818,8,97.9,1,Smart TV,E-Wallet,Retain
+USR-03819,44,27.5,3,Mobile,Credit Card,Retain
+USR-03820,33,131.1,2,Smart TV,E-Wallet,Upgrade
+USR-03821,42,92.7,4,Mobile,Credit Card,Retain
+USR-03822,52,25.3,2,Mobile,Credit Card,Retain
+USR-03823,35,144.4,1,Smart TV,Credit Card,Upgrade
+USR-03824,6,78.7,3,Mobile,Bank Transfer,Retain
+USR-03825,39,12.8,0,Mobile,E-Wallet,Retain
+USR-03826,52,94.8,5,Smart TV,Credit Card,Retain
+USR-03827,23,39.5,3,Smart TV,Bank Transfer,Retain
+USR-03828,25,120.9,1,Mobile,Credit Card,Retain
+USR-03829,59,123.0,0,Web,Credit Card,Upgrade
+USR-03830,50,146.9,2,Mobile,Credit Card,Retain
+USR-03831,43,76.3,4,Smart TV,E-Wallet,Retain
+USR-03832,19,69.3,4,Mobile,E-Wallet,Retain
+USR-03833,5,113.5,3,Mobile,Credit Card,Retain
+USR-03834,51,21.6,2,Mobile,E-Wallet,Downgrade
+USR-03835,11,82.9,5,Mobile,Credit Card,Retain
+USR-03836,56,82.8,5,Mobile,E-Wallet,Retain
+USR-03837,12,15.2,1,Web,Credit Card,Retain
+USR-03838,10,63.9,4,Mobile,E-Wallet,Retain
+USR-03839,8,128.3,2,Mobile,E-Wallet,Retain
+USR-03840,24,128.7,3,Smart TV,E-Wallet,Retain
+USR-03841,28,16.7,0,Web,Credit Card,Retain
+USR-03842,41,15.4,3,Web,E-Wallet,Downgrade
+USR-03843,36,40.9,3,Smart TV,Credit Card,Retain
+USR-03844,37,131.5,2,Mobile,Bank Transfer,Retain
+USR-03845,21,21.1,4,Smart TV,Credit Card,Retain
+USR-03846,8,108.6,2,Mobile,Credit Card,Retain
+USR-03847,55,17.0,0,Mobile,E-Wallet,Downgrade
+USR-03848,9,94.2,2,Smart TV,E-Wallet,Retain
+USR-03849,47,54.7,1,Web,Credit Card,Retain
+USR-03850,15,118.8,3,Smart TV,Bank Transfer,Upgrade
+USR-03851,48,36.6,4,Mobile,Bank Transfer,Retain
+USR-03852,46,96.6,5,Mobile,E-Wallet,Retain
+USR-03853,40,36.9,0,Smart TV,Credit Card,Retain
+USR-03854,18,107.6,5,Smart TV,E-Wallet,Upgrade
+USR-03855,42,131.3,3,Smart TV,Credit Card,Upgrade
+USR-03856,20,20.8,2,Mobile,Credit Card,Downgrade
+USR-03857,6,130.3,5,Mobile,Bank Transfer,Retain
+USR-03858,12,89.8,1,Smart TV,Bank Transfer,Retain
+USR-03859,2,20.8,2,Smart TV,Bank Transfer,Downgrade
+USR-03860,7,65.3,3,Smart TV,Credit Card,Retain
+USR-03861,16,25.8,5,Mobile,Credit Card,Downgrade
+USR-03862,3,105.7,0,Mobile,Credit Card,Retain
+USR-03863,45,114.3,5,Smart TV,Credit Card,Retain
+USR-03864,3,17.7,5,Mobile,Credit Card,Retain
+USR-03865,27,76.9,4,Smart TV,Credit Card,Retain
+USR-03866,50,122.6,5,Web,E-Wallet,Retain
+USR-03867,43,140.6,3,Web,E-Wallet,Retain
+USR-03868,40,78.0,0,Mobile,E-Wallet,Retain
+USR-03869,38,142.6,3,Web,Bank Transfer,Retain
+USR-03870,33,81.3,1,Web,Credit Card,Retain
+USR-03871,28,60.3,2,Web,Credit Card,Retain
+USR-03872,1,127.5,5,Mobile,E-Wallet,Retain
+USR-03873,55,75.0,4,Smart TV,E-Wallet,Retain
+USR-03874,8,71.8,0,Smart TV,E-Wallet,Retain
+USR-03875,37,74.6,4,Smart TV,Credit Card,Retain
+USR-03876,32,127.3,4,Mobile,Credit Card,Retain
+USR-03877,48,125.1,4,Smart TV,E-Wallet,Upgrade
+USR-03878,43,61.7,5,Smart TV,Bank Transfer,Retain
+USR-03879,37,51.3,0,Mobile,Bank Transfer,Retain
+USR-03880,4,74.8,0,Smart TV,E-Wallet,Retain
+USR-03881,30,86.8,4,Mobile,E-Wallet,Retain
+USR-03882,6,37.3,2,Web,Bank Transfer,Retain
+USR-03883,46,119.5,5,Mobile,E-Wallet,Retain
+USR-03884,54,74.0,5,Mobile,E-Wallet,Retain
+USR-03885,19,51.4,3,Mobile,Bank Transfer,Retain
+USR-03886,32,17.8,5,Mobile,E-Wallet,Retain
+USR-03887,9,37.3,4,Smart TV,Bank Transfer,Retain
+USR-03888,12,142.5,1,Web,Credit Card,Retain
+USR-03889,11,47.2,4,Smart TV,E-Wallet,Retain
+USR-03890,46,27.0,0,Smart TV,Bank Transfer,Retain
+USR-03891,55,70.2,5,Mobile,Credit Card,Retain
+USR-03892,16,47.4,5,Smart TV,E-Wallet,Retain
+USR-03893,1,7.2,3,Smart TV,Credit Card,Retain
+USR-03894,45,49.8,1,Smart TV,Bank Transfer,Retain
+USR-03895,55,82.5,5,Smart TV,E-Wallet,Retain
+USR-03896,53,83.7,3,Smart TV,Credit Card,Retain
+USR-03897,21,54.8,3,Smart TV,Credit Card,Retain
+USR-03898,30,68.2,1,Mobile,E-Wallet,Retain
+USR-03899,13,144.9,4,Web,E-Wallet,Retain
+USR-03900,34,57.8,4,Smart TV,Credit Card,Retain
+USR-03901,4,40.2,4,Web,Bank Transfer,Retain
+USR-03902,28,38.0,2,Smart TV,E-Wallet,Retain
+USR-03903,38,69.7,4,Smart TV,E-Wallet,Retain
+USR-03904,58,114.4,1,Smart TV,Credit Card,Upgrade
+USR-03905,31,32.5,2,Mobile,Bank Transfer,Retain
+USR-03906,59,107.0,4,Mobile,Credit Card,Retain
+USR-03907,55,5.1,2,Mobile,E-Wallet,Retain
+USR-03908,27,64.0,1,Mobile,Bank Transfer,Retain
+USR-03909,5,116.8,4,Mobile,Credit Card,Retain
+USR-03910,25,52.1,0,Mobile,E-Wallet,Retain
+USR-03911,3,85.4,5,Web,Credit Card,Retain
+USR-03912,33,32.3,1,Smart TV,E-Wallet,Retain
+USR-03913,4,111.8,3,Smart TV,E-Wallet,Retain
+USR-03914,25,9.7,3,Mobile,Bank Transfer,Retain
+USR-03915,20,128.2,1,Mobile,Bank Transfer,Retain
+USR-03916,34,31.3,3,Smart TV,E-Wallet,Retain
+USR-03917,26,131.4,1,Smart TV,E-Wallet,Upgrade
+USR-03918,5,54.2,0,Mobile,E-Wallet,Retain
+USR-03919,35,109.0,1,Mobile,Credit Card,Retain
+USR-03920,28,49.2,4,Smart TV,E-Wallet,Retain
+USR-03921,29,136.1,4,Web,Bank Transfer,Retain
+USR-03922,9,20.7,2,Mobile,Credit Card,Downgrade
+USR-03923,52,28.4,3,Mobile,Credit Card,Downgrade
+USR-03924,38,75.0,5,Mobile,Credit Card,Retain
+USR-03925,50,14.1,3,Web,Credit Card,Retain
+USR-03926,6,31.0,1,Smart TV,Credit Card,Retain
+USR-03927,19,141.7,5,Smart TV,Credit Card,Upgrade
+USR-03928,44,146.5,5,Mobile,Credit Card,Retain
+USR-03929,57,57.7,3,Mobile,E-Wallet,Retain
+USR-03930,11,138.6,5,Smart TV,Credit Card,Upgrade
+USR-03931,2,82.6,5,Web,E-Wallet,Retain
+USR-03932,47,41.9,4,Mobile,Bank Transfer,Retain
+USR-03933,44,106.0,0,Smart TV,Bank Transfer,Upgrade
+USR-03934,44,99.5,1,Smart TV,E-Wallet,Retain
+USR-03935,9,148.4,3,Smart TV,Credit Card,Upgrade
+USR-03936,21,41.2,4,Mobile,Bank Transfer,Retain
+USR-03937,24,101.5,2,Web,E-Wallet,Retain
+USR-03938,34,9.7,5,Mobile,Credit Card,Churn
+USR-03939,22,18.8,5,Web,Credit Card,Retain
+USR-03940,3,2.6,3,Web,Credit Card,Retain
+USR-03941,12,149.9,0,Mobile,Credit Card,Retain
+USR-03942,28,120.7,0,Mobile,Credit Card,Retain
+USR-03943,30,118.4,3,Mobile,Bank Transfer,Retain
+USR-03944,26,77.4,3,Mobile,E-Wallet,Retain
+USR-03945,48,46.4,4,Smart TV,E-Wallet,Retain
+USR-03946,21,24.4,3,Mobile,Bank Transfer,Downgrade
+USR-03947,28,44.1,2,Smart TV,E-Wallet,Retain
+USR-03948,56,57.6,4,Web,Bank Transfer,Retain
+USR-03949,26,113.9,5,Web,Bank Transfer,Retain
+USR-03950,33,81.9,5,Smart TV,Credit Card,Retain
+USR-03951,21,13.5,5,Smart TV,Bank Transfer,Retain
+USR-03952,35,4.7,5,Mobile,E-Wallet,Churn
+USR-03953,52,17.1,1,Mobile,Credit Card,Retain
+USR-03954,34,62.8,2,Smart TV,E-Wallet,Retain
+USR-03955,41,140.1,4,Mobile,E-Wallet,Retain
+USR-03956,51,96.3,4,Smart TV,Bank Transfer,Retain
+USR-03957,47,120.7,5,Smart TV,Credit Card,Upgrade
+USR-03958,18,71.0,0,Smart TV,E-Wallet,Retain
+USR-03959,58,55.5,4,Smart TV,Credit Card,Retain
+USR-03960,11,18.0,2,Mobile,Credit Card,Downgrade
+USR-03961,57,131.6,3,Web,Credit Card,Retain
+USR-03962,23,117.9,2,Mobile,E-Wallet,Retain
+USR-03963,48,26.9,5,Mobile,Bank Transfer,Retain
+USR-03964,22,77.8,5,Smart TV,Credit Card,Retain
+USR-03965,17,74.1,1,Mobile,E-Wallet,Retain
+USR-03966,5,94.5,4,Smart TV,Credit Card,Churn
+USR-03967,44,142.0,4,Mobile,Credit Card,Retain
+USR-03968,11,87.8,4,Web,E-Wallet,Retain
+USR-03969,30,82.0,5,Smart TV,Credit Card,Retain
+USR-03970,15,9.4,4,Mobile,E-Wallet,Churn
+USR-03971,27,11.3,0,Smart TV,Credit Card,Retain
+USR-03972,35,29.7,0,Smart TV,Credit Card,Retain
+USR-03973,33,6.8,3,Smart TV,E-Wallet,Churn
+USR-03974,20,112.0,4,Smart TV,E-Wallet,Retain
+USR-03975,16,109.1,1,Smart TV,Credit Card,Upgrade
+USR-03976,34,22.1,3,Smart TV,E-Wallet,Downgrade
+USR-03977,2,125.7,5,Mobile,Bank Transfer,Retain
+USR-03978,35,24.9,4,Smart TV,E-Wallet,Retain
+USR-03979,40,46.6,0,Mobile,Credit Card,Retain
+USR-03980,56,38.8,1,Web,E-Wallet,Retain
+USR-03981,28,57.1,3,Mobile,E-Wallet,Retain
+USR-03982,47,39.7,1,Smart TV,Credit Card,Retain
+USR-03983,39,74.4,4,Smart TV,Bank Transfer,Retain
+USR-03984,6,62.3,2,Web,Bank Transfer,Retain
+USR-03985,9,148.0,1,Mobile,Bank Transfer,Retain
+USR-03986,20,10.3,1,Mobile,Bank Transfer,Retain
+USR-03987,1,23.0,5,Smart TV,E-Wallet,Retain
+USR-03988,8,9.8,0,Mobile,E-Wallet,Retain
+USR-03989,55,94.6,4,Smart TV,E-Wallet,Retain
+USR-03990,23,10.1,1,Web,Bank Transfer,Retain
+USR-03991,3,125.8,4,Web,E-Wallet,Retain
+USR-03992,4,77.8,0,Smart TV,Credit Card,Retain
+USR-03993,58,80.0,5,Mobile,Credit Card,Retain
+USR-03994,25,85.1,4,Smart TV,Bank Transfer,Retain
+USR-03995,47,27.3,0,Mobile,Credit Card,Retain
+USR-03996,38,31.3,0,Web,E-Wallet,Retain
+USR-03997,15,49.2,3,Mobile,Bank Transfer,Retain
+USR-03998,21,89.8,5,Smart TV,E-Wallet,Retain
+USR-03999,35,33.1,5,Smart TV,Bank Transfer,Retain
+USR-04000,57,19.2,4,Web,E-Wallet,Retain
